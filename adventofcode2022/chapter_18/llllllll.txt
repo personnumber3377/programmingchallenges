@@ -1,0 +1,2506 @@
+Cube thing: 
+[[[False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]]
+
+ [[False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]]
+
+ [[False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False  True False False  True False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]]
+
+ [[False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False  True False False  True False False]
+  [False False  True  True  True  True False  True False]
+  [False False False  True False False  True False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]]
+
+ [[False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False  True False False]
+  [False False False  True False  True False  True False]
+  [False False False False False False  True False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]]
+
+ [[False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False  True False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]]
+
+ [[False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]]
+
+ [[False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]]
+
+ [[False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]]]
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 0.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 0.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 0.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+marked_cube[index_thing[0],index_thing[1],index_thing[2]] == 1.0
+Here is the rock:
+[[[False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]]
+
+ [[False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]]
+
+ [[False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False  True False False  True False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]]
+
+ [[False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False  True False False  True False False]
+  [False False  True  True  True  True  True  True False]
+  [False False False  True False False  True False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]]
+
+ [[False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False  True False False]
+  [False False False  True False  True  True  True False]
+  [False False False False False False  True False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]]
+
+ [[False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False  True False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]]
+
+ [[False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]]
+
+ [[False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]]
+
+ [[False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]
+  [False False False False False False False False False]]]
+Passed!
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+shit
+poopoo
+poopoo
+poopoo
+poopoo
+poopoo
+poopoo
+result: 
+[[[255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]]
+
+ [[255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]]
+
+ [[255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255.   0.   0.]
+  [255. 255. 255.]
+  [255. 255. 255.]]
+
+ [[255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255.   0.   0.]
+  [255. 255. 255.]
+  [255.   0.   0.]
+  [255.   0.   0.]
+  [255.   0.   0.]
+  [255. 255. 255.]]
+
+ [[255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255.   0.   0.]
+  [255. 255. 255.]
+  [255. 255. 255.]]
+
+ [[255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]]
+
+ [[255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]]
+
+ [[255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]]
+
+ [[255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]
+  [255. 255. 255.]]]
+(x,y,z) == (2,3,3)
+(x,y,z) == (2,3,6)
+(x,y,z) == (3,2,3)
+(x,y,z) == (3,2,6)
+(x,y,z) == (3,3,2)
+(x,y,z) == (3,3,3)
+(x,y,z) == (3,3,4)
+(x,y,z) == (3,3,5)
+(x,y,z) == (3,3,6)
+(x,y,z) == (3,3,7)
+(x,y,z) == (3,4,3)
+(x,y,z) == (3,4,6)
+(x,y,z) == (4,2,6)
+(x,y,z) == (4,3,3)
+(x,y,z) == (4,3,5)
+(x,y,z) == (4,3,6)
+(x,y,z) == (4,3,7)
+(x,y,z) == (4,4,6)
+(x,y,z) == (5,3,6)
+70

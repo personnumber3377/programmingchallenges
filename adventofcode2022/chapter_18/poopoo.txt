@@ -1,0 +1,26 @@
+
+			# def check_stuff(x,y,z,marked_cube,new_marked_stuff):     return marked_cube, new_marked_stuff
+
+			'''
+			if x == 0:
+				
+				if marked_cube[x+1,y,z] != 1 and cube[x+1,y,z] != 1:
+					
+					new_marked_stuff.append([x+1,y,z])
+					marked_cube[x+1,y,z] = 1
+
+			else:
+
+				if marked_cube[x+1,y,z] != 1 and cube[x+1,y,z] != 1:
+					
+					new_marked_stuff.append([x+1,y,z])
+					marked_cube[x+1,y,z] = 1
+
+				if marked_cube[x-1,y,z] != 1 and cube[x-1,y,z] != 1:
+					
+					new_marked_stuff.append([x+1,y,z])
+					marked_cube[x-1,y,z] = 1
+			'''
+
+
+	#return marked_cube

@@ -1,0 +1,745 @@
+Collision with (7, 3)
+Collision with (6, 3)
+Collision with (6, 3)
+i == 3
+Proposed move for place (5, 3) is 1
+Collision with (7, 2)
+Collision with (7, 4)
+Collision with (5, 3)
+Collision with (7, 3)
+Collision with (7, 2)
+Collision with (7, 4)
+Collision with (7, 2)
+Collision with (7, 4)
+Collision with (6, 3)
+i == 9
+Proposed move for place (7, 3) is 3
+Collision with (9, 4)
+i == 6
+Proposed move for place (9, 3) is 2
+i == 3
+Proposed move for place (3, 4) is 1
+Collision with (7, 3)
+Collision with (6, 3)
+Collision with (8, 5)
+Collision with (6, 3)
+Collision with (8, 5)
+Collision with (9, 3)
+Collision with (9, 5)
+Collision with (8, 5)
+Collision with (8, 5)
+Collision with (3, 4)
+Collision with (5, 6)
+Collision with (3, 6)
+Collision with (3, 4)
+Collision with (3, 6)
+Collision with (5, 6)
+Collision with (9, 4)
+Collision with (7, 4)
+Collision with (7, 6)
+Collision with (7, 4)
+Collision with (7, 6)
+Collision with (9, 5)
+Collision with (9, 4)
+Collision with (9, 4)
+i == 3
+Proposed move for place (9, 5) is 1
+Collision with (4, 5)
+Collision with (3, 7)
+Collision with (4, 7)
+i == 9
+Proposed move for place (3, 6) is 3
+Collision with (4, 5)
+Collision with (6, 7)
+Collision with (4, 7)
+Collision with (4, 5)
+Collision with (4, 7)
+Collision with (6, 6)
+Collision with (6, 7)
+Collision with (6, 7)
+Collision with (5, 6)
+Collision with (7, 6)
+Collision with (8, 5)
+Collision with (8, 7)
+Collision with (6, 7)
+Collision with (6, 6)
+Collision with (6, 7)
+Collision with (8, 5)
+Collision with (8, 7)
+Collision with (3, 6)
+i == 3
+Proposed move for place (3, 7) is 1
+Collision with (5, 6)
+Collision with (3, 6)
+Collision with (4, 8)
+Collision with (3, 7)
+Collision with (3, 6)
+Collision with (5, 6)
+Collision with (6, 6)
+Collision with (7, 6)
+Collision with (5, 6)
+Collision with (7, 8)
+Collision with (5, 6)
+Collision with (7, 6)
+Collision with (7, 8)
+Collision with (7, 6)
+Collision with (7, 8)
+Collision with (7, 6)
+Collision with (7, 8)
+Collision with (9, 7)
+i == 3
+Proposed move for place (9, 7) is 1
+Collision with (4, 7)
+Collision with (3, 7)
+i == 6
+Proposed move for place (4, 8) is 2
+Collision with (8, 7)
+Collision with (6, 7)
+i == 6
+Proposed move for place (7, 8) is 2
+Collision with (7, 3)
+Collision with (6, 3)
+Collision with (6, 3)
+Collision with (7, 2)
+Collision with (7, 4)
+Collision with (5, 4)
+Collision with (5, 4)
+Collision with (7, 3)
+Collision with (7, 2)
+Collision with (7, 4)
+Collision with (7, 4)
+Collision with (6, 3)
+i == 9
+Proposed move for place (7, 3) is 3
+Collision with (9, 4)
+i == 6
+Proposed move for place (9, 3) is 2
+Collision with (6, 3)
+Collision with (8, 5)
+Collision with (6, 3)
+i == 9
+Proposed move for place (7, 4) is 3
+i == 3
+Proposed move for place (9, 4) is 1
+Collision with (5, 4)
+Collision with (4, 6)
+Collision with (5, 6)
+Collision with (3, 5)
+Collision with (5, 4)
+Collision with (5, 6)
+Collision with (9, 4)
+Collision with (7, 4)
+Collision with (9, 6)
+Collision with (7, 6)
+Collision with (7, 4)
+Collision with (7, 6)
+Collision with (9, 4)
+Collision with (9, 6)
+Collision with (4, 5)
+Collision with (6, 7)
+Collision with (4, 7)
+Collision with (4, 6)
+Collision with (4, 5)
+Collision with (4, 7)
+Collision with (6, 6)
+Collision with (6, 7)
+Collision with (6, 7)
+Collision with (5, 6)
+Collision with (7, 6)
+Collision with (8, 5)
+Collision with (8, 7)
+Collision with (6, 7)
+Collision with (6, 6)
+Collision with (6, 7)
+Collision with (8, 5)
+Collision with (8, 7)
+Collision with (4, 6)
+Collision with (4, 8)
+i == 6
+Proposed move for place (3, 7) is 2
+Collision with (5, 6)
+Collision with (4, 8)
+Collision with (3, 7)
+Collision with (5, 6)
+Collision with (4, 6)
+Collision with (7, 6)
+Collision with (5, 6)
+Collision with (6, 8)
+Collision with (5, 6)
+Collision with (7, 6)
+Collision with (6, 6)
+Collision with (9, 6)
+Collision with (7, 6)
+Collision with (9, 8)
+Collision with (7, 6)
+Collision with (9, 6)
+Collision with (9, 8)
+Collision with (3, 7)
+Collision with (3, 7)
+i == 9
+Proposed move for place (4, 8) is 3
+Collision with (6, 3)
+i == 3
+Proposed move for place (5, 4) is 1
+Collision with (4, 6)
+i == 6
+Proposed move for place (3, 5) is 2
+Collision with (8, 5)
+Collision with (8, 7)
+Collision with (8, 5)
+Collision with (8, 7)
+Collision with (3, 5)
+Collision with (4, 7)
+Collision with (3, 7)
+Collision with (3, 5)
+Collision with (3, 7)
+Collision with (5, 6)
+Collision with (4, 5)
+Collision with (8, 7)
+Collision with (8, 7)
+i == 9
+Proposed move for place (9, 8) is 3
+i == 3
+Proposed move for place (6, 8) is 1
+Collision with (7, 3)
+Collision with (6, 3)
+Collision with (6, 3)
+i == 9
+Proposed move for place (7, 2) is 3
+i == 3
+Proposed move for place (6, 3) is 1
+Collision with (8, 4)
+Collision with (6, 3)
+Collision with (8, 4)
+Collision with (7, 2)
+Collision with (8, 4)
+Collision with (8, 4)
+i == 9
+Proposed move for place (9, 3) is 3
+Collision with (4, 6)
+Collision with (5, 6)
+i == 6
+Proposed move for place (4, 5) is 2
+Collision with (9, 6)
+Collision with (7, 6)
+Collision with (7, 6)
+Collision with (9, 5)
+Collision with (9, 6)
+Collision with (8, 4)
+Collision with (4, 5)
+Collision with (6, 7)
+Collision with (4, 7)
+Collision with (4, 6)
+Collision with (4, 5)
+Collision with (4, 7)
+Collision with (6, 6)
+Collision with (6, 7)
+Collision with (5, 5)
+Collision with (5, 5)
+Collision with (6, 7)
+Collision with (5, 6)
+Collision with (5, 5)
+Collision with (7, 6)
+Collision with (8, 7)
+Collision with (6, 7)
+Collision with (6, 6)
+Collision with (6, 7)
+Collision with (8, 5)
+Collision with (8, 7)
+Collision with (8, 5)
+Collision with (5, 8)
+i == 6
+Proposed move for place (4, 7) is 2
+Collision with (5, 6)
+Collision with (5, 8)
+Collision with (5, 6)
+Collision with (5, 8)
+Collision with (7, 6)
+Collision with (6, 6)
+Collision with (7, 6)
+Collision with (7, 6)
+i == 3
+Proposed move for place (8, 7) is 1
+Collision with (8, 5)
+Collision with (8, 7)
+Collision with (8, 5)
+Collision with (8, 7)
+i == 9
+Proposed move for place (9, 6) is 3
+Collision with (4, 7)
+i == 6
+Proposed move for place (4, 6) is 2
+Collision with (7, 3)
+Collision with (8, 5)
+Collision with (9, 5)
+Collision with (7, 3)
+Collision with (9, 3)
+Collision with (9, 5)
+Collision with (9, 3)
+Collision with (8, 4)
+Collision with (9, 6)
+Collision with (8, 5)
+Collision with (8, 4)
+i == 9
+Proposed move for place (9, 5) is 3
+Collision with (4, 7)
+Collision with (6, 9)
+Collision with (4, 7)
+Collision with (6, 7)
+Collision with (6, 9)
+Collision with (6, 7)
+Collision with (5, 6)
+Collision with (6, 6)
+Collision with (4, 6)
+Collision with (4, 5)
+Collision with (4, 6)
+Collision with (6, 6)
+Collision with (5, 8)
+i == 3
+Proposed move for place (6, 9) is 1
+Collision with (8, 4)
+Collision with (6, 4)
+Collision with (6, 4)
+Collision with (8, 2)
+Collision with (8, 4)
+Collision with (8, 2)
+Collision with (7, 6)
+Collision with (7, 6)
+Collision with (8, 4)
+Collision with (6, 7)
+Collision with (6, 6)
+Collision with (6, 7)
+Collision with (5, 5)
+Collision with (6, 7)
+Collision with (5, 6)
+Collision with (5, 5)
+Collision with (7, 6)
+i == 9
+Proposed move for place (6, 6) is 0
+Collision with (6, 7)
+Collision with (6, 6)
+Collision with (6, 7)
+Collision with (8, 5)
+Collision with (8, 5)
+Collision with (5, 8)
+Collision with (5, 6)
+Collision with (5, 8)
+Collision with (7, 6)
+Collision with (6, 6)
+Collision with (7, 6)
+Collision with (5, 6)
+Collision with (8, 5)
+i == 3
+Proposed move for place (8, 4) is 2
+i == 3
+Proposed move for place (2, 7) is 2
+i == 3
+Proposed move for place (5, 8) is 2
+Collision with (5, 6)
+Collision with (6, 6)
+i == 6
+Proposed move for place (5, 5) is 3
+Collision with (3, 6)
+Collision with (3, 5)
+Collision with (3, 6)
+Collision with (7, 3)
+Collision with (7, 3)
+i == 9
+Proposed move for place (8, 2) is 0
+Collision with (5, 5)
+Collision with (5, 5)
+Collision with (7, 3)
+Collision with (7, 3)
+Collision with (3, 6)
+Collision with (2, 5)
+i == 6
+Proposed move for place (3, 5) is 3
+Collision with (2, 7)
+i == 6
+Proposed move for place (3, 7) is 3
+i == 3
+Proposed move for place (10, 6) is 2
+Collision with (3, 7)
+Collision with (2, 7)
+Collision with (2, 5)
+Collision with (2, 7)
+Collision with (3, 5)
+Collision with (2, 5)
+Collision with (10, 6)
+i == 3
+Proposed move for place (10, 5) is 2
+Collision with (6, 4)
+Collision with (6, 4)
+i == 9
+Proposed move for place (7, 3) is 0
+Collision with (9, 6)
+Collision with (7, 6)
+Collision with (7, 4)
+Collision with (7, 6)
+Collision with (9, 5)
+Collision with (9, 6)
+Collision with (7, 4)
+Collision with (6, 7)
+Collision with (4, 7)
+Collision with (4, 5)
+Collision with (4, 7)
+Collision with (6, 6)
+Collision with (6, 7)
+Collision with (5, 5)
+Collision with (4, 5)
+Collision with (5, 6)
+Collision with (5, 5)
+Collision with (7, 6)
+i == 9
+Proposed move for place (6, 6) is 0
+Collision with (6, 7)
+Collision with (6, 6)
+Collision with (6, 7)
+Collision with (8, 5)
+Collision with (8, 5)
+Collision with (5, 6)
+Collision with (7, 6)
+Collision with (6, 6)
+Collision with (7, 6)
+Collision with (5, 6)
+Collision with (6, 6)
+Collision with (4, 5)
+Collision with (6, 4)
+Collision with (6, 6)
+Collision with (6, 4)
+Collision with (5, 6)
+Collision with (3, 6)
+i == 3
+Proposed move for place (2, 5) is 2
+Collision with (5, 5)
+Collision with (5, 5)
+Collision with (7, 4)
+Collision with (7, 3)
+Collision with (7, 3)
+Collision with (4, 7)
+Collision with (2, 5)
+Collision with (4, 5)
+Collision with (4, 7)
+Collision with (4, 5)
+Collision with (2, 5)
+Collision with (8, 5)
+Collision with (6, 4)
+i == 6
+Proposed move for place (7, 4) is 3
+i == 3
+Proposed move for place (4, 8) is 2
+Collision with (5, 6)
+Collision with (3, 6)
+Collision with (3, 6)
+Collision with (5, 5)
+Collision with (5, 6)
+Collision with (3, 6)
+Collision with (5, 6)
+Collision with (5, 6)
+Collision with (3, 6)
+Collision with (4, 8)
+Collision with (8, 5)
+i == 6
+Proposed move for place (9, 6) is 3
+Collision with (8, 5)
+i == 6
+Proposed move for place (9, 5) is 3
+Collision with (7, 6)
+Collision with (7, 6)
+i == 6
+Proposed move for place (8, 5) is 3
+Collision with (4, 7)
+Collision with (4, 5)
+Collision with (4, 7)
+Collision with (6, 5)
+Collision with (6, 7)
+Collision with (5, 5)
+Collision with (6, 5)
+Collision with (4, 5)
+Collision with (6, 7)
+Collision with (6, 7)
+Collision with (6, 5)
+Collision with (6, 7)
+Collision with (8, 5)
+Collision with (8, 5)
+Collision with (6, 5)
+Collision with (5, 6)
+Collision with (7, 6)
+Collision with (7, 6)
+Collision with (5, 6)
+Collision with (4, 5)
+Collision with (6, 5)
+Collision with (6, 4)
+Collision with (6, 4)
+Collision with (5, 6)
+Collision with (5, 5)
+Collision with (5, 5)
+i == 6
+Proposed move for place (6, 4) is 3
+i == 3
+Proposed move for place (3, 6) is 2
+Collision with (7, 2)
+Collision with (7, 2)
+i == 6
+Proposed move for place (8, 1) is 3
+Collision with (3, 6)
+Collision with (3, 6)
+Collision with (5, 5)
+Collision with (5, 6)
+i == 9
+Proposed move for place (4, 5) is 0
+Collision with (3, 8)
+Collision with (3, 6)
+Collision with (3, 8)
+Collision with (5, 6)
+Collision with (5, 6)
+Collision with (3, 6)
+i == 3
+Proposed move for place (7, 2) is 2
+Collision with (5, 6)
+Collision with (5, 5)
+Collision with (5, 6)
+Collision with (7, 6)
+Collision with (6, 4)
+Collision with (7, 6)
+i == 3
+Proposed move for place (8, 4) is 2
+i == 3
+Proposed move for place (3, 8) is 2
+i == 3
+Proposed move for place (10, 6) is 2
+i == 3
+Proposed move for place (10, 5) is 2
+Collision with (7, 6)
+Collision with (9, 6)
+Collision with (8, 4)
+i == 9
+Proposed move for place (8, 5) is 1
+Collision with (4, 7)
+Collision with (6, 5)
+Collision with (6, 7)
+Collision with (5, 5)
+Collision with (6, 5)
+Collision with (6, 7)
+Collision with (4, 7)
+Collision with (6, 5)
+Collision with (6, 7)
+Collision with (8, 5)
+Collision with (8, 5)
+Collision with (6, 5)
+Collision with (6, 7)
+Collision with (5, 6)
+Collision with (7, 6)
+Collision with (7, 6)
+Collision with (5, 6)
+Collision with (4, 4)
+Collision with (6, 5)
+Collision with (6, 4)
+Collision with (6, 4)
+Collision with (4, 4)
+Collision with (5, 6)
+Collision with (5, 5)
+i == 6
+Proposed move for place (6, 4) is 0
+i == 3
+Proposed move for place (1, 7) is 3
+i == 3
+Proposed move for place (4, 7) is 3
+Collision with (5, 5)
+Collision with (5, 6)
+Collision with (7, 6)
+Collision with (6, 4)
+i == 9
+Proposed move for place (6, 5) is 1
+i == 3
+Proposed move for place (1, 5) is 3
+i == 3
+Proposed move for place (8, 4) is 3
+Collision with (9, 6)
+i == 6
+Proposed move for place (10, 5) is 0
+Collision with (1, 5)
+Collision with (1, 7)
+i == 6
+Proposed move for place (2, 6) is 0
+i == 3
+Proposed move for place (4, 4) is 3
+Collision with (1, 7)
+i == 6
+Proposed move for place (2, 8) is 0
+Collision with (8, 5)
+Collision with (10, 5)
+Collision with (10, 5)
+Collision with (8, 5)
+Collision with (6, 6)
+Collision with (6, 7)
+Collision with (5, 5)
+Collision with (5, 7)
+Collision with (6, 7)
+Collision with (6, 7)
+Collision with (8, 6)
+i == 6
+Proposed move for place (7, 6) is 0
+Collision with (5, 6)
+Collision with (7, 6)
+Collision with (6, 6)
+Collision with (7, 6)
+Collision with (5, 6)
+Collision with (5, 7)
+i == 3
+Proposed move for place (5, 5) is 3
+Collision with (9, 4)
+i == 6
+Proposed move for place (10, 3) is 0
+Collision with (2, 6)
+Collision with (2, 8)
+Collision with (2, 6)
+Collision with (2, 8)
+i == 3
+Proposed move for place (1, 5) is 3
+Collision with (1, 5)
+Collision with (1, 7)
+i == 6
+Proposed move for place (2, 6) is 0
+i == 3
+Proposed move for place (6, 2) is 3
+Collision with (1, 7)
+i == 3
+Proposed move for place (2, 8) is 3
+i == 3
+Proposed move for place (9, 6) is 3
+Collision with (9, 6)
+i == 6
+Proposed move for place (8, 6) is 0
+Collision with (5, 4)
+Collision with (6, 2)
+i == 9
+Proposed move for place (6, 3) is 1
+Collision with (6, 7)
+Collision with (6, 6)
+Collision with (5, 6)
+Collision with (6, 6)
+i == 9
+Proposed move for place (5, 7) is 1
+Collision with (5, 5)
+Collision with (5, 7)
+Collision with (7, 6)
+i == 6
+Proposed move for place (6, 6) is 0
+Collision with (10, 4)
+Collision with (10, 3)
+Collision with (10, 3)
+i == 9
+Proposed move for place (9, 4) is 1
+i == 3
+Proposed move for place (10, 4) is 3
+Collision with (6, 3)
+Collision with (6, 3)
+Collision with (5, 5)
+Collision with (6, 6)
+Collision with (6, 7)
+Collision with (5, 5)
+Collision with (6, 7)
+Collision with (5, 8)
+i == 3
+Proposed move for place (6, 7) is 3
+Collision with (6, 4)
+Collision with (6, 6)
+Collision with (5, 4)
+Collision with (6, 4)
+Collision with (5, 6)
+Collision with (6, 6)
+Collision with (2, 6)
+Collision with (2, 6)
+i == 9
+Proposed move for place (1, 7) is 1
+Collision with (2, 6)
+i == 6
+Proposed move for place (1, 5) is 0
+Collision with (1, 7)
+i == 3
+Proposed move for place (2, 6) is 3
+Collision with (10, 2)
+i == 6
+Proposed move for place (9, 1) is 0
+Collision with (7, 5)
+Collision with (7, 5)
+Collision with (5, 5)
+Collision with (6, 7)
+Collision with (5, 6)
+Collision with (5, 5)
+Collision with (6, 4)
+i == 6
+Proposed move for place (5, 4) is 0
+Collision with (6, 6)
+Collision with (8, 5)
+Collision with (6, 4)
+Collision with (6, 6)
+Collision with (6, 4)
+i == 3
+Proposed move for place (10, 2) is 3
+i == 3
+Proposed move for place (10, 6) is 3
+Collision with (9, 5)
+i == 6
+Proposed move for place (8, 5) is 0
+Collision with (5, 5)
+Collision with (7, 5)
+i == 6
+Proposed move for place (6, 4) is 0
+Collision with (6, 7)
+Collision with (6, 7)
+i == 9
+Proposed move for place (5, 8) is 1
+Collision with (10, 6)
+i == 6
+Proposed move for place (9, 5) is 0
+Collision with (6, 6)
+Collision with (5, 5)
+i == 6
+Proposed move for place (5, 6) is 1
+Collision with (6, 6)
+Collision with (5, 6)
+Collision with (6, 6)
+i == 3
+Proposed move for place (8, 8) is 0
+i == 3
+Proposed move for place (6, 10) is 0
+Collision with (7, 5)
+Collision with (7, 7)
+Collision with (7, 5)
+Collision with (5, 5)
+Collision with (7, 7)
+Collision with (5, 6)
+Collision with (5, 5)
+Collision with (8, 4)
+Collision with (8, 4)
+Collision with (6, 6)
+Collision with (6, 6)
+i == 3
+Proposed move for place (7, 2) is 0
+Collision with (8, 8)
+Collision with (6, 6)
+Collision with (8, 8)
+Collision with (6, 6)
+Collision with (6, 3)
+i == 3
+Proposed move for place (5, 3) is 0
+Collision with (9, 4)
+i == 3
+Proposed move for place (8, 4) is 0
+Collision with (7, 2)
+Collision with (7, 2)
+Collision with (5, 3)
+Collision with (6, 10)
+i == 6
+Proposed move for place (5, 9) is 1
+i == 3
+Proposed move for place (9, 4) is 0
+min_x: 1
+min_y: 0
+max_x: 11
+max_y: 10
+Assert check:
+passed
+Solution to puzzle: 99

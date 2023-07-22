@@ -1,0 +1,424 @@
+['Initial state:\n#E######\n#>>.<^<#\n#.<..<<#\n#>v.><>#\n#<^v^^>#\n######.#', 'Minute 1, move down:\n#.######\n#E>3.<.#\n#<..<<.#\n#>2.22.#\n#>v..^<#\n######.#', 'Minute 2, move down:\n#.######\n#.2>2..#\n#E^22^<#\n#.>2.^>#\n#.>..<.#\n######.#', 'Minute 3, wait:\n#.######\n#<^<22.#\n#E2<.2.#\n#><2>..#\n#..><..#\n######.#', 'Minute 4, move up:\n#.######\n#E<..22#\n#<<.<..#\n#<2.>>.#\n#.^22^.#\n######.#', 'Minute 5, move right:\n#.######\n#2Ev.<>#\n#<.<..<#\n#.^>^22#\n#.2..2.#\n######.#', 'Minute 6, move right:\n#.######\n#>2E<.<#\n#.2v^2<#\n#>..>2>#\n#<....>#\n######.#', 'Minute 7, move down:\n#.######\n#.22^2.#\n#<vE<2.#\n#>>v<>.#\n#>....<#\n######.#', 'Minute 8, move left:\n#.######\n#.<>2^.#\n#.E<<.<#\n#.22..>#\n#.2v^2.#\n######.#', 'Minute 9, move up:\n#.######\n#<E2>>.#\n#.<<.<.#\n#>2>2^.#\n#.v><^.#\n######.#', 'Minute 10, move right:\n#.######\n#.2E.>2#\n#<2v2^.#\n#<>.>2.#\n#..<>..#\n######.#', 'Minute 11, wait:\n#.######\n#2^E^2>#\n#<v<.^<#\n#..2.>2#\n#.<..>.#\n######.#', 'Minute 12, move down:\n#.######\n#>>.<^<#\n#.<E.<<#\n#>v.><>#\n#<^v^^>#\n######.#', 'Minute 13, move down:\n#.######\n#.>3.<.#\n#<..<<.#\n#>2E22.#\n#>v..^<#\n######.#', 'Minute 14, move right:\n#.######\n#.2>2..#\n#.^22^<#\n#.>2E^>#\n#.>..<.#\n######.#', 'Minute 15, move right:\n#.######\n#<^<22.#\n#.2<.2.#\n#><2>E.#\n#..><..#\n######.#', 'Minute 16, move right:\n#.######\n#.<..22#\n#<<.<..#\n#<2.>>E#\n#.^22^.#\n######.#', 'Minute 17, move down:\n#.######\n#2.v.<>#\n#<.<..<#\n#.^>^22#\n#.2..2E#\n######.#', 'Minute 18, move down:\n#.######\n#>2.<.<#\n#.2v^2<#\n#>..>2>#\n#<....>#\n######E#']
+19
+Chars == ['<', '>', 'v', '^', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+Lines: ['Initial state:', '#E######', '#>>.<^<#', '#.<..<<#', '#>v.><>#', '#<^v^^>#', '######.#']
+Processing line == #>>.<^<#
+Found char at (0, 0)
+Found char at (1, 0)
+Found char at (3, 0)
+Found char at (4, 0)
+Found char at (5, 0)
+Processing line == #.<..<<#
+Found char at (1, 1)
+Found char at (4, 1)
+Found char at (5, 1)
+Processing line == #>v.><>#
+Found char at (0, 2)
+Found char at (1, 2)
+Found char at (3, 2)
+Found char at (4, 2)
+Found char at (5, 2)
+Processing line == #<^v^^>#
+Found char at (0, 3)
+Found char at (1, 3)
+Found char at (2, 3)
+Found char at (3, 3)
+Found char at (4, 3)
+Found char at (5, 3)
+Processing line == ######.#
+Lines: ['Minute 1, move down:', '#.######', '#E>3.<.#', '#<..<<.#', '#>2.22.#', '#>v..^<#', '######.#']
+Processing line == #E>3.<.#
+Found char at (1, 0)
+Found char at (2, 0)
+Found char at (4, 0)
+Processing line == #<..<<.#
+Found char at (0, 1)
+Found char at (3, 1)
+Found char at (4, 1)
+Processing line == #>2.22.#
+Found char at (0, 2)
+Found char at (1, 2)
+Found char at (3, 2)
+Found char at (4, 2)
+Processing line == #>v..^<#
+Found char at (0, 3)
+Found char at (1, 3)
+Found char at (4, 3)
+Found char at (5, 3)
+Processing line == ######.#
+Lines: ['Minute 2, move down:', '#.######', '#.2>2..#', '#E^22^<#', '#.>2.^>#', '#.>..<.#', '######.#']
+Processing line == #.2>2..#
+Found char at (1, 0)
+Found char at (2, 0)
+Found char at (3, 0)
+Processing line == #E^22^<#
+Found char at (1, 1)
+Found char at (2, 1)
+Found char at (3, 1)
+Found char at (4, 1)
+Found char at (5, 1)
+Processing line == #.>2.^>#
+Found char at (1, 2)
+Found char at (2, 2)
+Found char at (4, 2)
+Found char at (5, 2)
+Processing line == #.>..<.#
+Found char at (1, 3)
+Found char at (4, 3)
+Processing line == ######.#
+Lines: ['Minute 3, wait:', '#.######', '#<^<22.#', '#E2<.2.#', '#><2>..#', '#..><..#', '######.#']
+Processing line == #<^<22.#
+Found char at (0, 0)
+Found char at (1, 0)
+Found char at (2, 0)
+Found char at (3, 0)
+Found char at (4, 0)
+Processing line == #E2<.2.#
+Found char at (1, 1)
+Found char at (2, 1)
+Found char at (4, 1)
+Processing line == #><2>..#
+Found char at (0, 2)
+Found char at (1, 2)
+Found char at (2, 2)
+Found char at (3, 2)
+Processing line == #..><..#
+Found char at (2, 3)
+Found char at (3, 3)
+Processing line == ######.#
+Lines: ['Minute 4, move up:', '#.######', '#E<..22#', '#<<.<..#', '#<2.>>.#', '#.^22^.#', '######.#']
+Processing line == #E<..22#
+Found char at (1, 0)
+Found char at (4, 0)
+Found char at (5, 0)
+Processing line == #<<.<..#
+Found char at (0, 1)
+Found char at (1, 1)
+Found char at (3, 1)
+Processing line == #<2.>>.#
+Found char at (0, 2)
+Found char at (1, 2)
+Found char at (3, 2)
+Found char at (4, 2)
+Processing line == #.^22^.#
+Found char at (1, 3)
+Found char at (2, 3)
+Found char at (3, 3)
+Found char at (4, 3)
+Processing line == ######.#
+Lines: ['Minute 5, move right:', '#.######', '#2Ev.<>#', '#<.<..<#', '#.^>^22#', '#.2..2.#', '######.#']
+Processing line == #2Ev.<>#
+Found char at (0, 0)
+Found char at (2, 0)
+Found char at (4, 0)
+Found char at (5, 0)
+Processing line == #<.<..<#
+Found char at (0, 1)
+Found char at (2, 1)
+Found char at (5, 1)
+Processing line == #.^>^22#
+Found char at (1, 2)
+Found char at (2, 2)
+Found char at (3, 2)
+Found char at (4, 2)
+Found char at (5, 2)
+Processing line == #.2..2.#
+Found char at (1, 3)
+Found char at (4, 3)
+Processing line == ######.#
+Lines: ['Minute 6, move right:', '#.######', '#>2E<.<#', '#.2v^2<#', '#>..>2>#', '#<....>#', '######.#']
+Processing line == #>2E<.<#
+Found char at (0, 0)
+Found char at (1, 0)
+Found char at (3, 0)
+Found char at (5, 0)
+Processing line == #.2v^2<#
+Found char at (1, 1)
+Found char at (2, 1)
+Found char at (3, 1)
+Found char at (4, 1)
+Found char at (5, 1)
+Processing line == #>..>2>#
+Found char at (0, 2)
+Found char at (3, 2)
+Found char at (4, 2)
+Found char at (5, 2)
+Processing line == #<....>#
+Found char at (0, 3)
+Found char at (5, 3)
+Processing line == ######.#
+Lines: ['Minute 7, move down:', '#.######', '#.22^2.#', '#<vE<2.#', '#>>v<>.#', '#>....<#', '######.#']
+Processing line == #.22^2.#
+Found char at (1, 0)
+Found char at (2, 0)
+Found char at (3, 0)
+Found char at (4, 0)
+Processing line == #<vE<2.#
+Found char at (0, 1)
+Found char at (1, 1)
+Found char at (3, 1)
+Found char at (4, 1)
+Processing line == #>>v<>.#
+Found char at (0, 2)
+Found char at (1, 2)
+Found char at (2, 2)
+Found char at (3, 2)
+Found char at (4, 2)
+Processing line == #>....<#
+Found char at (0, 3)
+Found char at (5, 3)
+Processing line == ######.#
+Lines: ['Minute 8, move left:', '#.######', '#.<>2^.#', '#.E<<.<#', '#.22..>#', '#.2v^2.#', '######.#']
+Processing line == #.<>2^.#
+Found char at (1, 0)
+Found char at (2, 0)
+Found char at (3, 0)
+Found char at (4, 0)
+Processing line == #.E<<.<#
+Found char at (2, 1)
+Found char at (3, 1)
+Found char at (5, 1)
+Processing line == #.22..>#
+Found char at (1, 2)
+Found char at (2, 2)
+Found char at (5, 2)
+Processing line == #.2v^2.#
+Found char at (1, 3)
+Found char at (2, 3)
+Found char at (3, 3)
+Found char at (4, 3)
+Processing line == ######.#
+Lines: ['Minute 9, move up:', '#.######', '#<E2>>.#', '#.<<.<.#', '#>2>2^.#', '#.v><^.#', '######.#']
+Processing line == #<E2>>.#
+Found char at (0, 0)
+Found char at (2, 0)
+Found char at (3, 0)
+Found char at (4, 0)
+Processing line == #.<<.<.#
+Found char at (1, 1)
+Found char at (2, 1)
+Found char at (4, 1)
+Processing line == #>2>2^.#
+Found char at (0, 2)
+Found char at (1, 2)
+Found char at (2, 2)
+Found char at (3, 2)
+Found char at (4, 2)
+Processing line == #.v><^.#
+Found char at (1, 3)
+Found char at (2, 3)
+Found char at (3, 3)
+Found char at (4, 3)
+Processing line == ######.#
+Lines: ['Minute 10, move right:', '#.######', '#.2E.>2#', '#<2v2^.#', '#<>.>2.#', '#..<>..#', '######.#']
+Processing line == #.2E.>2#
+Found char at (1, 0)
+Found char at (4, 0)
+Found char at (5, 0)
+Processing line == #<2v2^.#
+Found char at (0, 1)
+Found char at (1, 1)
+Found char at (2, 1)
+Found char at (3, 1)
+Found char at (4, 1)
+Processing line == #<>.>2.#
+Found char at (0, 2)
+Found char at (1, 2)
+Found char at (3, 2)
+Found char at (4, 2)
+Processing line == #..<>..#
+Found char at (2, 3)
+Found char at (3, 3)
+Processing line == ######.#
+Lines: ['Minute 11, wait:', '#.######', '#2^E^2>#', '#<v<.^<#', '#..2.>2#', '#.<..>.#', '######.#']
+Processing line == #2^E^2>#
+Found char at (0, 0)
+Found char at (1, 0)
+Found char at (3, 0)
+Found char at (4, 0)
+Found char at (5, 0)
+Processing line == #<v<.^<#
+Found char at (0, 1)
+Found char at (1, 1)
+Found char at (2, 1)
+Found char at (4, 1)
+Found char at (5, 1)
+Processing line == #..2.>2#
+Found char at (2, 2)
+Found char at (4, 2)
+Found char at (5, 2)
+Processing line == #.<..>.#
+Found char at (1, 3)
+Found char at (4, 3)
+Processing line == ######.#
+Lines: ['Minute 12, move down:', '#.######', '#>>.<^<#', '#.<E.<<#', '#>v.><>#', '#<^v^^>#', '######.#']
+Processing line == #>>.<^<#
+Found char at (0, 0)
+Found char at (1, 0)
+Found char at (3, 0)
+Found char at (4, 0)
+Found char at (5, 0)
+Processing line == #.<E.<<#
+Found char at (1, 1)
+Found char at (4, 1)
+Found char at (5, 1)
+Processing line == #>v.><>#
+Found char at (0, 2)
+Found char at (1, 2)
+Found char at (3, 2)
+Found char at (4, 2)
+Found char at (5, 2)
+Processing line == #<^v^^>#
+Found char at (0, 3)
+Found char at (1, 3)
+Found char at (2, 3)
+Found char at (3, 3)
+Found char at (4, 3)
+Found char at (5, 3)
+Processing line == ######.#
+Lines: ['Minute 13, move down:', '#.######', '#.>3.<.#', '#<..<<.#', '#>2E22.#', '#>v..^<#', '######.#']
+Processing line == #.>3.<.#
+Found char at (1, 0)
+Found char at (2, 0)
+Found char at (4, 0)
+Processing line == #<..<<.#
+Found char at (0, 1)
+Found char at (3, 1)
+Found char at (4, 1)
+Processing line == #>2E22.#
+Found char at (0, 2)
+Found char at (1, 2)
+Found char at (3, 2)
+Found char at (4, 2)
+Processing line == #>v..^<#
+Found char at (0, 3)
+Found char at (1, 3)
+Found char at (4, 3)
+Found char at (5, 3)
+Processing line == ######.#
+Lines: ['Minute 14, move right:', '#.######', '#.2>2..#', '#.^22^<#', '#.>2E^>#', '#.>..<.#', '######.#']
+Processing line == #.2>2..#
+Found char at (1, 0)
+Found char at (2, 0)
+Found char at (3, 0)
+Processing line == #.^22^<#
+Found char at (1, 1)
+Found char at (2, 1)
+Found char at (3, 1)
+Found char at (4, 1)
+Found char at (5, 1)
+Processing line == #.>2E^>#
+Found char at (1, 2)
+Found char at (2, 2)
+Found char at (4, 2)
+Found char at (5, 2)
+Processing line == #.>..<.#
+Found char at (1, 3)
+Found char at (4, 3)
+Processing line == ######.#
+Lines: ['Minute 15, move right:', '#.######', '#<^<22.#', '#.2<.2.#', '#><2>E.#', '#..><..#', '######.#']
+Processing line == #<^<22.#
+Found char at (0, 0)
+Found char at (1, 0)
+Found char at (2, 0)
+Found char at (3, 0)
+Found char at (4, 0)
+Processing line == #.2<.2.#
+Found char at (1, 1)
+Found char at (2, 1)
+Found char at (4, 1)
+Processing line == #><2>E.#
+Found char at (0, 2)
+Found char at (1, 2)
+Found char at (2, 2)
+Found char at (3, 2)
+Processing line == #..><..#
+Found char at (2, 3)
+Found char at (3, 3)
+Processing line == ######.#
+Lines: ['Minute 16, move right:', '#.######', '#.<..22#', '#<<.<..#', '#<2.>>E#', '#.^22^.#', '######.#']
+Processing line == #.<..22#
+Found char at (1, 0)
+Found char at (4, 0)
+Found char at (5, 0)
+Processing line == #<<.<..#
+Found char at (0, 1)
+Found char at (1, 1)
+Found char at (3, 1)
+Processing line == #<2.>>E#
+Found char at (0, 2)
+Found char at (1, 2)
+Found char at (3, 2)
+Found char at (4, 2)
+Processing line == #.^22^.#
+Found char at (1, 3)
+Found char at (2, 3)
+Found char at (3, 3)
+Found char at (4, 3)
+Processing line == ######.#
+Lines: ['Minute 17, move down:', '#.######', '#2.v.<>#', '#<.<..<#', '#.^>^22#', '#.2..2E#', '######.#']
+Processing line == #2.v.<>#
+Found char at (0, 0)
+Found char at (2, 0)
+Found char at (4, 0)
+Found char at (5, 0)
+Processing line == #<.<..<#
+Found char at (0, 1)
+Found char at (2, 1)
+Found char at (5, 1)
+Processing line == #.^>^22#
+Found char at (1, 2)
+Found char at (2, 2)
+Found char at (3, 2)
+Found char at (4, 2)
+Found char at (5, 2)
+Processing line == #.2..2E#
+Found char at (1, 3)
+Found char at (4, 3)
+Processing line == ######.#
+Lines: ['Minute 18, move down:', '#.######', '#>2.<.<#', '#.2v^2<#', '#>..>2>#', '#<....>#', '######E#']
+Processing line == #>2.<.<#
+Found char at (0, 0)
+Found char at (1, 0)
+Found char at (3, 0)
+Found char at (5, 0)
+Processing line == #.2v^2<#
+Found char at (1, 1)
+Found char at (2, 1)
+Found char at (3, 1)
+Found char at (4, 1)
+Found char at (5, 1)
+Processing line == #>..>2>#
+Found char at (0, 2)
+Found char at (3, 2)
+Found char at (4, 2)
+Found char at (5, 2)
+Processing line == #<....>#
+Found char at (0, 3)
+Found char at (5, 3)
+Processing line == ######E#
+[{(4, 0), (4, 3), (5, 1), (0, 2), (1, 0), (1, 3), (4, 2), (3, 0), (3, 3), (5, 0), (5, 3), (1, 2), (3, 2), (4, 1), (5, 2), (0, 0), (1, 1), (0, 3), (2, 3)}, {(0, 1), (1, 3), (4, 0), (1, 2), (4, 3), (3, 1), (5, 3), (0, 3), (2, 0), (4, 2), (0, 2), (1, 0), (3, 2), (4, 1)}, {(1, 3), (1, 2), (2, 1), (4, 3), (3, 1), (1, 1), (2, 0), (5, 1), (4, 2), (3, 0), (2, 2), (1, 0), (4, 1), (5, 2)}, {(4, 0), (1, 2), (2, 1), (0, 0), (1, 1), (2, 0), (3, 0), (2, 3), (0, 2), (3, 3), (2, 2), (1, 0), (3, 2), (4, 1)}, {(0, 1), (4, 0), (1, 2), (4, 3), (3, 1), (1, 1), (4, 2), (2, 3), (0, 2), (3, 3), (5, 0), (1, 0), (3, 2), (1, 3)}, {(0, 1), (4, 0), (1, 2), (2, 1), (0, 0), (4, 3), (2, 0), (5, 1), (4, 2), (5, 0), (2, 2), (3, 2), (1, 3), (5, 2)}, {(2, 1), (0, 0), (3, 1), (1, 1), (0, 3), (5, 3), (5, 1), (4, 2), (3, 0), (0, 2), (5, 0), (1, 0), (3, 2), (4, 1), (5, 2)}, {(0, 1), (4, 0), (1, 2), (3, 1), (1, 1), (0, 3), (2, 0), (5, 3), (4, 2), (3, 0), (0, 2), (2, 2), (1, 0), (3, 2), (4, 1)}, {(4, 0), (1, 2), (2, 1), (4, 3), (3, 1), (2, 0), (5, 1), (3, 0), (2, 3), (3, 3), (2, 2), (1, 0), (1, 3), (5, 2)}, {(1, 3), (4, 0), (1, 2), (2, 1), (0, 0), (4, 3), (1, 1), (2, 0), (4, 2), (3, 0), (2, 3), (0, 2), (3, 3), (2, 2), (3, 2), (4, 1)}, {(0, 1), (4, 0), (1, 2), (2, 1), (3, 1), (1, 1), (4, 2), (2, 3), (0, 2), (3, 3), (5, 0), (1, 0), (3, 2), (4, 1)}, {(0, 1), (1, 3), (4, 0), (2, 1), (0, 0), (4, 3), (1, 1), (5, 1), (4, 2), (3, 0), (5, 0), (2, 2), (1, 0), (4, 1), (5, 2)}, {(4, 0), (4, 3), (5, 1), (0, 2), (1, 0), (1, 3), (4, 2), (3, 0), (3, 3), (5, 0), (5, 3), (1, 2), (3, 2), (4, 1), (5, 2), (0, 0), (1, 1), (0, 3), (2, 3)}, {(0, 1), (1, 3), (4, 0), (1, 2), (4, 3), (3, 1), (5, 3), (0, 3), (2, 0), (4, 2), (0, 2), (1, 0), (3, 2), (4, 1)}, {(1, 3), (1, 2), (2, 1), (4, 3), (3, 1), (1, 1), (2, 0), (5, 1), (4, 2), (3, 0), (2, 2), (1, 0), (4, 1), (5, 2)}, {(4, 0), (1, 2), (2, 1), (0, 0), (1, 1), (2, 0), (3, 0), (2, 3), (0, 2), (3, 3), (2, 2), (1, 0), (3, 2), (4, 1)}, {(0, 1), (4, 0), (1, 2), (4, 3), (3, 1), (1, 1), (4, 2), (2, 3), (0, 2), (3, 3), (5, 0), (1, 0), (3, 2), (1, 3)}, {(0, 1), (4, 0), (1, 2), (2, 1), (0, 0), (4, 3), (2, 0), (5, 1), (4, 2), (5, 0), (2, 2), (3, 2), (1, 3), (5, 2)}, {(2, 1), (0, 0), (3, 1), (1, 1), (0, 3), (5, 3), (5, 1), (4, 2), (3, 0), (0, 2), (5, 0), (1, 0), (3, 2), (4, 1), (5, 2)}]
+thing == (0, 1)
+thing == (1, 3)
+thing == (4, 0)
+thing == (1, 2)
+thing == (4, 3)
+thing == (3, 1)
+thing == (5, 3)
+thing == (0, 3)
+thing == (2, 0)
+thing == (4, 2)
+thing == (0, 2)
+thing == (1, 0)
+thing == (3, 2)
+thing == (4, 1)
+[[1 0 0 1 0 1 1 1 1 1]
+ [0 1 1 0 0 1 1 1 1 1]
+ [0 0 1 0 0 1 1 1 1 1]
+ [0 0 1 1 0 0 1 1 1 1]
+ [1 1 1 1 1 1 1 1 1 1]
+ [1 1 1 1 1 1 1 1 1 1]
+ [1 1 1 1 1 1 1 1 1 1]
+ [1 1 1 1 1 1 1 1 1 1]
+ [1 1 1 1 1 1 1 1 1 1]
+ [1 1 1 1 1 1 1 1 1 1]]

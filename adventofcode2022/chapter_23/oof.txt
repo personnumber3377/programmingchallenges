@@ -1,0 +1,987 @@
+NewCall
+Processing place (7, 2)
+NewCall
+Processing place (5, 3)
+NewCall
+Processing place (6, 3)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 9
+Jumping to 12
+NewCall
+Processing place (7, 3)
+Previous i: 0
+Jumping to 3
+Previous i: 6
+Jumping to 9
+NewCall
+Processing place (9, 3)
+NewCall
+Processing place (3, 4)
+NewCall
+Processing place (7, 4)
+Previous i: 0
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 11
+Jumping to 12
+NewCall
+Processing place (9, 4)
+Previous i: 0
+Jumping to 3
+Previous i: 5
+Jumping to 6
+Previous i: 8
+Jumping to 9
+NewCall
+Processing place (4, 5)
+Previous i: 2
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 11
+Jumping to 12
+NewCall
+Processing place (8, 5)
+Previous i: 1
+Jumping to 3
+Previous i: 5
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (9, 5)
+Previous i: 0
+Jumping to 3
+Previous i: 6
+Jumping to 9
+NewCall
+Processing place (3, 6)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (5, 6)
+Previous i: 2
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 11
+Jumping to 12
+NewCall
+Processing place (6, 6)
+NewCall
+Processing place (7, 6)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 8
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (3, 7)
+Previous i: 0
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 9
+Jumping to 12
+NewCall
+Processing place (4, 7)
+Previous i: 1
+Jumping to 3
+Previous i: 6
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (6, 7)
+Previous i: 0
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (8, 7)
+Previous i: 2
+Jumping to 3
+Previous i: 5
+Jumping to 6
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (9, 7)
+NewCall
+Processing place (4, 8)
+Previous i: 0
+Jumping to 3
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (7, 8)
+Previous i: 1
+Jumping to 3
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (6, 3)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 8
+Jumping to 9
+Previous i: 11
+Jumping to 12
+NewCall
+Processing place (7, 3)
+Previous i: 0
+Jumping to 3
+NewCall
+Processing place (7, 4)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 8
+Jumping to 9
+Previous i: 11
+Jumping to 12
+NewCall
+Processing place (9, 4)
+Previous i: 0
+Jumping to 3
+Previous i: 5
+Jumping to 6
+NewCall
+Processing place (4, 5)
+Previous i: 1
+Jumping to 3
+Previous i: 5
+Jumping to 6
+Previous i: 8
+Jumping to 9
+NewCall
+Processing place (8, 5)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (9, 5)
+Previous i: 0
+Jumping to 3
+NewCall
+Processing place (3, 6)
+Previous i: 0
+Jumping to 3
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (5, 6)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (7, 6)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (3, 7)
+Previous i: 1
+Jumping to 3
+Previous i: 6
+Jumping to 9
+NewCall
+Processing place (4, 7)
+Previous i: 0
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (6, 7)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (8, 7)
+Previous i: 2
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (4, 8)
+NewCall
+Processing place (7, 8)
+NewCall
+Processing place (5, 2)
+Previous i: 1
+Jumping to 3
+Previous i: 8
+Jumping to 9
+NewCall
+Processing place (6, 5)
+Previous i: 1
+Jumping to 3
+Previous i: 5
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (9, 6)
+Previous i: 2
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 9
+Jumping to 12
+NewCall
+Processing place (6, 3)
+Previous i: 1
+Jumping to 3
+Previous i: 5
+Jumping to 6
+Previous i: 8
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (7, 4)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (4, 5)
+Previous i: 2
+Jumping to 3
+Previous i: 5
+Jumping to 6
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (8, 5)
+Previous i: 1
+Jumping to 3
+Previous i: 5
+Jumping to 6
+Previous i: 8
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (3, 6)
+NewCall
+Processing place (5, 6)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (7, 6)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (3, 7)
+NewCall
+Processing place (4, 7)
+Previous i: 0
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (6, 7)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (8, 7)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (5, 2)
+NewCall
+Processing place (9, 2)
+Previous i: 2
+Jumping to 3
+NewCall
+Processing place (6, 5)
+Previous i: 2
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (9, 6)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 11
+Jumping to 12
+NewCall
+Processing place (8, 3)
+Previous i: 2
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 11
+Jumping to 12
+NewCall
+Processing place (9, 3)
+Previous i: 0
+Jumping to 3
+Previous i: 6
+Jumping to 9
+NewCall
+Processing place (10, 5)
+Previous i: 2
+Jumping to 3
+NewCall
+Processing place (6, 3)
+Previous i: 2
+Jumping to 3
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (7, 4)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (4, 5)
+Previous i: 2
+Jumping to 3
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (8, 5)
+Previous i: 2
+Jumping to 3
+Previous i: 5
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (5, 6)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (7, 6)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (4, 7)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+NewCall
+Processing place (6, 7)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (8, 7)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (3, 3)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+NewCall
+Processing place (6, 5)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 11
+Jumping to 12
+NewCall
+Processing place (9, 6)
+NewCall
+Processing place (8, 3)
+Previous i: 0
+Jumping to 3
+Previous i: 8
+Jumping to 9
+Previous i: 11
+Jumping to 12
+NewCall
+Processing place (9, 3)
+Previous i: 2
+Jumping to 3
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (2, 6)
+NewCall
+Processing place (2, 7)
+NewCall
+Processing place (4, 2)
+NewCall
+Processing place (10, 4)
+NewCall
+Processing place (6, 3)
+Previous i: 2
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 11
+Jumping to 12
+NewCall
+Processing place (7, 4)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (4, 5)
+NewCall
+Processing place (8, 5)
+Previous i: 2
+Jumping to 3
+Previous i: 5
+Jumping to 6
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (5, 6)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (7, 6)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (4, 7)
+Previous i: 1
+Jumping to 3
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (6, 7)
+Previous i: 1
+Jumping to 3
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (8, 7)
+Previous i: 2
+Jumping to 3
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (6, 5)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 8
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (8, 3)
+NewCall
+Processing place (9, 3)
+NewCall
+Processing place (2, 7)
+Previous i: 1
+Jumping to 3
+NewCall
+Processing place (3, 6)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 8
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (5, 2)
+NewCall
+Processing place (6, 3)
+Previous i: 1
+Jumping to 3
+Previous i: 8
+Jumping to 9
+NewCall
+Processing place (7, 4)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 8
+Jumping to 9
+Previous i: 11
+Jumping to 12
+NewCall
+Processing place (8, 5)
+Previous i: 2
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 11
+Jumping to 12
+NewCall
+Processing place (5, 6)
+Previous i: 1
+Jumping to 3
+Previous i: 5
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (7, 6)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (4, 7)
+NewCall
+Processing place (6, 7)
+NewCall
+Processing place (8, 7)
+NewCall
+Processing place (7, 1)
+Previous i: 1
+Jumping to 3
+Previous i: 8
+Jumping to 9
+NewCall
+Processing place (6, 5)
+Previous i: 1
+Jumping to 3
+Previous i: 5
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (9, 1)
+Previous i: 0
+Jumping to 3
+Previous i: 5
+Jumping to 6
+NewCall
+Processing place (3, 6)
+Previous i: 1
+Jumping to 3
+Previous i: 8
+Jumping to 9
+NewCall
+Processing place (8, 2)
+NewCall
+Processing place (9, 2)
+NewCall
+Processing place (6, 3)
+NewCall
+Processing place (7, 4)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (8, 5)
+Previous i: 1
+Jumping to 3
+Previous i: 8
+Jumping to 9
+Previous i: 11
+Jumping to 12
+NewCall
+Processing place (5, 6)
+NewCall
+Processing place (7, 6)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (6, 5)
+Previous i: 2
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (4, 9)
+NewCall
+Processing place (7, 9)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (4, 8)
+NewCall
+Processing place (6, 8)
+NewCall
+Processing place (8, 8)
+Previous i: 2
+Jumping to 3
+NewCall
+Processing place (8, 3)
+Previous i: 2
+Jumping to 3
+NewCall
+Processing place (9, 3)
+Previous i: 0
+Jumping to 3
+NewCall
+Processing place (7, 4)
+Previous i: 2
+Jumping to 3
+Previous i: 7
+Jumping to 9
+Previous i: 11
+Jumping to 12
+NewCall
+Processing place (8, 5)
+NewCall
+Processing place (7, 6)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (7, 1)
+Previous i: 2
+Jumping to 3
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (6, 5)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (3, 6)
+Previous i: 0
+Jumping to 3
+NewCall
+Processing place (4, 4)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+NewCall
+Processing place (5, 3)
+NewCall
+Processing place (4, 6)
+NewCall
+Processing place (3, 9)
+NewCall
+Processing place (3, 8)
+NewCall
+Processing place (8, 7)
+NewCall
+Processing place (8, 2)
+Previous i: 0
+Jumping to 3
+Previous i: 5
+Jumping to 6
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (9, 2)
+NewCall
+Processing place (7, 4)
+Previous i: 2
+Jumping to 3
+Previous i: 5
+Jumping to 6
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (7, 6)
+Previous i: 2
+Jumping to 3
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (7, 1)
+NewCall
+Processing place (6, 5)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 8
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (2, 3)
+NewCall
+Processing place (10, 6)
+Previous i: 2
+Jumping to 3
+Previous i: 5
+Jumping to 6
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (5, 8)
+NewCall
+Processing place (8, 2)
+Previous i: 2
+Jumping to 3
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (9, 5)
+NewCall
+Processing place (3, 7)
+NewCall
+Processing place (3, 4)
+Previous i: 2
+Jumping to 3
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (6, 3)
+NewCall
+Processing place (5, 6)
+Previous i: 1
+Jumping to 3
+NewCall
+Processing place (4, 9)
+Previous i: 0
+Jumping to 3
+NewCall
+Processing place (4, 8)
+Previous i: 2
+Jumping to 3
+Previous i: 7
+Jumping to 9
+NewCall
+Processing place (9, 7)
+Previous i: 1
+Jumping to 3
+NewCall
+Processing place (7, 4)
+Previous i: 2
+Jumping to 3
+Previous i: 5
+Jumping to 6
+NewCall
+Processing place (7, 6)
+Previous i: 1
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 8
+Jumping to 9
+Previous i: 11
+Jumping to 12
+NewCall
+Processing place (6, 5)
+Previous i: 1
+Jumping to 3
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (5, 1)
+Previous i: 1
+Jumping to 3
+Previous i: 8
+Jumping to 9
+NewCall
+Processing place (4, 8)
+Previous i: 2
+Jumping to 3
+Previous i: 5
+Jumping to 6
+Previous i: 7
+Jumping to 9
+Previous i: 10
+Jumping to 12
+NewCall
+Processing place (5, 7)
+Previous i: 2
+Jumping to 3
+Previous i: 4
+Jumping to 6
+Previous i: 11
+Jumping to 12
+NewCall
+Processing place (3, 6)
+NewCall
+Processing place (6, 2)
+NewCall
+Processing place (4, 6)
+Previous i: 1
+Jumping to 3
+Previous i: 8
+Jumping to 9
+NewCall
+Processing place (3, 9)
+NewCall
+Processing place (8, 7)
+Solution to puzzle: 99

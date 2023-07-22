@@ -1,0 +1,225 @@
+['Sensor at x=2, y=18: closest beacon is at x=-2, y=15', 'Sensor at x=9, y=16: closest beacon is at x=10, y=16', 'Sensor at x=13, y=2: closest beacon is at x=15, y=3', 'Sensor at x=12, y=14: closest beacon is at x=10, y=16', 'Sensor at x=10, y=20: closest beacon is at x=10, y=16', 'Sensor at x=14, y=17: closest beacon is at x=10, y=16', 'Sensor at x=8, y=7: closest beacon is at x=2, y=10', 'Sensor at x=2, y=0: closest beacon is at x=2, y=10', 'Sensor at x=0, y=11: closest beacon is at x=2, y=10', 'Sensor at x=20, y=14: closest beacon is at x=25, y=17', 'Sensor at x=17, y=20: closest beacon is at x=21, y=22', 'Sensor at x=16, y=7: closest beacon is at x=15, y=3', 'Sensor at x=14, y=3: closest beacon is at x=15, y=3', 'Sensor at x=20, y=1: closest beacon is at x=15, y=3']
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+Manhattan distance: 21
+p0: [2, 18]
+p1: [-2, 15]
+Dist sens_to_line : 11
+dist_sens_to_beac : 7
+Line == [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+len(line) == 100
+sens_to_beac == 7
+sens_to_line == 11
+x_coord == 2
+Does not intersect
+....................................................................................................
+Line: None
+Manhattan distance: 7
+p0: [9, 16]
+p1: [10, 16]
+Dist sens_to_line : 9
+dist_sens_to_beac : 1
+Line == [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+len(line) == 100
+sens_to_beac == 1
+sens_to_line == 9
+x_coord == 9
+Does not intersect
+....................................................................................................
+Line: None
+Manhattan distance: 14
+p0: [13, 2]
+p1: [15, 3]
+Dist sens_to_line : 5
+dist_sens_to_beac : 3
+Line == [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+len(line) == 100
+sens_to_beac == 3
+sens_to_line == 5
+x_coord == 13
+Does not intersect
+....................................................................................................
+Line: None
+Manhattan distance: 8
+p0: [12, 14]
+p1: [10, 16]
+Dist sens_to_line : 7
+dist_sens_to_beac : 4
+Line == [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+len(line) == 100
+sens_to_beac == 4
+sens_to_line == 7
+x_coord == 12
+Does not intersect
+....................................................................................................
+Line: None
+Manhattan distance: 6
+p0: [10, 20]
+p1: [10, 16]
+Dist sens_to_line : 13
+dist_sens_to_beac : 4
+Line == [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+len(line) == 100
+sens_to_beac == 4
+sens_to_line == 13
+x_coord == 10
+Does not intersect
+....................................................................................................
+Line: None
+Manhattan distance: 10
+p0: [14, 17]
+p1: [10, 16]
+Dist sens_to_line : 10
+dist_sens_to_beac : 5
+Line == [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+len(line) == 100
+sens_to_beac == 5
+sens_to_line == 10
+x_coord == 14
+Does not intersect
+....................................................................................................
+Line: None
+Manhattan distance: 14
+p0: [8, 7]
+p1: [2, 10]
+Dist sens_to_line : 0
+dist_sens_to_beac : 9
+Line == [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+len(line) == 100
+sens_to_beac == 9
+sens_to_line == 0
+x_coord == 8
+width == 9
+start_index: -1
+end_index: 18
+....................................................................................................
+Line: None
+Manhattan distance: 8
+p0: [2, 0]
+p1: [2, 10]
+Dist sens_to_line : 7
+dist_sens_to_beac : 10
+Line == [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+len(line) == 100
+sens_to_beac == 10
+sens_to_line == 7
+x_coord == 2
+width == 3
+start_index: -1
+end_index: 6
+....................................................................................................
+Line: None
+Manhattan distance: 10
+p0: [0, 11]
+p1: [2, 10]
+Dist sens_to_line : 4
+dist_sens_to_beac : 3
+Line == [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+len(line) == 100
+sens_to_beac == 3
+sens_to_line == 4
+x_coord == 0
+Does not intersect
+....................................................................................................
+Line: None
+Manhattan distance: 13
+p0: [20, 14]
+p1: [25, 17]
+Dist sens_to_line : 7
+dist_sens_to_beac : 8
+Line == [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+len(line) == 100
+sens_to_beac == 8
+sens_to_line == 7
+x_coord == 20
+width == 1
+start_index: 19
+end_index: 22
+...................###..............................................................................
+Line: None
+Manhattan distance: 5
+p0: [17, 20]
+p1: [21, 22]
+Dist sens_to_line : 13
+dist_sens_to_beac : 6
+Line == [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+len(line) == 100
+sens_to_beac == 6
+sens_to_line == 13
+x_coord == 17
+Does not intersect
+...................###..............................................................................
+Line: None
+Manhattan distance: 13
+p0: [16, 7]
+p1: [15, 3]
+Dist sens_to_line : 0
+dist_sens_to_beac : 5
+Line == [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+len(line) == 100
+sens_to_beac == 5
+sens_to_line == 0
+x_coord == 16
+width == 5
+start_index: 11
+end_index: 22
+...........###########..............................................................................
+Line: None
+Manhattan distance: 13
+p0: [14, 3]
+p1: [15, 3]
+Dist sens_to_line : 4
+dist_sens_to_beac : 1
+Line == [0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+len(line) == 100
+sens_to_beac == 1
+sens_to_line == 4
+x_coord == 14
+Does not intersect
+...........###########..............................................................................
+Line: None
+Manhattan distance: 17
+p0: [20, 1]
+p1: [15, 3]
+Dist sens_to_line : 6
+dist_sens_to_beac : 7
+Line == [0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+len(line) == 100
+sens_to_beac == 7
+sens_to_line == 6
+x_coord == 20
+width == 1
+start_index: 19
+end_index: 22
+...........###########..............................................................................
+Line: None
+Solution to puzzle: 11
