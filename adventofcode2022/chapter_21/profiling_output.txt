@@ -1,0 +1,81 @@
+  0           0 RESUME                   0
+
+  1           2 PUSH_NULL
+              4 LOAD_NAME                0 (get_route)
+              6 LOAD_NAME                1 (monkeys)
+              8 LOAD_CONST               0 ('root')
+             10 BUILD_LIST               0
+             12 LOAD_CONST               1 ('humn')
+             14 LOAD_NAME                2 (types)
+             16 CALL                     5
+             24 RETURN_VALUE
+None
+1 runs tooks 0.02132582664489746 seconds.
+Average run time was 0.02132582664489746 seconds.
+Disassembly of get_route : 
+         10006 function calls (7373 primitive calls) in 0.021 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+     70/1    0.014    0.000    0.014    0.014 prof.py:89(get_route)
+  2633/69    0.003    0.000    0.003    0.000 prof.py:60(evaluate_monkeys)
+        1    0.003    0.003    0.003    0.003 prof.py:12(parse_monkeys)
+     2636    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+     4054    0.000    0.000    0.000    0.000 {method 'isnumeric' of 'str' objects}
+        1    0.000    0.000    0.021    0.021 prof.py:1(<module>)
+        1    0.000    0.000    0.003    0.003 prof.py:160(traverse_backwards)
+        1    0.000    0.000    0.000    0.000 {method 'split' of 'str' objects}
+       11    0.000    0.000    0.000    0.000 dis.py:430(_get_instructions_bytes)
+       10    0.000    0.000    0.000    0.000 dis.py:299(_disassemble)
+      138    0.000    0.000    0.000    0.000 prof.py:150(get_monkey_name)
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.compile}
+        1    0.000    0.000    0.000    0.000 dis.py:554(_disassemble_bytes)
+        1    0.000    0.000    0.021    0.021 prof.py:260(main)
+        1    0.000    0.000    0.000    0.000 prof.py:237(get_monkey_names)
+       22    0.000    0.000    0.000    0.000 dis.py:611(_unpack_opargs)
+      201    0.000    0.000    0.000    0.000 {method 'append' of 'list' objects}
+       15    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+        1    0.000    0.000    0.000    0.000 dis.py:531(disassemble)
+        1    0.000    0.000    0.000    0.000 {method 'read' of '_io.TextIOWrapper' objects}
+        1    0.000    0.000    0.018    0.018 prof.py:248(solve_equation)
+       38    0.000    0.000    0.000    0.000 dis.py:190(_deoptop)
+        1    0.000    0.000    0.000    0.000 dis.py:635(findlabels)
+        1    0.000    0.000    0.000    0.000 <frozen _sitebuiltins>:19(__call__)
+        1    0.000    0.000    0.000    0.000 dis.py:72(dis)
+       20    0.000    0.000    0.000    0.000 {built-in method __new__ of type object at 0x55fc44ea19a0}
+       14    0.000    0.000    0.000    0.000 {built-in method builtins.next}
+       20    0.000    0.000    0.000    0.000 {built-in method builtins.repr}
+        1    0.000    0.000    0.000    0.000 dis.py:599(_disassemble_str)
+        1    0.000    0.000    0.000    0.000 dis.py:411(_parse_exception_table)
+        3    0.000    0.000    0.000    0.000 dis.py:659(findlinestarts)
+        1    0.000    0.000    0.000    0.000 {method 'close' of '_io.TextIOWrapper' objects}
+        1    0.000    0.000    0.021    0.021 {built-in method builtins.exec}
+        1    0.000    0.000    0.000    0.000 <frozen codecs>:319(decode)
+        1    0.000    0.000    0.000    0.000 {built-in method _codecs.utf_8_decode}
+       18    0.000    0.000    0.000    0.000 {method 'rjust' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 <string>:1(<lambda>)
+        1    0.000    0.000    0.000    0.000 dis.py:541(_disassemble_recursive)
+       10    0.000    0.000    0.000    0.000 {method 'join' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 prof.py:131(get_value)
+        2    0.000    0.000    0.000    0.000 dis.py:376(_get_const_info)
+        3    0.000    0.000    0.000    0.000 dis.py:388(_get_name_info)
+        9    0.000    0.000    0.000    0.000 {built-in method builtins.hasattr}
+       10    0.000    0.000    0.000    0.000 {method 'ljust' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 dis.py:59(_try_compile)
+       10    0.000    0.000    0.000    0.000 {method 'rstrip' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 dis.py:402(_parse_varint)
+        2    0.000    0.000    0.000    0.000 {built-in method time.time}
+        2    0.000    0.000    0.000    0.000 dis.py:361(_get_const_value)
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.max}
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        2    0.000    0.000    0.000    0.000 {method 'pop' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 dis.py:194(_get_code_array)
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.iter}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {method 'co_positions' of 'code' objects}
+        1    0.000    0.000    0.000    0.000 {method 'co_lines' of 'code' objects}
+        1    0.000    0.000    0.000    0.000 {method 'values' of 'dict' objects}
+
+

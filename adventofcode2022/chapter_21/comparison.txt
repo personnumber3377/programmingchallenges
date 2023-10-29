@@ -1,0 +1,227 @@
+
+Slower:
+
+Disassembly of <code object get_route at 0x7f58c06f7560, file "prof.py", line 110>:
+110           0 RESUME                   0
+
+112           2 LOAD_FAST                3 (cur_monkey)
+              4 LOAD_FAST                1 (wanted_monkey)
+              6 COMPARE_OP              40 (==)
+             10 POP_JUMP_IF_FALSE        2 (to 16)
+
+114          12 LOAD_FAST                2 (moves)
+             14 RETURN_VALUE
+
+116     >>   16 LOAD_FAST                0 (monkeys)
+             18 GET_ITER
+        >>   20 FOR_ITER                71 (to 166)
+             24 STORE_FAST               5 (monkey)
+
+117          26 LOAD_FAST                4 (types)
+             28 LOAD_FAST                5 (monkey)
+             30 BINARY_SUBSCR
+             34 POP_JUMP_IF_FALSE        1 (to 38)
+
+118          36 JUMP_BACKWARD            9 (to 20)
+
+119     >>   38 LOAD_FAST                0 (monkeys)
+             40 LOAD_FAST                5 (monkey)
+             42 BINARY_SUBSCR
+             46 STORE_FAST               6 (expression)
+
+121          48 LOAD_FAST                3 (cur_monkey)
+             50 LOAD_FAST                6 (expression)
+             52 LOAD_CONST               1 (0)
+             54 BINARY_SUBSCR
+             58 COMPARE_OP              40 (==)
+             62 POP_JUMP_IF_FALSE       21 (to 106)
+
+123          64 LOAD_GLOBAL              1 (NULL + get_route)
+             74 LOAD_FAST                0 (monkeys)
+             76 LOAD_FAST                1 (wanted_monkey)
+             78 LOAD_CONST               1 (0)
+             80 BUILD_LIST               1
+             82 LOAD_FAST                2 (moves)
+             84 BINARY_OP                0 (+)
+             88 LOAD_FAST                5 (monkey)
+             90 LOAD_FAST                4 (types)
+             92 CALL                     5
+            100 SWAP                     2
+            102 POP_TOP
+            104 RETURN_VALUE
+
+
+
+
+
+124     >>  106 LOAD_FAST                3 (cur_monkey)
+            108 LOAD_FAST                6 (expression)
+            110 LOAD_CONST               2 (2)
+            112 BINARY_SUBSCR
+            116 COMPARE_OP              40 (==)
+            120 POP_JUMP_IF_TRUE         1 (to 124)
+            122 JUMP_BACKWARD           52 (to 20)
+
+
+
+
+
+
+
+
+
+
+
+
+
+125     >>  124 LOAD_GLOBAL              1 (NULL + get_route)
+            134 LOAD_FAST                0 (monkeys)
+            136 LOAD_FAST                1 (wanted_monkey)
+            138 LOAD_CONST               3 (1)
+            140 BUILD_LIST               1
+            142 LOAD_FAST                2 (moves)
+            144 BINARY_OP                0 (+)
+            148 LOAD_FAST                5 (monkey)
+            150 LOAD_FAST                4 (types)
+            152 CALL                     5
+            160 SWAP                     2
+            162 POP_TOP
+            164 RETURN_VALUE
+
+116     >>  166 END_FOR
+            168 RETURN_CONST             0 (None)
+
+
+
+
+
+
+Faster:
+
+
+
+Disassembly of <code object get_route at 0x7fa37fd6b560, file "prof.py", line 89>:
+ 89           0 RESUME                   0
+
+ 91           2 LOAD_FAST                3 (cur_monkey)
+              4 LOAD_FAST                1 (wanted_monkey)
+              6 COMPARE_OP              40 (==)
+             10 POP_JUMP_IF_FALSE        2 (to 16)
+
+ 93          12 LOAD_FAST                2 (moves)
+             14 RETURN_VALUE
+
+ 95     >>   16 LOAD_FAST                0 (monkeys)
+             18 GET_ITER
+        >>   20 FOR_ITER                67 (to 158)
+             24 STORE_FAST               5 (monkey)
+
+ 96          26 LOAD_FAST                4 (types)
+             28 LOAD_FAST                5 (monkey)
+             30 BINARY_SUBSCR
+             34 POP_JUMP_IF_FALSE        1 (to 38)
+
+ 97          36 JUMP_BACKWARD            9 (to 20)
+
+ 98     >>   38 LOAD_FAST                0 (monkeys)
+             40 LOAD_FAST                5 (monkey)
+             42 BINARY_SUBSCR
+             46 STORE_FAST               6 (expression)
+
+ 99          48 LOAD_FAST                3 (cur_monkey)
+             50 LOAD_FAST                6 (expression)
+             52 CONTAINS_OP              0
+             54 POP_JUMP_IF_TRUE         1 (to 58)
+             56 JUMP_BACKWARD           19 (to 20)
+
+101     >>   58 LOAD_FAST                3 (cur_monkey)
+             60 LOAD_FAST                6 (expression)
+             62 LOAD_CONST               1 (0)
+             64 BINARY_SUBSCR
+             68 COMPARE_OP              40 (==)
+             72 POP_JUMP_IF_FALSE       21 (to 116)
+
+103          74 LOAD_GLOBAL              1 (NULL + get_route)
+             84 LOAD_FAST                0 (monkeys)
+             86 LOAD_FAST                1 (wanted_monkey)
+             88 LOAD_CONST               1 (0)
+             90 BUILD_LIST               1
+             92 LOAD_FAST                2 (moves)
+             94 BINARY_OP                0 (+)
+             98 LOAD_FAST                5 (monkey)
+            100 LOAD_FAST                4 (types)
+            102 CALL                     5
+            110 SWAP                     2
+            112 POP_TOP
+            114 RETURN_VALUE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+105     >>  116 LOAD_GLOBAL              1 (NULL + get_route)
+            126 LOAD_FAST                0 (monkeys)
+            128 LOAD_FAST                1 (wanted_monkey)
+            130 LOAD_CONST               2 (1)
+            132 BUILD_LIST               1
+            134 LOAD_FAST                2 (moves)
+            136 BINARY_OP                0 (+)
+            140 LOAD_FAST                5 (monkey)
+            142 LOAD_FAST                4 (types)
+            144 CALL                     5
+            152 SWAP                     2
+            154 POP_TOP
+            156 RETURN_VALUE
+
+ 95     >>  158 END_FOR
+            160 RETURN_CONST             0 (None)
+
+
+
+
+
+
+
+
+
+
+
+
+Here are the things:
+
+
+
+Slower:
+
+124     >>  106 LOAD_FAST                3 (cur_monkey)
+            108 LOAD_FAST                6 (expression)
+            110 LOAD_CONST               2 (2)
+            112 BINARY_SUBSCR
+            116 COMPARE_OP              40 (==)
+            120 POP_JUMP_IF_TRUE         1 (to 124)
+            122 JUMP_BACKWARD           52 (to 20)
+
+
+
+
+Faster:
+
+ 99          48 LOAD_FAST                3 (cur_monkey)
+             50 LOAD_FAST                6 (expression)
+             52 CONTAINS_OP              0
+             54 POP_JUMP_IF_TRUE         1 (to 58)
+             56 JUMP_BACKWARD           19 (to 20)
+
+
+

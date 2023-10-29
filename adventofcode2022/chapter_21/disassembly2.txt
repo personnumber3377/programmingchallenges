@@ -1,0 +1,834 @@
+  0           0 RESUME                   0
+
+  2           2 LOAD_CONST               0 (0)
+              4 LOAD_CONST               1 (None)
+              6 IMPORT_NAME              0 (sys)
+              8 STORE_NAME               0 (sys)
+
+  3          10 LOAD_CONST               0 (0)
+             12 LOAD_CONST               1 (None)
+             14 IMPORT_NAME              1 (pstats)
+             16 STORE_NAME               1 (pstats)
+
+  4          18 LOAD_CONST               0 (0)
+             20 LOAD_CONST               1 (None)
+             22 IMPORT_NAME              2 (time)
+             24 STORE_NAME               2 (time)
+
+  5          26 LOAD_CONST               0 (0)
+             28 LOAD_CONST               1 (None)
+             30 IMPORT_NAME              3 (dis)
+             32 STORE_NAME               3 (dis)
+
+ 10          34 LOAD_CONST               2 (1)
+             36 STORE_NAME               4 (RUN_COUNT)
+
+ 11          38 LOAD_CONST               1 (None)
+             40 STORE_GLOBAL             5 (glob_input)
+
+ 12          42 LOAD_CONST               3 ('return')
+             44 LOAD_NAME                6 (dict)
+             46 BUILD_TUPLE              2
+             48 LOAD_CONST               4 (<code object parse_monkeys at 0x7f58c0827c00, file "prof.py", line 12>)
+             50 MAKE_FUNCTION            4 (annotations)
+             52 STORE_NAME               7 (parse_monkeys)
+
+ 41          54 NOP
+
+ 60          56 LOAD_CONST               5 ('monkeys')
+             58 LOAD_NAME                6 (dict)
+             60 LOAD_CONST               6 ('cur_monkey')
+             62 LOAD_NAME                8 (str)
+             64 LOAD_CONST               3 ('return')
+             66 LOAD_NAME                9 (int)
+             68 BUILD_TUPLE              6
+             70 LOAD_CONST               7 (<code object evaluate_monkeys at 0x55851a6f5240, file "prof.py", line 60>)
+             72 MAKE_FUNCTION            4 (annotations)
+             74 STORE_NAME              10 (evaluate_monkeys)
+
+ 88          76 NOP
+
+110          78 LOAD_CONST               5 ('monkeys')
+             80 LOAD_NAME                6 (dict)
+             82 LOAD_CONST               8 ('wanted_monkey')
+             84 LOAD_NAME                8 (str)
+             86 LOAD_CONST               9 ('moves')
+             88 LOAD_NAME               11 (list)
+             90 LOAD_CONST               6 ('cur_monkey')
+             92 LOAD_NAME                8 (str)
+             94 LOAD_CONST              10 ('types')
+             96 LOAD_NAME                6 (dict)
+             98 BUILD_TUPLE             10
+            100 LOAD_CONST              11 (<code object get_route at 0x7f58c06f7560, file "prof.py", line 110>)
+            102 MAKE_FUNCTION            4 (annotations)
+            104 STORE_NAME              12 (get_route)
+
+130         106 LOAD_CONST               5 ('monkeys')
+            108 LOAD_NAME                6 (dict)
+            110 LOAD_CONST              12 ('route')
+            112 LOAD_NAME               11 (list)
+            114 BUILD_TUPLE              4
+            116 LOAD_CONST              13 (<code object get_value at 0x7f58c05de340, file "prof.py", line 130>)
+            118 MAKE_FUNCTION            4 (annotations)
+            120 STORE_NAME              13 (get_value)
+
+149         122 LOAD_CONST               5 ('monkeys')
+            124 LOAD_NAME                6 (dict)
+            126 LOAD_CONST              14 ('name')
+            128 LOAD_NAME                8 (str)
+            130 LOAD_CONST              15 ('move')
+            132 LOAD_NAME                9 (int)
+            134 BUILD_TUPLE              6
+            136 LOAD_CONST              16 (<code object get_monkey_name at 0x7f58c0792d30, file "prof.py", line 149>)
+            138 MAKE_FUNCTION            4 (annotations)
+            140 STORE_NAME              14 (get_monkey_name)
+
+159         142 LOAD_CONST              17 (<code object traverse_backwards at 0x55851a6bb0a0, file "prof.py", line 159>)
+            144 MAKE_FUNCTION            0
+            146 STORE_NAME              15 (traverse_backwards)
+
+236         148 LOAD_CONST               5 ('monkeys')
+            150 LOAD_NAME                6 (dict)
+            152 LOAD_CONST              12 ('route')
+            154 LOAD_NAME               11 (list)
+            156 BUILD_TUPLE              4
+            158 LOAD_CONST              18 (<code object get_monkey_names at 0x7f58c0605fb0, file "prof.py", line 236>)
+            160 MAKE_FUNCTION            4 (annotations)
+            162 STORE_NAME              16 (get_monkey_names)
+
+247         164 LOAD_CONST               5 ('monkeys')
+            166 LOAD_NAME                6 (dict)
+            168 LOAD_CONST              10 ('types')
+            170 LOAD_NAME                6 (dict)
+            172 LOAD_CONST               3 ('return')
+            174 LOAD_NAME                9 (int)
+            176 BUILD_TUPLE              6
+            178 LOAD_CONST              19 (<code object solve_equation at 0x7f58c06f76d0, file "prof.py", line 247>)
+            180 MAKE_FUNCTION            4 (annotations)
+            182 STORE_NAME              17 (solve_equation)
+
+259         184 LOAD_CONST               3 ('return')
+            186 LOAD_NAME                9 (int)
+            188 BUILD_TUPLE              2
+            190 LOAD_CONST              20 (<code object main at 0x55851a6ef7e0, file "prof.py", line 259>)
+            192 MAKE_FUNCTION            4 (annotations)
+            194 STORE_NAME              18 (main)
+
+275         196 LOAD_NAME               19 (__name__)
+            198 LOAD_CONST              21 ('__main__')
+            200 COMPARE_OP              40 (==)
+            204 POP_JUMP_IF_FALSE       14 (to 234)
+
+276         206 PUSH_NULL
+            208 LOAD_NAME               20 (exit)
+            210 PUSH_NULL
+            212 LOAD_NAME               18 (main)
+            214 CALL                     0
+            222 CALL                     1
+            230 POP_TOP
+            232 RETURN_CONST             1 (None)
+
+275     >>  234 RETURN_CONST             1 (None)
+
+Disassembly of <code object parse_monkeys at 0x7f58c0827c00, file "prof.py", line 12>:
+ 12           0 RESUME                   0
+
+ 14           2 LOAD_GLOBAL              0 (glob_input)
+             12 LOAD_CONST               0 (None)
+             14 COMPARE_OP              40 (==)
+             18 POP_JUMP_IF_FALSE       30 (to 80)
+
+ 16          20 LOAD_GLOBAL              2 (sys)
+             30 LOAD_ATTR                4 (stdin)
+             50 LOAD_ATTR                7 (NULL|self + read)
+             70 CALL                     0
+             78 STORE_GLOBAL             0 (glob_input)
+
+ 18     >>   80 LOAD_GLOBAL              0 (glob_input)
+             90 LOAD_ATTR                9 (NULL|self + split)
+            110 LOAD_CONST               1 ('\n')
+            112 CALL                     1
+            120 STORE_FAST               0 (lines)
+
+ 22         122 BUILD_MAP                0
+            124 STORE_FAST               1 (out_dict)
+
+ 23         126 BUILD_MAP                0
+            128 STORE_FAST               2 (types)
+
+ 25         130 LOAD_FAST                0 (lines)
+            132 GET_ITER
+        >>  134 FOR_ITER                62 (to 262)
+            138 STORE_FAST               3 (line)
+
+ 27         140 LOAD_FAST                3 (line)
+            142 LOAD_CONST               0 (None)
+            144 LOAD_CONST               2 (4)
+            146 BINARY_SLICE
+            148 STORE_FAST               4 (monkey_name)
+
+ 28         150 LOAD_FAST                3 (line)
+            152 LOAD_CONST               3 (6)
+            154 LOAD_CONST               0 (None)
+            156 BINARY_SLICE
+            158 STORE_FAST               5 (expression)
+
+ 31         160 LOAD_FAST                5 (expression)
+            162 LOAD_ATTR               11 (NULL|self + isnumeric)
+            182 CALL                     0
+            190 POP_JUMP_IF_FALSE       12 (to 216)
+
+ 32         192 LOAD_FAST                5 (expression)
+            194 BUILD_LIST               1
+            196 LOAD_FAST                1 (out_dict)
+            198 LOAD_FAST                4 (monkey_name)
+            200 STORE_SUBSCR
+
+ 33         204 LOAD_CONST               4 (1)
+            206 LOAD_FAST                2 (types)
+            208 LOAD_FAST                4 (monkey_name)
+            210 STORE_SUBSCR
+
+ 34         214 JUMP_BACKWARD           41 (to 134)
+
+ 35     >>  216 LOAD_CONST               5 (0)
+            218 LOAD_FAST                2 (types)
+            220 LOAD_FAST                4 (monkey_name)
+            222 STORE_SUBSCR
+
+ 36         226 LOAD_FAST                5 (expression)
+            228 LOAD_CONST               5 (0)
+            230 LOAD_CONST               2 (4)
+            232 BINARY_SLICE
+            234 LOAD_FAST                5 (expression)
+            236 LOAD_CONST               6 (5)
+            238 BINARY_SUBSCR
+            242 LOAD_FAST                5 (expression)
+            244 LOAD_CONST               7 (7)
+            246 LOAD_CONST               0 (None)
+            248 BINARY_SLICE
+            250 BUILD_LIST               3
+            252 LOAD_FAST                1 (out_dict)
+            254 LOAD_FAST                4 (monkey_name)
+            256 STORE_SUBSCR
+            260 JUMP_BACKWARD           64 (to 134)
+
+ 25     >>  262 END_FOR
+
+ 38         264 LOAD_FAST                1 (out_dict)
+            266 LOAD_FAST                2 (types)
+            268 BUILD_TUPLE              2
+            270 RETURN_VALUE
+
+Disassembly of <code object evaluate_monkeys at 0x55851a6f5240, file "prof.py", line 60>:
+ 60           0 RESUME                   0
+
+ 64           2 LOAD_FAST                0 (monkeys)
+              4 LOAD_FAST                1 (cur_monkey)
+              6 BINARY_SUBSCR
+             10 STORE_FAST               2 (tokens)
+
+ 65          12 LOAD_GLOBAL              1 (NULL + len)
+             22 LOAD_FAST                2 (tokens)
+             24 CALL                     1
+             32 LOAD_CONST               1 (1)
+             34 COMPARE_OP              40 (==)
+             38 POP_JUMP_IF_FALSE       44 (to 128)
+
+ 66          40 LOAD_FAST                2 (tokens)
+             42 LOAD_CONST               2 (0)
+             44 BINARY_SUBSCR
+             48 STORE_FAST               3 (token)
+
+ 67          50 LOAD_FAST                3 (token)
+             52 LOAD_ATTR                3 (NULL|self + isnumeric)
+             72 CALL                     0
+             80 POP_JUMP_IF_FALSE       11 (to 104)
+
+ 68          82 LOAD_GLOBAL              5 (NULL + int)
+             92 LOAD_FAST                3 (token)
+             94 CALL                     1
+            102 RETURN_VALUE
+
+ 70     >>  104 LOAD_GLOBAL              7 (NULL + evaluate_monkeys)
+            114 LOAD_FAST                0 (monkeys)
+            116 LOAD_FAST                3 (token)
+            118 CALL                     2
+            126 RETURN_VALUE
+
+ 72     >>  128 LOAD_GLOBAL              7 (NULL + evaluate_monkeys)
+            138 LOAD_FAST                0 (monkeys)
+            140 LOAD_FAST                2 (tokens)
+            142 LOAD_CONST               2 (0)
+            144 BINARY_SUBSCR
+            148 CALL                     2
+            156 STORE_FAST               4 (val_1)
+
+ 73         158 LOAD_GLOBAL              7 (NULL + evaluate_monkeys)
+            168 LOAD_FAST                0 (monkeys)
+            170 LOAD_FAST                2 (tokens)
+            172 LOAD_CONST               3 (2)
+            174 BINARY_SUBSCR
+            178 CALL                     2
+            186 STORE_FAST               5 (val_2)
+
+ 74         188 LOAD_FAST                2 (tokens)
+            190 LOAD_CONST               1 (1)
+            192 BINARY_SUBSCR
+            196 STORE_FAST               6 (op_string)
+
+ 75         198 LOAD_FAST                6 (op_string)
+
+ 76         200 COPY                     1
+            202 LOAD_CONST               4 ('+')
+            204 COMPARE_OP              40 (==)
+            208 POP_JUMP_IF_FALSE        6 (to 222)
+            210 POP_TOP
+
+ 77         212 LOAD_FAST                4 (val_1)
+            214 LOAD_FAST                5 (val_2)
+            216 BINARY_OP                0 (+)
+            220 RETURN_VALUE
+
+ 78     >>  222 COPY                     1
+            224 LOAD_CONST               5 ('-')
+            226 COMPARE_OP              40 (==)
+            230 POP_JUMP_IF_FALSE        6 (to 244)
+            232 POP_TOP
+
+ 79         234 LOAD_FAST                4 (val_1)
+            236 LOAD_FAST                5 (val_2)
+            238 BINARY_OP               10 (-)
+            242 RETURN_VALUE
+
+ 80     >>  244 COPY                     1
+            246 LOAD_CONST               6 ('*')
+            248 COMPARE_OP              40 (==)
+            252 POP_JUMP_IF_FALSE        6 (to 266)
+            254 POP_TOP
+
+ 81         256 LOAD_FAST                4 (val_1)
+            258 LOAD_FAST                5 (val_2)
+            260 BINARY_OP                5 (*)
+            264 RETURN_VALUE
+
+ 82     >>  266 LOAD_CONST               7 ('/')
+            268 COMPARE_OP              40 (==)
+            272 POP_JUMP_IF_FALSE        5 (to 284)
+
+ 83         274 LOAD_FAST                4 (val_1)
+            276 LOAD_FAST                5 (val_2)
+            278 BINARY_OP                2 (//)
+            282 RETURN_VALUE
+
+ 84     >>  284 NOP
+
+ 85         286 LOAD_GLOBAL              9 (NULL + print)
+            296 LOAD_CONST               8 ('Invalid operation for monkey ')
+            298 LOAD_GLOBAL             11 (NULL + str)
+            308 LOAD_GLOBAL             12 (monkey_name)
+            318 CALL                     1
+            326 BINARY_OP                0 (+)
+            330 LOAD_CONST               9 (' : ')
+            332 BINARY_OP                0 (+)
+            336 LOAD_GLOBAL             11 (NULL + str)
+            346 LOAD_FAST                6 (op_string)
+            348 CALL                     1
+            356 BINARY_OP                0 (+)
+            360 CALL                     1
+            368 POP_TOP
+
+ 86         370 LOAD_GLOBAL             15 (NULL + exit)
+            380 LOAD_CONST               1 (1)
+            382 CALL                     1
+            390 POP_TOP
+            392 RETURN_CONST             0 (None)
+
+Disassembly of <code object get_route at 0x7f58c06f7560, file "prof.py", line 110>:
+110           0 RESUME                   0
+
+112           2 LOAD_FAST                3 (cur_monkey)
+              4 LOAD_FAST                1 (wanted_monkey)
+              6 COMPARE_OP              40 (==)
+             10 POP_JUMP_IF_FALSE        2 (to 16)
+
+114          12 LOAD_FAST                2 (moves)
+             14 RETURN_VALUE
+
+116     >>   16 LOAD_FAST                0 (monkeys)
+             18 GET_ITER
+        >>   20 FOR_ITER                71 (to 166)
+             24 STORE_FAST               5 (monkey)
+
+117          26 LOAD_FAST                4 (types)
+             28 LOAD_FAST                5 (monkey)
+             30 BINARY_SUBSCR
+             34 POP_JUMP_IF_FALSE        1 (to 38)
+
+118          36 JUMP_BACKWARD            9 (to 20)
+
+119     >>   38 LOAD_FAST                0 (monkeys)
+             40 LOAD_FAST                5 (monkey)
+             42 BINARY_SUBSCR
+             46 STORE_FAST               6 (expression)
+
+121          48 LOAD_FAST                3 (cur_monkey)
+             50 LOAD_FAST                6 (expression)
+             52 LOAD_CONST               1 (0)
+             54 BINARY_SUBSCR
+             58 COMPARE_OP              40 (==)
+             62 POP_JUMP_IF_FALSE       21 (to 106)
+
+123          64 LOAD_GLOBAL              1 (NULL + get_route)
+             74 LOAD_FAST                0 (monkeys)
+             76 LOAD_FAST                1 (wanted_monkey)
+             78 LOAD_CONST               1 (0)
+             80 BUILD_LIST               1
+             82 LOAD_FAST                2 (moves)
+             84 BINARY_OP                0 (+)
+             88 LOAD_FAST                5 (monkey)
+             90 LOAD_FAST                4 (types)
+             92 CALL                     5
+            100 SWAP                     2
+            102 POP_TOP
+            104 RETURN_VALUE
+
+124     >>  106 LOAD_FAST                3 (cur_monkey)
+            108 LOAD_FAST                6 (expression)
+            110 LOAD_CONST               2 (2)
+            112 BINARY_SUBSCR
+            116 COMPARE_OP              40 (==)
+            120 POP_JUMP_IF_TRUE         1 (to 124)
+            122 JUMP_BACKWARD           52 (to 20)
+
+125     >>  124 LOAD_GLOBAL              1 (NULL + get_route)
+            134 LOAD_FAST                0 (monkeys)
+            136 LOAD_FAST                1 (wanted_monkey)
+            138 LOAD_CONST               3 (1)
+            140 BUILD_LIST               1
+            142 LOAD_FAST                2 (moves)
+            144 BINARY_OP                0 (+)
+            148 LOAD_FAST                5 (monkey)
+            150 LOAD_FAST                4 (types)
+            152 CALL                     5
+            160 SWAP                     2
+            162 POP_TOP
+            164 RETURN_VALUE
+
+116     >>  166 END_FOR
+            168 RETURN_CONST             0 (None)
+
+Disassembly of <code object get_value at 0x7f58c05de340, file "prof.py", line 130>:
+130           0 RESUME                   0
+
+131           2 LOAD_FAST                1 (route)
+              4 LOAD_CONST               1 (0)
+              6 BINARY_SUBSCR
+             10 LOAD_CONST               1 (0)
+             12 COMPARE_OP              40 (==)
+             16 POP_JUMP_IF_FALSE        9 (to 36)
+
+135          18 LOAD_FAST                0 (monkeys)
+             20 LOAD_CONST               2 ('root')
+             22 BINARY_SUBSCR
+             26 LOAD_CONST               3 (2)
+             28 BINARY_SUBSCR
+             32 STORE_FAST               2 (value_monkey)
+             34 JUMP_FORWARD             8 (to 52)
+
+139     >>   36 LOAD_FAST                0 (monkeys)
+             38 LOAD_CONST               2 ('root')
+             40 BINARY_SUBSCR
+             44 LOAD_CONST               1 (0)
+             46 BINARY_SUBSCR
+             50 STORE_FAST               2 (value_monkey)
+
+144     >>   52 LOAD_GLOBAL              1 (NULL + evaluate_monkeys)
+             62 LOAD_FAST                0 (monkeys)
+             64 LOAD_FAST                2 (value_monkey)
+             66 CALL                     2
+             74 STORE_FAST               3 (lhs)
+
+146          76 LOAD_FAST                3 (lhs)
+             78 RETURN_VALUE
+
+Disassembly of <code object get_monkey_name at 0x7f58c0792d30, file "prof.py", line 149>:
+149           0 RESUME                   0
+
+150           2 LOAD_FAST                0 (monkeys)
+              4 LOAD_FAST                1 (name)
+              6 BINARY_SUBSCR
+             10 STORE_FAST               3 (expression)
+
+151          12 LOAD_FAST                2 (move)
+             14 LOAD_CONST               1 (0)
+             16 COMPARE_OP              40 (==)
+             20 POP_JUMP_IF_FALSE        5 (to 32)
+
+153          22 LOAD_FAST                3 (expression)
+             24 LOAD_CONST               1 (0)
+             26 BINARY_SUBSCR
+             30 RETURN_VALUE
+
+156     >>   32 LOAD_FAST                3 (expression)
+             34 LOAD_CONST               2 (2)
+             36 BINARY_SUBSCR
+             40 RETURN_VALUE
+
+Disassembly of <code object traverse_backwards at 0x55851a6bb0a0, file "prof.py", line 159>:
+159           0 RESUME                   0
+
+165           2 LOAD_CONST               1 ('root')
+              4 STORE_FAST               3 (cur_name)
+
+166           6 LOAD_CONST               1 ('root')
+              8 BUILD_LIST               1
+             10 STORE_FAST               4 (monkey_names)
+
+168          12 LOAD_FAST                1 (route)
+             14 GET_ITER
+        >>   16 FOR_ITER                32 (to 84)
+             20 STORE_FAST               5 (move)
+
+169          22 LOAD_GLOBAL              1 (NULL + get_monkey_name)
+             32 LOAD_FAST                0 (monkeys)
+             34 LOAD_FAST                3 (cur_name)
+             36 LOAD_FAST                5 (move)
+             38 CALL                     3
+             46 STORE_FAST               3 (cur_name)
+
+170          48 LOAD_FAST                4 (monkey_names)
+             50 LOAD_ATTR                3 (NULL|self + append)
+             70 LOAD_FAST                3 (cur_name)
+             72 CALL                     1
+             80 POP_TOP
+             82 JUMP_BACKWARD           34 (to 16)
+
+168     >>   84 END_FOR
+
+179          86 LOAD_CONST               1 ('root')
+             88 STORE_FAST               3 (cur_name)
+
+180          90 LOAD_CONST               2 (0)
+             92 STORE_FAST               6 (counter)
+
+181          94 LOAD_FAST                4 (monkey_names)
+             96 LOAD_ATTR                5 (NULL|self + pop)
+            116 LOAD_CONST               2 (0)
+            118 CALL                     1
+            126 POP_TOP
+
+183         128 LOAD_FAST                1 (route)
+            130 LOAD_ATTR                5 (NULL|self + pop)
+            150 LOAD_CONST               2 (0)
+            152 CALL                     1
+            160 POP_TOP
+
+186         162 LOAD_FAST                3 (cur_name)
+            164 LOAD_CONST               3 ('humn')
+            166 COMPARE_OP              55 (!=)
+            170 POP_JUMP_IF_FALSE      189 (to 550)
+
+187     >>  172 LOAD_FAST                4 (monkey_names)
+            174 LOAD_FAST                6 (counter)
+            176 BINARY_SUBSCR
+            180 STORE_FAST               3 (cur_name)
+
+190         182 LOAD_FAST                3 (cur_name)
+            184 LOAD_CONST               3 ('humn')
+            186 COMPARE_OP              40 (==)
+            190 POP_JUMP_IF_FALSE        3 (to 198)
+
+192         192 NOP
+
+233         194 LOAD_FAST                2 (value)
+            196 RETURN_VALUE
+
+193     >>  198 LOAD_FAST                1 (route)
+            200 LOAD_FAST                6 (counter)
+            202 BINARY_SUBSCR
+            206 LOAD_CONST               4 (1)
+            208 COMPARE_OP              40 (==)
+            212 POP_JUMP_IF_FALSE        3 (to 220)
+
+195         214 LOAD_CONST               2 (0)
+            216 STORE_FAST               7 (cor_index)
+            218 JUMP_FORWARD             2 (to 224)
+
+198     >>  220 LOAD_CONST               5 (2)
+            222 STORE_FAST               7 (cor_index)
+
+199     >>  224 LOAD_FAST                0 (monkeys)
+            226 LOAD_FAST                3 (cur_name)
+            228 BINARY_SUBSCR
+            232 STORE_FAST               8 (tokens)
+
+200         234 LOAD_FAST                8 (tokens)
+            236 LOAD_FAST                7 (cor_index)
+            238 BINARY_SUBSCR
+            242 STORE_FAST               9 (other_monkey_name)
+
+202         244 LOAD_GLOBAL              7 (NULL + evaluate_monkeys)
+            254 LOAD_FAST                0 (monkeys)
+            256 LOAD_FAST                9 (other_monkey_name)
+            258 CALL                     2
+            266 STORE_FAST              10 (val_2)
+
+204         268 LOAD_FAST                8 (tokens)
+            270 LOAD_CONST               4 (1)
+            272 BINARY_SUBSCR
+
+205         276 COPY                     1
+            278 LOAD_CONST               6 ('+')
+            280 COMPARE_OP              40 (==)
+            284 POP_JUMP_IF_FALSE        7 (to 300)
+            286 POP_TOP
+
+206         288 LOAD_FAST                2 (value)
+            290 LOAD_FAST               10 (val_2)
+            292 BINARY_OP               10 (-)
+            296 STORE_FAST               2 (value)
+            298 JUMP_FORWARD           114 (to 528)
+
+207     >>  300 COPY                     1
+            302 LOAD_CONST               7 ('-')
+            304 COMPARE_OP              40 (==)
+            308 POP_JUMP_IF_FALSE       18 (to 346)
+            310 POP_TOP
+
+209         312 LOAD_FAST                7 (cor_index)
+            314 LOAD_CONST               2 (0)
+            316 COMPARE_OP              40 (==)
+            320 POP_JUMP_IF_FALSE        6 (to 334)
+
+211         322 LOAD_FAST               10 (val_2)
+            324 LOAD_FAST                2 (value)
+            326 BINARY_OP               10 (-)
+            330 STORE_FAST               2 (value)
+            332 JUMP_FORWARD            97 (to 528)
+
+214     >>  334 LOAD_FAST                2 (value)
+            336 LOAD_FAST               10 (val_2)
+            338 BINARY_OP                0 (+)
+            342 STORE_FAST               2 (value)
+            344 JUMP_FORWARD            91 (to 528)
+
+215     >>  346 COPY                     1
+            348 LOAD_CONST               8 ('*')
+            350 COMPARE_OP              40 (==)
+            354 POP_JUMP_IF_FALSE        7 (to 370)
+            356 POP_TOP
+
+221         358 LOAD_FAST                2 (value)
+            360 LOAD_FAST               10 (val_2)
+            362 BINARY_OP                2 (//)
+            366 STORE_FAST               2 (value)
+            368 JUMP_FORWARD            79 (to 528)
+
+222     >>  370 LOAD_CONST               9 ('/')
+            372 COMPARE_OP              40 (==)
+            376 POP_JUMP_IF_FALSE       17 (to 412)
+
+223         378 LOAD_FAST                7 (cor_index)
+            380 LOAD_CONST               2 (0)
+            382 COMPARE_OP              40 (==)
+            386 POP_JUMP_IF_FALSE        6 (to 400)
+
+225         388 LOAD_FAST                2 (value)
+            390 LOAD_FAST               10 (val_2)
+            392 BINARY_OP               11 (/)
+            396 STORE_FAST               2 (value)
+            398 JUMP_FORWARD            64 (to 528)
+
+228     >>  400 LOAD_FAST                2 (value)
+            402 LOAD_FAST               10 (val_2)
+            404 BINARY_OP                5 (*)
+            408 STORE_FAST               2 (value)
+            410 JUMP_FORWARD            58 (to 528)
+
+229     >>  412 NOP
+
+230         414 LOAD_GLOBAL              9 (NULL + print)
+            424 LOAD_CONST              10 ('Invalid operation for monkey ')
+            426 LOAD_GLOBAL             11 (NULL + str)
+            436 LOAD_GLOBAL             12 (monkey_name)
+            446 CALL                     1
+            454 BINARY_OP                0 (+)
+            458 LOAD_CONST              11 (' : ')
+            460 BINARY_OP                0 (+)
+            464 LOAD_GLOBAL             11 (NULL + str)
+            474 LOAD_GLOBAL             14 (op_string)
+            484 CALL                     1
+            492 BINARY_OP                0 (+)
+            496 CALL                     1
+            504 POP_TOP
+
+231         506 LOAD_GLOBAL             17 (NULL + exit)
+            516 LOAD_CONST               4 (1)
+            518 CALL                     1
+            526 POP_TOP
+
+232     >>  528 LOAD_FAST                6 (counter)
+            530 LOAD_CONST               4 (1)
+            532 BINARY_OP               13 (+=)
+            536 STORE_FAST               6 (counter)
+
+186         538 LOAD_FAST                3 (cur_name)
+            540 LOAD_CONST               3 ('humn')
+            542 COMPARE_OP              55 (!=)
+            546 POP_JUMP_IF_FALSE        1 (to 550)
+            548 JUMP_BACKWARD          189 (to 172)
+
+233     >>  550 LOAD_FAST                2 (value)
+            552 RETURN_VALUE
+
+Disassembly of <code object get_monkey_names at 0x7f58c0605fb0, file "prof.py", line 236>:
+236           0 RESUME                   0
+
+238           2 LOAD_CONST               1 ('root')
+              4 STORE_FAST               2 (cur_name)
+
+239           6 LOAD_CONST               1 ('root')
+              8 BUILD_LIST               1
+             10 STORE_FAST               3 (monkey_names)
+
+241          12 LOAD_FAST                1 (route)
+             14 GET_ITER
+        >>   16 FOR_ITER                32 (to 84)
+             20 STORE_FAST               4 (move)
+
+242          22 LOAD_GLOBAL              1 (NULL + get_monkey_name)
+             32 LOAD_FAST                0 (monkeys)
+             34 LOAD_FAST                2 (cur_name)
+             36 LOAD_FAST                4 (move)
+             38 CALL                     3
+             46 STORE_FAST               2 (cur_name)
+
+243          48 LOAD_FAST                3 (monkey_names)
+             50 LOAD_ATTR                3 (NULL|self + append)
+             70 LOAD_FAST                2 (cur_name)
+             72 CALL                     1
+             80 POP_TOP
+             82 JUMP_BACKWARD           34 (to 16)
+
+241     >>   84 END_FOR
+
+244          86 LOAD_FAST                3 (monkey_names)
+             88 RETURN_VALUE
+
+Disassembly of <code object solve_equation at 0x7f58c06f76d0, file "prof.py", line 247>:
+247           0 RESUME                   0
+
+249           2 LOAD_GLOBAL              1 (NULL + print)
+             12 LOAD_GLOBAL              3 (NULL + dis)
+             22 LOAD_ATTR                2 (dis)
+             42 LOAD_CONST               1 ('get_route(monkeys, "root", [], "humn", types)')
+             44 CALL                     1
+             52 CALL                     1
+             60 POP_TOP
+
+250          62 LOAD_GLOBAL              5 (NULL + get_route)
+             72 LOAD_FAST                0 (monkeys)
+             74 LOAD_CONST               2 ('root')
+             76 BUILD_LIST               0
+             78 LOAD_CONST               3 ('humn')
+             80 LOAD_FAST                1 (types)
+             82 CALL                     5
+             90 STORE_FAST               2 (route)
+
+251          92 LOAD_GLOBAL              7 (NULL + get_monkey_names)
+            102 LOAD_FAST                0 (monkeys)
+            104 LOAD_FAST                2 (route)
+            106 CALL                     2
+            114 STORE_FAST               3 (monkey_names)
+
+253         116 LOAD_GLOBAL              9 (NULL + get_value)
+            126 LOAD_FAST                0 (monkeys)
+            128 LOAD_FAST                2 (route)
+            130 CALL                     2
+            138 STORE_FAST               4 (value)
+
+255         140 LOAD_GLOBAL             11 (NULL + traverse_backwards)
+            150 LOAD_FAST                0 (monkeys)
+            152 LOAD_FAST                2 (route)
+            154 LOAD_FAST                4 (value)
+            156 CALL                     3
+            164 STORE_FAST               5 (humn_value)
+
+257         166 LOAD_FAST                5 (humn_value)
+            168 RETURN_VALUE
+
+Disassembly of <code object main at 0x55851a6ef7e0, file "prof.py", line 259>:
+259           0 RESUME                   0
+
+260           2 LOAD_GLOBAL              1 (NULL + time)
+             12 LOAD_ATTR                0 (time)
+             32 CALL                     0
+             40 STORE_FAST               0 (start_time)
+
+261          42 LOAD_GLOBAL              3 (NULL + range)
+             52 LOAD_GLOBAL              4 (RUN_COUNT)
+             62 CALL                     1
+             70 GET_ITER
+        >>   72 FOR_ITER                27 (to 130)
+             76 STORE_FAST               1 (_)
+
+263          78 LOAD_GLOBAL              7 (NULL + parse_monkeys)
+             88 CALL                     0
+             96 UNPACK_SEQUENCE          2
+            100 STORE_FAST               2 (monkeys)
+            102 STORE_FAST               3 (types)
+
+264         104 LOAD_GLOBAL              9 (NULL + solve_equation)
+            114 LOAD_FAST                2 (monkeys)
+            116 LOAD_FAST                3 (types)
+            118 CALL                     2
+            126 STORE_FAST               4 (result)
+            128 JUMP_BACKWARD           29 (to 72)
+
+261     >>  130 END_FOR
+
+267         132 LOAD_GLOBAL              1 (NULL + time)
+            142 LOAD_ATTR                0 (time)
+            162 CALL                     0
+            170 STORE_FAST               5 (end_time)
+
+268         172 LOAD_FAST                5 (end_time)
+            174 LOAD_FAST                0 (start_time)
+            176 BINARY_OP               10 (-)
+            180 STORE_FAST               6 (tot_time)
+
+269         182 LOAD_GLOBAL             11 (NULL + print)
+            192 LOAD_GLOBAL             13 (NULL + str)
+            202 LOAD_GLOBAL              4 (RUN_COUNT)
+            212 CALL                     1
+            220 LOAD_CONST               1 (' runs tooks ')
+            222 BINARY_OP                0 (+)
+            226 LOAD_GLOBAL             13 (NULL + str)
+            236 LOAD_FAST                6 (tot_time)
+            238 CALL                     1
+            246 BINARY_OP                0 (+)
+            250 LOAD_CONST               2 (' seconds.')
+            252 BINARY_OP                0 (+)
+            256 CALL                     1
+            264 POP_TOP
+
+270         266 LOAD_GLOBAL             11 (NULL + print)
+            276 LOAD_CONST               3 ('Average run time was ')
+            278 LOAD_GLOBAL             13 (NULL + str)
+            288 LOAD_FAST                6 (tot_time)
+            290 LOAD_GLOBAL              4 (RUN_COUNT)
+            300 BINARY_OP               11 (/)
+            304 CALL                     1
+            312 BINARY_OP                0 (+)
+            316 LOAD_CONST               2 (' seconds.')
+            318 BINARY_OP                0 (+)
+            322 CALL                     1
+            330 POP_TOP
+
+271         332 LOAD_GLOBAL             11 (NULL + print)
+            342 LOAD_CONST               4 ('Disassembly of get_route : ')
+            344 CALL                     1
+            352 POP_TOP
+
+273         354 RETURN_CONST             5 (0)
