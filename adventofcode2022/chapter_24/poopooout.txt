@@ -1,0 +1,6196 @@
+Sys.argv: ['dijkstra.py']
+Getting all possible blizzards...
+Done!
+Length of the heap thing : 1
+n == 0
+Queue length: 2
+Queue length: 2
+Queue length: 1
+Queue length: 1
+Queue length: 2
+Queue length: 3
+Queue length: 3
+Queue length: 3
+Queue length: 2
+Queue length: 2
+Queue length: 3
+Queue length: 3
+Queue length: 4
+Queue length: 5
+Queue length: 6
+Queue length: 7
+Queue length: 6
+Queue length: 6
+Queue length: 6
+Queue length: 7
+Queue length: 6
+Queue length: 6
+Queue length: 6
+Queue length: 6
+Queue length: 6
+Queue length: 5
+Queue length: 5
+Queue length: 6
+Queue length: 8
+Queue length: 8
+Queue length: 8
+Queue length: 8
+Queue length: 9
+Queue length: 9
+Queue length: 9
+Queue length: 9
+Queue length: 9
+Queue length: 10
+Queue length: 10
+Queue length: 10
+Queue length: 11
+Queue length: 12
+Queue length: 12
+Queue length: 13
+Queue length: 13
+Queue length: 13
+Queue length: 14
+Queue length: 13
+Queue length: 13
+Queue length: 13
+Queue length: 14
+Queue length: 15
+Queue length: 15
+Queue length: 15
+Queue length: 15
+Queue length: 14
+Queue length: 14
+Queue length: 14
+Queue length: 13
+Queue length: 13
+Queue length: 13
+Queue length: 13
+Queue length: 13
+Queue length: 13
+Queue length: 13
+Queue length: 13
+Queue length: 13
+Queue length: 14
+Queue length: 13
+Queue length: 12
+Queue length: 12
+Queue length: 12
+Queue length: 12
+Queue length: 11
+Queue length: 11
+Queue length: 11
+Queue length: 12
+Queue length: 12
+Queue length: 12
+Queue length: 12
+Queue length: 12
+Queue length: 12
+Queue length: 11
+Queue length: 11
+Queue length: 10
+Queue length: 10
+Queue length: 11
+Queue length: 12
+Queue length: 12
+Queue length: 13
+Queue length: 14
+Queue length: 14
+Queue length: 15
+Queue length: 14
+Queue length: 14
+Queue length: 13
+Queue length: 13
+Queue length: 13
+Queue length: 13
+Queue length: 12
+Queue length: 12
+Queue length: 12
+Queue length: 12
+Queue length: 12
+Queue length: 15
+Queue length: 16
+Queue length: 15
+Queue length: 14
+Queue length: 15
+Queue length: 14
+Queue length: 15
+Queue length: 16
+Queue length: 17
+Queue length: 16
+Queue length: 17
+Queue length: 16
+Queue length: 16
+Queue length: 15
+Queue length: 16
+Queue length: 15
+Queue length: 15
+Queue length: 14
+Queue length: 15
+Queue length: 15
+Queue length: 14
+Queue length: 14
+Queue length: 15
+Queue length: 15
+Queue length: 14
+Queue length: 14
+Queue length: 14
+Queue length: 14
+Queue length: 14
+Queue length: 14
+Queue length: 14
+Queue length: 13
+Queue length: 15
+Queue length: 14
+Queue length: 13
+Queue length: 13
+Queue length: 13
+Queue length: 13
+Queue length: 12
+Queue length: 14
+Queue length: 14
+Queue length: 15
+Queue length: 16
+Queue length: 18
+Queue length: 17
+Queue length: 16
+Queue length: 15
+Queue length: 15
+Queue length: 16
+Queue length: 17
+Queue length: 16
+Queue length: 16
+Queue length: 16
+Queue length: 16
+Queue length: 16
+Queue length: 16
+Queue length: 15
+Queue length: 15
+Queue length: 15
+Queue length: 15
+Queue length: 14
+Queue length: 14
+Queue length: 15
+Queue length: 16
+Queue length: 16
+Queue length: 17
+Queue length: 17
+Queue length: 18
+Queue length: 20
+Queue length: 20
+Queue length: 19
+Queue length: 18
+Queue length: 18
+Queue length: 17
+Queue length: 18
+Queue length: 19
+Queue length: 20
+Queue length: 21
+Queue length: 21
+Queue length: 21
+Queue length: 20
+Queue length: 20
+Queue length: 20
+Queue length: 20
+Queue length: 20
+Queue length: 21
+Queue length: 21
+Queue length: 22
+Queue length: 22
+Queue length: 21
+Queue length: 22
+Queue length: 21
+Queue length: 20
+Queue length: 20
+Queue length: 21
+Queue length: 21
+Queue length: 20
+Queue length: 20
+Queue length: 20
+Queue length: 20
+Queue length: 20
+Queue length: 20
+Queue length: 22
+Queue length: 22
+Queue length: 24
+Queue length: 23
+Queue length: 22
+Queue length: 23
+Queue length: 22
+Queue length: 23
+Queue length: 24
+Queue length: 24
+Queue length: 23
+Queue length: 23
+Queue length: 23
+Queue length: 23
+Queue length: 23
+Queue length: 23
+Queue length: 23
+Queue length: 23
+Queue length: 23
+Queue length: 24
+Queue length: 25
+Queue length: 26
+Queue length: 25
+Queue length: 27
+Queue length: 27
+Queue length: 29
+Queue length: 29
+Queue length: 29
+Queue length: 28
+Queue length: 27
+Queue length: 28
+Queue length: 28
+Queue length: 27
+Queue length: 28
+Queue length: 27
+Queue length: 26
+Queue length: 29
+Queue length: 30
+Queue length: 29
+Queue length: 28
+Queue length: 29
+Queue length: 29
+Queue length: 30
+Queue length: 30
+Queue length: 29
+Queue length: 28
+Queue length: 27
+Queue length: 29
+Queue length: 28
+Queue length: 28
+Queue length: 28
+Queue length: 29
+Queue length: 28
+Queue length: 27
+Queue length: 26
+Queue length: 25
+Queue length: 27
+Queue length: 26
+Queue length: 27
+Queue length: 27
+Queue length: 27
+Queue length: 26
+Queue length: 26
+Queue length: 26
+Queue length: 26
+Queue length: 26
+Queue length: 25
+Queue length: 25
+Queue length: 24
+Queue length: 26
+Queue length: 26
+Queue length: 27
+Queue length: 27
+Queue length: 27
+Queue length: 28
+Queue length: 28
+Queue length: 29
+Queue length: 29
+Queue length: 29
+Queue length: 29
+Queue length: 28
+Queue length: 29
+Queue length: 28
+Queue length: 28
+Queue length: 29
+Queue length: 29
+Queue length: 30
+Queue length: 31
+Queue length: 31
+Queue length: 32
+Queue length: 33
+Queue length: 34
+Queue length: 35
+Queue length: 36
+Queue length: 36
+Queue length: 37
+Queue length: 36
+Queue length: 37
+Queue length: 37
+Queue length: 37
+Queue length: 38
+Queue length: 37
+Queue length: 36
+Queue length: 37
+Queue length: 37
+Queue length: 36
+Queue length: 36
+Queue length: 35
+Queue length: 34
+Queue length: 34
+Queue length: 34
+Queue length: 34
+Queue length: 34
+Queue length: 34
+Queue length: 34
+Queue length: 34
+Queue length: 36
+Queue length: 36
+Queue length: 37
+Queue length: 37
+Queue length: 37
+Queue length: 40
+Queue length: 40
+Queue length: 41
+Queue length: 42
+Queue length: 42
+Queue length: 41
+Queue length: 41
+Queue length: 41
+Queue length: 40
+Queue length: 40
+Queue length: 40
+Queue length: 39
+Queue length: 40
+Queue length: 40
+Queue length: 39
+Queue length: 39
+Queue length: 40
+Queue length: 40
+Queue length: 43
+Queue length: 44
+Queue length: 45
+Queue length: 45
+Queue length: 44
+Queue length: 44
+Queue length: 43
+Queue length: 43
+Queue length: 43
+Queue length: 42
+Queue length: 44
+Queue length: 43
+Queue length: 43
+Queue length: 43
+Queue length: 45
+Queue length: 45
+Queue length: 46
+Queue length: 46
+Queue length: 46
+Queue length: 47
+Queue length: 47
+Queue length: 46
+Queue length: 46
+Queue length: 46
+Queue length: 46
+Queue length: 46
+Queue length: 46
+Queue length: 45
+Queue length: 44
+Queue length: 44
+Queue length: 44
+Queue length: 43
+Queue length: 43
+Queue length: 44
+Queue length: 44
+Queue length: 45
+Queue length: 46
+Queue length: 46
+Queue length: 46
+Queue length: 47
+Queue length: 47
+Queue length: 48
+Queue length: 47
+Queue length: 46
+Queue length: 46
+Queue length: 47
+Queue length: 47
+Queue length: 46
+Queue length: 46
+Queue length: 47
+Queue length: 47
+Queue length: 46
+Queue length: 46
+Queue length: 46
+Queue length: 46
+Queue length: 48
+Queue length: 49
+Queue length: 49
+Queue length: 50
+Queue length: 49
+Queue length: 48
+Queue length: 47
+Queue length: 47
+Queue length: 47
+Queue length: 46
+Queue length: 46
+Queue length: 47
+Queue length: 48
+Queue length: 47
+Queue length: 46
+Queue length: 45
+Queue length: 44
+Queue length: 44
+Queue length: 43
+Queue length: 45
+Queue length: 44
+Queue length: 45
+Queue length: 45
+Queue length: 45
+Queue length: 44
+Queue length: 44
+Queue length: 44
+Queue length: 45
+Queue length: 45
+Queue length: 47
+Queue length: 48
+Queue length: 50
+Queue length: 50
+Queue length: 50
+Queue length: 49
+Queue length: 48
+Queue length: 48
+Queue length: 47
+Queue length: 46
+Queue length: 46
+Queue length: 47
+Queue length: 47
+Queue length: 48
+Queue length: 48
+Queue length: 47
+Queue length: 46
+Queue length: 46
+Queue length: 46
+Queue length: 46
+Queue length: 45
+Queue length: 45
+Queue length: 45
+Queue length: 45
+Queue length: 46
+Queue length: 45
+Queue length: 45
+Queue length: 46
+Queue length: 46
+Queue length: 45
+Queue length: 45
+Queue length: 45
+Queue length: 45
+Queue length: 46
+Queue length: 47
+Queue length: 46
+Queue length: 46
+Queue length: 47
+Queue length: 46
+Queue length: 48
+Queue length: 50
+Queue length: 50
+Queue length: 50
+Queue length: 50
+Queue length: 51
+Queue length: 51
+Queue length: 50
+Queue length: 50
+Queue length: 49
+Queue length: 48
+Queue length: 49
+Queue length: 48
+Queue length: 47
+Queue length: 47
+Queue length: 48
+Queue length: 50
+Queue length: 51
+Queue length: 51
+Queue length: 50
+Queue length: 49
+Queue length: 49
+Queue length: 49
+Queue length: 48
+Queue length: 48
+Queue length: 50
+Queue length: 51
+Queue length: 51
+Queue length: 51
+Queue length: 52
+Queue length: 52
+Queue length: 52
+Queue length: 51
+Queue length: 50
+Queue length: 49
+Queue length: 50
+Queue length: 50
+Queue length: 51
+Queue length: 50
+Queue length: 50
+Queue length: 49
+Queue length: 49
+Queue length: 49
+Queue length: 49
+Queue length: 51
+Queue length: 52
+Queue length: 52
+Queue length: 52
+Queue length: 52
+Queue length: 52
+Queue length: 51
+Queue length: 52
+Queue length: 53
+Queue length: 53
+Queue length: 53
+Queue length: 52
+Queue length: 53
+Queue length: 52
+Queue length: 52
+Queue length: 51
+Queue length: 51
+Queue length: 51
+Queue length: 51
+Queue length: 50
+Queue length: 50
+Queue length: 50
+Queue length: 50
+Queue length: 50
+Queue length: 49
+Queue length: 50
+Queue length: 49
+Queue length: 49
+Queue length: 49
+Queue length: 49
+Queue length: 50
+Queue length: 53
+Queue length: 54
+Queue length: 54
+Queue length: 53
+Queue length: 53
+Queue length: 53
+Queue length: 52
+Queue length: 51
+Queue length: 52
+Queue length: 53
+Queue length: 52
+Queue length: 52
+Queue length: 53
+Queue length: 53
+Queue length: 53
+Queue length: 53
+Queue length: 54
+Queue length: 54
+Queue length: 55
+Queue length: 56
+Queue length: 56
+Queue length: 58
+Queue length: 58
+Queue length: 58
+Queue length: 58
+Queue length: 59
+Queue length: 58
+Queue length: 57
+Queue length: 57
+Queue length: 56
+Queue length: 55
+Queue length: 54
+Queue length: 55
+Queue length: 54
+Queue length: 53
+Queue length: 54
+Queue length: 55
+Queue length: 56
+Queue length: 55
+Queue length: 56
+Queue length: 55
+Queue length: 54
+Queue length: 53
+Queue length: 52
+Queue length: 53
+Queue length: 53
+Queue length: 53
+Queue length: 53
+Queue length: 53
+Queue length: 54
+Queue length: 53
+Queue length: 52
+Queue length: 51
+Queue length: 51
+Queue length: 52
+Queue length: 52
+Queue length: 51
+Queue length: 50
+Queue length: 52
+Queue length: 52
+Queue length: 54
+Queue length: 54
+Queue length: 55
+Queue length: 56
+Queue length: 56
+Queue length: 56
+Queue length: 56
+Queue length: 55
+Queue length: 55
+Queue length: 55
+Queue length: 54
+Queue length: 55
+Queue length: 56
+Queue length: 55
+Queue length: 54
+Queue length: 54
+Queue length: 55
+Queue length: 55
+Queue length: 55
+Queue length: 55
+Queue length: 54
+Queue length: 55
+Queue length: 58
+Queue length: 57
+Queue length: 57
+Queue length: 57
+Queue length: 56
+Queue length: 57
+Queue length: 58
+Queue length: 57
+Queue length: 56
+Queue length: 56
+Queue length: 56
+Queue length: 55
+Queue length: 55
+Queue length: 54
+Queue length: 54
+Queue length: 53
+Queue length: 53
+Queue length: 54
+Queue length: 54
+Queue length: 55
+Queue length: 54
+Queue length: 54
+Queue length: 55
+Queue length: 55
+Queue length: 55
+Queue length: 55
+Queue length: 55
+Queue length: 54
+Queue length: 53
+Queue length: 54
+Queue length: 56
+Queue length: 56
+Queue length: 56
+Queue length: 55
+Queue length: 54
+Queue length: 54
+Queue length: 53
+Queue length: 53
+Queue length: 52
+Queue length: 52
+Queue length: 52
+Queue length: 52
+Queue length: 52
+Queue length: 53
+Queue length: 53
+Queue length: 52
+Queue length: 51
+Queue length: 53
+Queue length: 54
+Queue length: 54
+Queue length: 54
+Queue length: 54
+Queue length: 55
+Queue length: 56
+Queue length: 57
+Queue length: 57
+Queue length: 57
+Queue length: 56
+Queue length: 55
+Queue length: 55
+Queue length: 55
+Queue length: 55
+Queue length: 55
+Queue length: 58
+Queue length: 57
+Queue length: 56
+Queue length: 55
+Queue length: 54
+Queue length: 53
+Queue length: 55
+Queue length: 56
+Queue length: 57
+Queue length: 57
+Queue length: 56
+Queue length: 56
+Queue length: 57
+Queue length: 58
+Queue length: 60
+Queue length: 59
+Queue length: 59
+Queue length: 58
+Queue length: 59
+Queue length: 59
+Queue length: 60
+Queue length: 59
+Queue length: 58
+Queue length: 57
+Queue length: 56
+Queue length: 56
+Queue length: 55
+Queue length: 54
+Queue length: 54
+Queue length: 55
+Queue length: 54
+Queue length: 54
+Queue length: 55
+Queue length: 55
+Queue length: 55
+Queue length: 56
+Queue length: 57
+Queue length: 57
+Queue length: 56
+Queue length: 57
+Queue length: 57
+Queue length: 57
+Queue length: 58
+Queue length: 58
+Queue length: 58
+Queue length: 59
+Queue length: 58
+Queue length: 58
+Queue length: 57
+Queue length: 56
+Queue length: 56
+Queue length: 56
+Queue length: 55
+Queue length: 54
+Queue length: 54
+Queue length: 54
+Queue length: 54
+Queue length: 54
+Queue length: 54
+Queue length: 54
+Queue length: 54
+Queue length: 55
+Queue length: 56
+Queue length: 56
+Queue length: 57
+Queue length: 56
+Queue length: 55
+Queue length: 55
+Queue length: 54
+Queue length: 54
+Queue length: 53
+Queue length: 52
+Queue length: 53
+Queue length: 53
+Queue length: 52
+Queue length: 51
+Queue length: 52
+Queue length: 51
+Queue length: 50
+Queue length: 50
+Queue length: 49
+Queue length: 48
+Queue length: 48
+Queue length: 50
+Queue length: 51
+Queue length: 51
+Queue length: 51
+Queue length: 51
+Queue length: 51
+Queue length: 51
+Queue length: 52
+Queue length: 52
+Queue length: 52
+Queue length: 54
+Queue length: 55
+Queue length: 56
+Queue length: 55
+Queue length: 55
+Queue length: 54
+Queue length: 54
+Queue length: 53
+Queue length: 52
+Queue length: 52
+Queue length: 51
+Queue length: 51
+Queue length: 51
+Queue length: 50
+Queue length: 49
+Queue length: 49
+Queue length: 49
+Queue length: 48
+Queue length: 47
+Queue length: 47
+Queue length: 48
+Queue length: 48
+Queue length: 50
+Queue length: 51
+Queue length: 51
+Queue length: 52
+Queue length: 51
+Queue length: 52
+Queue length: 51
+Queue length: 50
+Queue length: 50
+Queue length: 49
+Queue length: 48
+Queue length: 48
+Queue length: 49
+Queue length: 50
+Queue length: 52
+Queue length: 52
+Queue length: 53
+Queue length: 54
+Queue length: 53
+Queue length: 52
+Queue length: 53
+Queue length: 53
+Queue length: 54
+Queue length: 55
+Queue length: 55
+Queue length: 57
+Queue length: 56
+Queue length: 56
+Queue length: 56
+Queue length: 57
+Queue length: 56
+Queue length: 55
+Queue length: 54
+Queue length: 54
+Queue length: 54
+Queue length: 55
+Queue length: 57
+Queue length: 56
+Queue length: 55
+Queue length: 55
+Queue length: 54
+Queue length: 54
+Queue length: 55
+Queue length: 55
+Queue length: 57
+Queue length: 57
+Queue length: 56
+Queue length: 56
+Queue length: 56
+Queue length: 55
+Queue length: 55
+Queue length: 55
+Queue length: 54
+Queue length: 54
+Queue length: 54
+Queue length: 54
+Queue length: 56
+Queue length: 55
+Queue length: 57
+Queue length: 57
+Queue length: 56
+Queue length: 56
+Queue length: 56
+Queue length: 56
+Queue length: 57
+Queue length: 57
+Queue length: 57
+Queue length: 56
+Queue length: 57
+Queue length: 57
+Queue length: 58
+Queue length: 58
+Queue length: 58
+Queue length: 57
+Queue length: 56
+Queue length: 57
+Queue length: 57
+Queue length: 57
+Queue length: 57
+Queue length: 57
+Queue length: 58
+Queue length: 58
+Queue length: 58
+Queue length: 61
+Queue length: 62
+Queue length: 62
+Queue length: 62
+Queue length: 62
+Queue length: 62
+Queue length: 61
+Queue length: 61
+Queue length: 62
+Queue length: 61
+Queue length: 61
+Queue length: 62
+Queue length: 62
+Queue length: 61
+Queue length: 61
+Queue length: 60
+Queue length: 59
+Queue length: 59
+Queue length: 59
+Queue length: 61
+Queue length: 61
+Queue length: 61
+Queue length: 62
+Queue length: 63
+Queue length: 63
+Queue length: 63
+Queue length: 63
+Queue length: 62
+Queue length: 62
+Queue length: 63
+Queue length: 63
+Queue length: 62
+Queue length: 62
+Queue length: 61
+Queue length: 61
+Queue length: 62
+Queue length: 61
+Queue length: 62
+Queue length: 64
+Queue length: 65
+Queue length: 64
+Queue length: 63
+Queue length: 64
+Queue length: 65
+Queue length: 65
+Queue length: 65
+Queue length: 64
+Queue length: 63
+Queue length: 64
+Queue length: 65
+Queue length: 66
+Queue length: 66
+Queue length: 66
+Queue length: 65
+Queue length: 65
+Queue length: 66
+Queue length: 66
+Queue length: 67
+Queue length: 68
+Queue length: 68
+Queue length: 70
+Queue length: 69
+Queue length: 69
+Queue length: 70
+Queue length: 69
+Queue length: 68
+Queue length: 67
+Queue length: 68
+Queue length: 68
+Queue length: 67
+Queue length: 66
+Queue length: 65
+Queue length: 65
+Queue length: 65
+Queue length: 64
+Queue length: 64
+Queue length: 63
+Queue length: 64
+Queue length: 63
+Queue length: 64
+Queue length: 64
+Queue length: 65
+Queue length: 65
+Queue length: 65
+Queue length: 66
+Queue length: 66
+Queue length: 65
+Queue length: 64
+Queue length: 66
+Queue length: 65
+Queue length: 64
+Queue length: 64
+Queue length: 63
+Queue length: 64
+Queue length: 63
+Queue length: 64
+Queue length: 64
+Queue length: 66
+Queue length: 67
+Queue length: 66
+Queue length: 66
+Queue length: 65
+Queue length: 66
+Queue length: 66
+Queue length: 65
+Queue length: 65
+Queue length: 64
+Queue length: 66
+Queue length: 65
+Queue length: 64
+Queue length: 65
+Queue length: 66
+Queue length: 66
+Queue length: 66
+Length of the heap thing : 66
+n == 1000
+Queue length: 67
+Queue length: 67
+Queue length: 67
+Queue length: 68
+Queue length: 68
+Queue length: 67
+Queue length: 67
+Queue length: 67
+Queue length: 66
+Queue length: 67
+Queue length: 67
+Queue length: 66
+Queue length: 65
+Queue length: 64
+Queue length: 63
+Queue length: 62
+Queue length: 61
+Queue length: 60
+Queue length: 60
+Queue length: 60
+Queue length: 59
+Queue length: 58
+Queue length: 58
+Queue length: 57
+Queue length: 57
+Queue length: 57
+Queue length: 57
+Queue length: 58
+Queue length: 58
+Queue length: 57
+Queue length: 59
+Queue length: 59
+Queue length: 59
+Queue length: 58
+Queue length: 58
+Queue length: 58
+Queue length: 59
+Queue length: 58
+Queue length: 57
+Queue length: 56
+Queue length: 55
+Queue length: 56
+Queue length: 56
+Queue length: 56
+Queue length: 56
+Queue length: 56
+Queue length: 57
+Queue length: 57
+Queue length: 57
+Queue length: 56
+Queue length: 59
+Queue length: 59
+Queue length: 59
+Queue length: 58
+Queue length: 58
+Queue length: 57
+Queue length: 58
+Queue length: 58
+Queue length: 58
+Queue length: 58
+Queue length: 60
+Queue length: 60
+Queue length: 60
+Queue length: 60
+Queue length: 59
+Queue length: 60
+Queue length: 59
+Queue length: 58
+Queue length: 58
+Queue length: 58
+Queue length: 57
+Queue length: 56
+Queue length: 57
+Queue length: 56
+Queue length: 57
+Queue length: 57
+Queue length: 57
+Queue length: 57
+Queue length: 57
+Queue length: 57
+Queue length: 57
+Queue length: 57
+Queue length: 58
+Queue length: 59
+Queue length: 58
+Queue length: 57
+Queue length: 59
+Queue length: 59
+Queue length: 59
+Queue length: 59
+Queue length: 59
+Queue length: 59
+Queue length: 58
+Queue length: 57
+Queue length: 57
+Queue length: 58
+Queue length: 59
+Queue length: 59
+Queue length: 61
+Queue length: 61
+Queue length: 61
+Queue length: 60
+Queue length: 59
+Queue length: 59
+Queue length: 59
+Queue length: 59
+Queue length: 60
+Queue length: 61
+Queue length: 61
+Queue length: 60
+Queue length: 59
+Queue length: 59
+Queue length: 60
+Queue length: 61
+Queue length: 61
+Queue length: 62
+Queue length: 62
+Queue length: 61
+Queue length: 61
+Queue length: 62
+Queue length: 63
+Queue length: 62
+Queue length: 63
+Queue length: 64
+Queue length: 63
+Queue length: 64
+Queue length: 64
+Queue length: 65
+Queue length: 65
+Queue length: 65
+Queue length: 64
+Queue length: 63
+Queue length: 66
+Queue length: 66
+Queue length: 65
+Queue length: 66
+Queue length: 68
+Queue length: 68
+Queue length: 68
+Queue length: 69
+Queue length: 68
+Queue length: 70
+Queue length: 70
+Queue length: 70
+Queue length: 70
+Queue length: 71
+Queue length: 72
+Queue length: 72
+Queue length: 72
+Queue length: 71
+Queue length: 70
+Queue length: 73
+Queue length: 73
+Queue length: 72
+Queue length: 71
+Queue length: 74
+Queue length: 74
+Queue length: 75
+Queue length: 74
+Queue length: 75
+Queue length: 75
+Queue length: 76
+Queue length: 75
+Queue length: 74
+Queue length: 74
+Queue length: 76
+Queue length: 75
+Queue length: 74
+Queue length: 73
+Queue length: 72
+Queue length: 72
+Queue length: 73
+Queue length: 73
+Queue length: 73
+Queue length: 73
+Queue length: 73
+Queue length: 75
+Queue length: 74
+Queue length: 74
+Queue length: 74
+Queue length: 73
+Queue length: 73
+Queue length: 73
+Queue length: 74
+Queue length: 74
+Queue length: 74
+Queue length: 75
+Queue length: 76
+Queue length: 77
+Queue length: 79
+Queue length: 81
+Queue length: 82
+Queue length: 82
+Queue length: 81
+Queue length: 81
+Queue length: 81
+Queue length: 80
+Queue length: 81
+Queue length: 80
+Queue length: 79
+Queue length: 80
+Queue length: 80
+Queue length: 80
+Queue length: 80
+Queue length: 81
+Queue length: 80
+Queue length: 81
+Queue length: 80
+Queue length: 81
+Queue length: 81
+Queue length: 81
+Queue length: 80
+Queue length: 80
+Queue length: 81
+Queue length: 80
+Queue length: 80
+Queue length: 80
+Queue length: 80
+Queue length: 81
+Queue length: 82
+Queue length: 81
+Queue length: 81
+Queue length: 82
+Queue length: 81
+Queue length: 80
+Queue length: 81
+Queue length: 80
+Queue length: 79
+Queue length: 78
+Queue length: 77
+Queue length: 77
+Queue length: 77
+Queue length: 80
+Queue length: 81
+Queue length: 82
+Queue length: 83
+Queue length: 83
+Queue length: 83
+Queue length: 82
+Queue length: 82
+Queue length: 81
+Queue length: 83
+Queue length: 83
+Queue length: 83
+Queue length: 84
+Queue length: 85
+Queue length: 84
+Queue length: 85
+Queue length: 87
+Queue length: 87
+Queue length: 88
+Queue length: 89
+Queue length: 89
+Queue length: 88
+Queue length: 88
+Queue length: 88
+Queue length: 88
+Queue length: 88
+Queue length: 88
+Queue length: 88
+Queue length: 88
+Queue length: 90
+Queue length: 92
+Queue length: 93
+Queue length: 92
+Queue length: 92
+Queue length: 92
+Queue length: 91
+Queue length: 91
+Queue length: 91
+Queue length: 90
+Queue length: 89
+Queue length: 89
+Queue length: 88
+Queue length: 87
+Queue length: 88
+Queue length: 88
+Queue length: 88
+Queue length: 88
+Queue length: 88
+Queue length: 87
+Queue length: 86
+Queue length: 86
+Queue length: 85
+Queue length: 84
+Queue length: 86
+Queue length: 86
+Queue length: 89
+Queue length: 88
+Queue length: 89
+Queue length: 88
+Queue length: 87
+Queue length: 88
+Queue length: 87
+Queue length: 87
+Queue length: 86
+Queue length: 87
+Queue length: 88
+Queue length: 89
+Queue length: 89
+Queue length: 89
+Queue length: 89
+Queue length: 89
+Queue length: 89
+Queue length: 88
+Queue length: 88
+Queue length: 89
+Queue length: 88
+Queue length: 88
+Queue length: 88
+Queue length: 88
+Queue length: 89
+Queue length: 89
+Queue length: 89
+Queue length: 91
+Queue length: 90
+Queue length: 89
+Queue length: 89
+Queue length: 90
+Queue length: 90
+Queue length: 90
+Queue length: 90
+Queue length: 90
+Queue length: 90
+Queue length: 90
+Queue length: 91
+Queue length: 91
+Queue length: 90
+Queue length: 90
+Queue length: 91
+Queue length: 90
+Queue length: 92
+Queue length: 92
+Queue length: 91
+Queue length: 93
+Queue length: 93
+Queue length: 92
+Queue length: 91
+Queue length: 90
+Queue length: 90
+Queue length: 89
+Queue length: 89
+Queue length: 89
+Queue length: 89
+Queue length: 88
+Queue length: 89
+Queue length: 90
+Queue length: 91
+Queue length: 91
+Queue length: 91
+Queue length: 92
+Queue length: 93
+Queue length: 94
+Queue length: 93
+Queue length: 93
+Queue length: 93
+Queue length: 95
+Queue length: 97
+Queue length: 97
+Queue length: 96
+Queue length: 95
+Queue length: 95
+Queue length: 95
+Queue length: 96
+Queue length: 96
+Queue length: 95
+Queue length: 94
+Queue length: 95
+Queue length: 95
+Queue length: 95
+Queue length: 96
+Queue length: 97
+Queue length: 97
+Queue length: 97
+Queue length: 96
+Queue length: 97
+Queue length: 97
+Queue length: 96
+Queue length: 95
+Queue length: 96
+Queue length: 96
+Queue length: 96
+Queue length: 96
+Queue length: 95
+Queue length: 94
+Queue length: 93
+Queue length: 93
+Queue length: 93
+Queue length: 92
+Queue length: 92
+Queue length: 92
+Queue length: 92
+Queue length: 93
+Queue length: 92
+Queue length: 93
+Queue length: 93
+Queue length: 93
+Queue length: 93
+Queue length: 92
+Queue length: 92
+Queue length: 92
+Queue length: 92
+Queue length: 92
+Queue length: 94
+Queue length: 96
+Queue length: 95
+Queue length: 94
+Queue length: 93
+Queue length: 92
+Queue length: 93
+Queue length: 93
+Queue length: 92
+Queue length: 92
+Queue length: 92
+Queue length: 94
+Queue length: 94
+Queue length: 94
+Queue length: 94
+Queue length: 94
+Queue length: 94
+Queue length: 94
+Queue length: 94
+Queue length: 93
+Queue length: 93
+Queue length: 93
+Queue length: 92
+Queue length: 92
+Queue length: 92
+Queue length: 92
+Queue length: 91
+Queue length: 90
+Queue length: 93
+Queue length: 92
+Queue length: 92
+Queue length: 92
+Queue length: 92
+Queue length: 91
+Queue length: 91
+Queue length: 90
+Queue length: 89
+Queue length: 89
+Queue length: 88
+Queue length: 89
+Queue length: 89
+Queue length: 89
+Queue length: 88
+Queue length: 89
+Queue length: 89
+Queue length: 88
+Queue length: 87
+Queue length: 87
+Queue length: 86
+Queue length: 86
+Queue length: 87
+Queue length: 86
+Queue length: 87
+Queue length: 88
+Queue length: 88
+Queue length: 87
+Queue length: 88
+Queue length: 88
+Queue length: 88
+Queue length: 88
+Queue length: 87
+Queue length: 87
+Queue length: 86
+Queue length: 87
+Queue length: 87
+Queue length: 87
+Queue length: 88
+Queue length: 87
+Queue length: 87
+Queue length: 88
+Queue length: 88
+Queue length: 89
+Queue length: 89
+Queue length: 88
+Queue length: 89
+Queue length: 91
+Queue length: 92
+Queue length: 92
+Queue length: 91
+Queue length: 94
+Queue length: 93
+Queue length: 92
+Queue length: 92
+Queue length: 93
+Queue length: 94
+Queue length: 94
+Queue length: 93
+Queue length: 94
+Queue length: 95
+Queue length: 94
+Queue length: 94
+Queue length: 94
+Queue length: 94
+Queue length: 93
+Queue length: 94
+Queue length: 93
+Queue length: 92
+Queue length: 94
+Queue length: 93
+Queue length: 95
+Queue length: 96
+Queue length: 95
+Queue length: 94
+Queue length: 97
+Queue length: 97
+Queue length: 97
+Queue length: 96
+Queue length: 96
+Queue length: 97
+Queue length: 97
+Queue length: 98
+Queue length: 98
+Queue length: 98
+Queue length: 97
+Queue length: 97
+Queue length: 96
+Queue length: 98
+Queue length: 99
+Queue length: 99
+Queue length: 99
+Queue length: 98
+Queue length: 98
+Queue length: 97
+Queue length: 98
+Queue length: 99
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 100
+Queue length: 100
+Queue length: 100
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 100
+Queue length: 100
+Queue length: 99
+Queue length: 98
+Queue length: 97
+Queue length: 99
+Queue length: 98
+Queue length: 98
+Queue length: 99
+Queue length: 99
+Queue length: 99
+Queue length: 98
+Queue length: 97
+Queue length: 96
+Queue length: 96
+Queue length: 96
+Queue length: 98
+Queue length: 97
+Queue length: 96
+Queue length: 96
+Queue length: 97
+Queue length: 96
+Queue length: 96
+Queue length: 96
+Queue length: 96
+Queue length: 96
+Queue length: 98
+Queue length: 98
+Queue length: 98
+Queue length: 99
+Queue length: 99
+Queue length: 99
+Queue length: 98
+Queue length: 99
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 99
+Queue length: 98
+Queue length: 97
+Queue length: 97
+Queue length: 96
+Queue length: 95
+Queue length: 94
+Queue length: 94
+Queue length: 93
+Queue length: 92
+Queue length: 92
+Queue length: 92
+Queue length: 92
+Queue length: 93
+Queue length: 93
+Queue length: 92
+Queue length: 94
+Queue length: 93
+Queue length: 95
+Queue length: 95
+Queue length: 94
+Queue length: 95
+Queue length: 94
+Queue length: 94
+Queue length: 94
+Queue length: 94
+Queue length: 93
+Queue length: 92
+Queue length: 93
+Queue length: 93
+Queue length: 93
+Queue length: 92
+Queue length: 93
+Queue length: 92
+Queue length: 91
+Queue length: 91
+Queue length: 91
+Queue length: 90
+Queue length: 91
+Queue length: 92
+Queue length: 91
+Queue length: 92
+Queue length: 91
+Queue length: 90
+Queue length: 90
+Queue length: 91
+Queue length: 90
+Queue length: 91
+Queue length: 90
+Queue length: 89
+Queue length: 90
+Queue length: 91
+Queue length: 92
+Queue length: 93
+Queue length: 93
+Queue length: 92
+Queue length: 91
+Queue length: 92
+Queue length: 93
+Queue length: 94
+Queue length: 96
+Queue length: 97
+Queue length: 99
+Queue length: 98
+Queue length: 97
+Queue length: 97
+Queue length: 97
+Queue length: 98
+Queue length: 99
+Queue length: 99
+Queue length: 100
+Queue length: 100
+Queue length: 99
+Queue length: 100
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 99
+Queue length: 99
+Queue length: 99
+Queue length: 100
+Queue length: 100
+Queue length: 99
+Queue length: 99
+Queue length: 99
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 99
+Queue length: 99
+Queue length: 98
+Queue length: 98
+Queue length: 97
+Queue length: 97
+Queue length: 96
+Queue length: 97
+Queue length: 96
+Queue length: 95
+Queue length: 95
+Queue length: 94
+Queue length: 95
+Queue length: 94
+Queue length: 95
+Queue length: 95
+Queue length: 96
+Queue length: 97
+Queue length: 96
+Queue length: 96
+Queue length: 98
+Queue length: 98
+Queue length: 97
+Queue length: 99
+Queue length: 98
+Queue length: 97
+Queue length: 97
+Queue length: 96
+Queue length: 96
+Queue length: 96
+Queue length: 96
+Queue length: 96
+Queue length: 96
+Queue length: 96
+Queue length: 95
+Queue length: 95
+Queue length: 95
+Queue length: 95
+Queue length: 94
+Queue length: 94
+Queue length: 94
+Queue length: 94
+Queue length: 93
+Queue length: 94
+Queue length: 94
+Queue length: 95
+Queue length: 95
+Queue length: 95
+Queue length: 94
+Queue length: 95
+Queue length: 94
+Queue length: 96
+Queue length: 96
+Queue length: 96
+Queue length: 96
+Queue length: 95
+Queue length: 96
+Queue length: 96
+Queue length: 97
+Queue length: 97
+Queue length: 96
+Queue length: 95
+Queue length: 94
+Queue length: 96
+Queue length: 98
+Queue length: 100
+Queue length: 100
+Queue length: 99
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 100
+Queue length: 100
+Queue length: 99
+Queue length: 99
+Queue length: 99
+Queue length: 98
+Queue length: 97
+Queue length: 97
+Queue length: 96
+Queue length: 97
+Queue length: 96
+Queue length: 95
+Queue length: 96
+Queue length: 95
+Queue length: 94
+Queue length: 93
+Queue length: 95
+Queue length: 95
+Queue length: 94
+Queue length: 93
+Queue length: 94
+Queue length: 93
+Queue length: 93
+Queue length: 93
+Queue length: 92
+Queue length: 92
+Queue length: 92
+Queue length: 92
+Queue length: 92
+Queue length: 91
+Queue length: 91
+Queue length: 92
+Queue length: 91
+Queue length: 91
+Queue length: 91
+Queue length: 93
+Queue length: 93
+Queue length: 96
+Queue length: 96
+Queue length: 97
+Queue length: 98
+Queue length: 98
+Queue length: 99
+Queue length: 98
+Queue length: 99
+Queue length: 99
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 100
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 99
+Queue length: 99
+Queue length: 99
+Queue length: 100
+Queue length: 100
+Queue length: 100
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Length of the heap thing : 103
+n == 2000
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 100
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 99
+Queue length: 98
+Queue length: 99
+Queue length: 99
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 100
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 100
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 100
+Queue length: 100
+Queue length: 99
+Queue length: 100
+Queue length: 99
+Queue length: 100
+Queue length: 99
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 103
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 100
+Queue length: 100
+Queue length: 101
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 102
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 104
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 105
+Length of queue[100] == 3
+Queue length: 106
+Length of queue[100] == 3
+Queue length: 107
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 108
+Length of queue[100] == 3
+Queue length: 109
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 111
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 110
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 118
+Length of queue[100] == 3
+Queue length: 118
+Length of queue[100] == 3
+Queue length: 118
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 118
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 118
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 118
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 118
+Length of queue[100] == 3
+Queue length: 118
+Length of queue[100] == 3
+Queue length: 118
+Length of queue[100] == 3
+Queue length: 118
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 118
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 118
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 118
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 118
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 118
+Length of queue[100] == 3
+Queue length: 118
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 112
+Length of queue[100] == 3
+Queue length: 113
+Length of queue[100] == 3
+Queue length: 114
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 115
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 116
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 118
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 118
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 118
+Length of queue[100] == 3
+Queue length: 117
+Length of queue[100] == 3
+Queue length: 119
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 136
+Length of queue[100] == 3
+Queue length: 137
+Length of queue[100] == 3
+Queue length: 137
+Length of queue[100] == 3
+Queue length: 138
+Length of queue[100] == 3
+Queue length: 137
+Length of queue[100] == 3
+Queue length: 136
+Length of queue[100] == 3
+Queue length: 137
+Length of queue[100] == 3
+Queue length: 136
+Length of queue[100] == 3
+Queue length: 135
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Length of the heap thing : 125
+n == 3000
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 120
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 135
+Length of queue[100] == 3
+Queue length: 135
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 121
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 122
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 123
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 124
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 130
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 126
+Length of queue[100] == 3
+Queue length: 125
+Length of queue[100] == 3
+Queue length: 127
+Length of queue[100] == 3
+Queue length: 128
+Length of queue[100] == 3
+Queue length: 129
+Length of queue[100] == 3
+Queue length: 131
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 132
+Length of queue[100] == 3
+Queue length: 133
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 135
+Length of queue[100] == 3
+Queue length: 135
+Length of queue[100] == 3
+Queue length: 135
+Length of queue[100] == 3
+Queue length: 136
+Length of queue[100] == 3
+Queue length: 137
+Length of queue[100] == 3
+Queue length: 137
+Length of queue[100] == 3
+Queue length: 137
+Length of queue[100] == 3
+Queue length: 137
+Length of queue[100] == 3
+Queue length: 137
+Length of queue[100] == 3
+Queue length: 138
+Length of queue[100] == 3
+Queue length: 139
+Length of queue[100] == 3
+Queue length: 138
+Length of queue[100] == 3
+Queue length: 138
+Length of queue[100] == 3
+Queue length: 137
+Length of queue[100] == 3
+Queue length: 137
+Length of queue[100] == 3
+Queue length: 137
+Length of queue[100] == 3
+Queue length: 139
+Length of queue[100] == 3
+Queue length: 139
+Length of queue[100] == 3
+Queue length: 139
+Length of queue[100] == 3
+Queue length: 139
+Length of queue[100] == 3
+Queue length: 138
+Length of queue[100] == 3
+Queue length: 138
+Length of queue[100] == 3
+Queue length: 137
+Length of queue[100] == 3
+Queue length: 136
+Length of queue[100] == 3
+Queue length: 136
+Length of queue[100] == 3
+Queue length: 135
+Length of queue[100] == 3
+Queue length: 136
+Length of queue[100] == 3
+Queue length: 135
+Length of queue[100] == 3
+Queue length: 135
+Length of queue[100] == 3
+Queue length: 135
+Length of queue[100] == 3
+Queue length: 136
+Length of queue[100] == 3
+Queue length: 135
+Length of queue[100] == 3
+Queue length: 136
+Length of queue[100] == 3
+Queue length: 135
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 134
+Length of queue[100] == 3
+Queue length: 136
+Length of queue[100] == 3
+Queue length: 136
+Length of queue[100] == 3
+Queue length: 135
+Length of queue[100] == 3
+Queue length: 137
+Length of queue[100] == 3
+Queue length: 139
+Length of queue[100] == 3
+Queue length: 139
+Length of queue[100] == 3
+Queue length: 139
+Length of queue[100] == 3
+Queue length: 139
+Length of queue[100] == 3
+Queue length: 139
+Length of queue[100] == 3
+Queue length: 139
+Length of queue[100] == 3
+Queue length: 140
+Length of queue[100] == 3
+Queue length: 140
+Length of queue[100] == 3
+Queue length: 139
+Length of queue[100] == 3
+Queue length: 140
+Length of queue[100] == 3
+Queue length: 140
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 143
+Length of queue[100] == 3
+Queue length: 143
+Length of queue[100] == 3
+Queue length: 144
+Length of queue[100] == 3
+Queue length: 143
+Length of queue[100] == 3
+Queue length: 144
+Length of queue[100] == 3
+Queue length: 144
+Length of queue[100] == 3
+Queue length: 144
+Length of queue[100] == 3
+Queue length: 144
+Length of queue[100] == 3
+Queue length: 143
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 143
+Length of queue[100] == 3
+Queue length: 144
+Length of queue[100] == 3
+Queue length: 143
+Length of queue[100] == 3
+Queue length: 143
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 140
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 140
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 140
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 144
+Length of queue[100] == 3
+Queue length: 144
+Length of queue[100] == 3
+Queue length: 144
+Length of queue[100] == 3
+Queue length: 143
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 143
+Length of queue[100] == 3
+Queue length: 143
+Length of queue[100] == 3
+Queue length: 144
+Length of queue[100] == 3
+Queue length: 145
+Length of queue[100] == 3
+Queue length: 144
+Length of queue[100] == 3
+Queue length: 143
+Length of queue[100] == 3
+Queue length: 143
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 140
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 143
+Length of queue[100] == 3
+Queue length: 145
+Length of queue[100] == 3
+Queue length: 147
+Length of queue[100] == 3
+Queue length: 147
+Length of queue[100] == 3
+Queue length: 147
+Length of queue[100] == 3
+Queue length: 146
+Length of queue[100] == 3
+Queue length: 145
+Length of queue[100] == 3
+Queue length: 146
+Length of queue[100] == 3
+Queue length: 146
+Length of queue[100] == 3
+Queue length: 146
+Length of queue[100] == 3
+Queue length: 147
+Length of queue[100] == 3
+Queue length: 146
+Length of queue[100] == 3
+Queue length: 146
+Length of queue[100] == 3
+Queue length: 145
+Length of queue[100] == 3
+Queue length: 144
+Length of queue[100] == 3
+Queue length: 147
+Length of queue[100] == 3
+Queue length: 147
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 147
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 147
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 157
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 157
+Length of queue[100] == 3
+Queue length: 159
+Length of queue[100] == 3
+Queue length: 159
+Length of queue[100] == 3
+Queue length: 159
+Length of queue[100] == 3
+Queue length: 158
+Length of queue[100] == 3
+Queue length: 159
+Length of queue[100] == 3
+Queue length: 159
+Length of queue[100] == 3
+Queue length: 159
+Length of queue[100] == 3
+Queue length: 159
+Length of queue[100] == 3
+Queue length: 159
+Length of queue[100] == 3
+Queue length: 158
+Length of queue[100] == 3
+Queue length: 158
+Length of queue[100] == 3
+Queue length: 157
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 147
+Length of queue[100] == 3
+Queue length: 147
+Length of queue[100] == 3
+Queue length: 146
+Length of queue[100] == 3
+Queue length: 145
+Length of queue[100] == 3
+Queue length: 146
+Length of queue[100] == 3
+Queue length: 146
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 157
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 158
+Length of queue[100] == 3
+Queue length: 157
+Length of queue[100] == 3
+Queue length: 157
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 157
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 156
+Length of queue[100] == 3
+Queue length: 155
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 154
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 153
+Length of queue[100] == 3
+Queue length: 152
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 147
+Length of queue[100] == 3
+Queue length: 146
+Length of queue[100] == 3
+Queue length: 145
+Length of queue[100] == 3
+Queue length: 146
+Length of queue[100] == 3
+Queue length: 147
+Length of queue[100] == 3
+Queue length: 147
+Length of queue[100] == 3
+Queue length: 146
+Length of queue[100] == 3
+Queue length: 145
+Length of queue[100] == 3
+Queue length: 146
+Length of queue[100] == 3
+Queue length: 145
+Length of queue[100] == 3
+Queue length: 147
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 151
+Length of queue[100] == 3
+Queue length: 150
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 149
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 148
+Length of queue[100] == 3
+Queue length: 147
+Length of queue[100] == 3
+Queue length: 147
+Length of queue[100] == 3
+Queue length: 146
+Length of queue[100] == 3
+Queue length: 145
+Length of queue[100] == 3
+Queue length: 145
+Length of queue[100] == 3
+Queue length: 144
+Length of queue[100] == 3
+Queue length: 144
+Length of queue[100] == 3
+Queue length: 143
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 140
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 142
+Length of queue[100] == 3
+Queue length: 141
+Length of queue[100] == 3
+Length of the heap thing : 141
+n == 4000
+Total loop time: 20.433159351348877
+Solution to puzzle: 0
+Time spent in selected location: 0.03570556640625

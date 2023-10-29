@@ -1,0 +1,33 @@
+Looped!
+Looped!
+count: 2
+(3)*(5**(cur_power - 1)) == 1875
+remainder - count*(5**cur_power) == -1360
+count: 2
+cur_power: 5
+count*(5**cur_power) == 6250
+remainder: -1360
+Looped!
+Looped!
+Looped!
+Looped!
+Looped!
+Looped!
+count: -2
+(3)*(5**(cur_power - 1)) == 375
+remainder - count*(5**cur_power) == -110
+count: -2
+cur_power: 4
+count*(5**cur_power) == -1250
+remainder: -110
+Looped!
+Looped!
+Looped!
+Looped!
+count: 0
+(3)*(5**(cur_power - 1)) == 75
+remainder - count*(5**cur_power) == -110
+count: 0
+cur_power: 3
+count*(5**cur_power) == 0
+Exit.

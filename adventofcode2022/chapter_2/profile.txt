@@ -1,0 +1,19 @@
+Solution to part two: 13726
+         7510 function calls in 0.002 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.000    0.000 _sitebuiltins.py:19(__call__)
+        1    0.000    0.000    0.002    0.002 rock_paper_scissors.py:2(<module>)
+        1    0.001    0.001    0.002    0.002 rock_paper_scissors.py:22(rps_two)
+        1    0.000    0.000    0.002    0.002 {built-in method builtins.exec}
+     5000    0.000    0.000    0.000    0.000 {built-in method builtins.ord}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+        1    0.000    0.000    0.000    0.000 {method 'close' of '_io.TextIOWrapper' objects}
+        1    0.000    0.000    0.000    0.000 {method 'decode' of 'bytes' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {method 'read' of '_io.BufferedReader' objects}
+     2501    0.000    0.000    0.000    0.000 {method 'split' of 'str' objects}
+
+
