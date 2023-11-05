@@ -1,0 +1,445 @@
+
+
+
+
+list after: [1, -3, 2, 3, -2, 0, 4]
+The numbers array after mixing: [1, -3, 2, 3, -2, 0, 4]
+elem == -3
+list before: [1, 2, 3, -2, 0, 4]
+ind_a == 1
+ind_b == 5
+list after: [1, 2, 3, -2, 0, -3, 4]
+
+
+
+
+
+
+
+list after: [1, 2, -2, -3, 0, 3, 4]
+The numbers array after mixing: [1, 2, -2, -3, 0, 3, 4]
+
+
+list before: [1, 2, -2, -3, 0, 3, 4]
+ind_a == 2
+ind_b == 0
+list after: [1, -2, 2, -3, 0, 3, 4]
+
+The numbers array after mixing: [1, -2, 2, -3, 0, 3, 4]
+
+list before: [1, -2, 2, -3, 0, 3, 4]
+ind_a == 4
+ind_b == 4
+list after: [1, -2, 2, -3, 0, 3, 4]
+The numbers array after mixing: [1, -2, 2, -3, 0, 3, 4]
+list before: [1, -2, 2, -3, 0, 3, 4]
+ind_a == 6
+ind_b == 4
+list after: [1, -2, 2, -3, 0, 4, 3]
+The numbers array after mixing: [1, -2, 2, -3, 0, 4, 3]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The numbers array after mixing: [1, 2, -2, -3, 0, 3, 4]
+list before: [1, 2, -2, -3, 0, 3, 4]
+ind_a == 2
+ind_b == 0
+in_list[:ind_b+1] == [1]
+in_list[ind_b+1:] == [2, -2, -3, 0, 3, 4]
+elem == -2
+list after: [1, -2, 2, -3, 0, 3, 4]
+The numbers array after mixing: [1, -2, 2, -3, 0, 3, 4]
+list before: [1, -2, 2, -3, 0, 3, 4]
+
+
+
+
+
+The numbers array after mixing: [1, 2, -2, -3, 0, 3, 4]
+list before: [1, 2, -2, -3, 0, 3, 4]
+ind_a == 2
+ind_b == 0
+in_list[:ind_b+1] == [1, 2, -2, -3, 0, 3, 4]
+in_list[ind_b+1:] == []
+elem == -2
+in_list 3333 == [1, 2, -2, -3, 0, 3, 4, -2]
+ind_a == 2
+list after: [1, 2, -3, 0, 3, 4, -2]
+The numbers array after mixing: [1, 2, -3, 0, 3, 4, -2]
+
+
+
+
+
+
+
+The numbers array after mixing: [1, 2, -3, 0, 3, 4, -2]
+list before: [1, 2, -3, 0, 3, 4, -2]
+ind_a == 5
+ind_b == 3
+in_list[:ind_b+1] == [1, 2, -3, 0]
+in_list[ind_b+1:] == [3, 4, -2]
+elem == 4
+list after: [1, 2, -3, 0, 4, 3, -2]
+The numbers array after mixing: [1, 2, -3, 0, 4, 3, -2]
+
+
+
+
+
+
+Here are the numbers before mixing: [1, 2, 0]
+ind_a == 0
+ind_b == 1
+Here are the numbers after mixing: [2, 1, 0]
+Here are the numbers before mixing: [2, 1, 0]
+ind_a == 0
+ind_b == 0
+Here are the numbers after mixing: [1, 0, 2]
+Here are the numbers before mixing: [1, 0, 2]
+ind_a == 1
+ind_b == 1
+Here are the numbers after mixing: [1, 0, 2]
+result == 3
+==================================================
+FAIL!
+correct output: [2, 1, 0]
+our output: [1, 0, 2]
+input_list: [1, 2, 0]
+==================================================
+
+
+
+
+
+
+
+
+
+
+
+The numbers only appear once!!!
+2, 1, -3, 3, -2, 0, 4
+1, -3, 2, 3, -2, 0, 4
+1, 2, 3, -2, -3, 0, 4
+1, 2, -2, -3, 0, 3, 4
+-2, 1, 2, -3, 0, 3, 4
+fuck!
+test_out[COUNTER] == 1, 2, -2, -3, 0, 3, 4
+[-2, 1, 2, -3, 0, 3, 4]
+
+
+
+
+
+
+
+
+
+
+1, 2, -2, -3, 0, 3, 4    is the expected and
+
+
+
+
+
+[-2, 1, 2, -3, 0, 3, 4]   is ours
+
+
+
+
+
+
+
+
+
+
+The numbers only appear once!!!
+2, 1, -3, 3, -2, 0, 4
+ind_a == 0
+ind_b == 1
+1, -3, 2, 3, -2, 0, 4
+ind_a == 0
+ind_b == 2
+1, 2, 3, -2, -3, 0, 4
+ind_a == 1
+ind_b == 4
+1, 2, -2, -3, 0, 3, 4
+ind_a == 2
+ind_b == 5
+
+
+-2, 1, 2, -3, 0, 3, 4
+ind_a == 2
+ind_b == 0
+fuck!
+test_out[COUNTER] == 1, 2, -2, -3, 0, 3, 4
+[-2, 1, 2, -3, 0, 3, 4]
+
+
+
+
+
+
+
+
+
+
+
+
+
+The numbers only appear once!!!
+in_list before: [1, 2, -3, 3, -2, 0, 4]
+2, 1, -3, 3, -2, 0, 4
+ind_a == 0
+ind_b == 1
+in_list after: [2, 1, -3, 3, -2, 0, 4]
+in_list before: [2, 1, -3, 3, -2, 0, 4]
+1, -3, 2, 3, -2, 0, 4
+ind_a == 0
+ind_b == 2
+in_list after: [1, -3, 2, 3, -2, 0, 4]
+in_list before: [1, -3, 2, 3, -2, 0, 4]
+1, 2, 3, -2, -3, 0, 4
+ind_a == 1
+ind_b == 4
+in_list after: [1, 2, 3, -2, -3, 0, 4]
+in_list before: [1, 2, 3, -2, -3, 0, 4]
+1, 2, -2, -3, 0, 3, 4
+ind_a == 2
+ind_b == 5
+in_list after: [1, 2, -2, -3, 0, 3, 4]
+
+
+in_list before: [1, 2, -2, -3, 0, 3, 4]
+-2, 1, 2, -3, 0, 3, 4
+ind_a == 2
+ind_b == 0
+
+in_list after: [-2, 1, 2, -3, 0, 3, 4]
+fuck!
+test_out[COUNTER] == 1, 2, -2, -3, 0, 3, 4
+
+
+[-2, 1, 2, -3, 0, 3, 4]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The numbers only appear once!!!
+in_list before: [1, 2, -3, 3, -2, 0, 4]
+ind_a before == 0
+ind_b before == 1
+2, 1, -3, 3, -2, 0, 4
+ind_a == 0
+ind_b == 1
+in_list after: [2, 1, -3, 3, -2, 0, 4]
+in_list before: [2, 1, -3, 3, -2, 0, 4]
+ind_a before == 0
+ind_b before == 2
+1, -3, 2, 3, -2, 0, 4
+ind_a == 0
+ind_b == 2
+in_list after: [1, -3, 2, 3, -2, 0, 4]
+in_list before: [1, -3, 2, 3, -2, 0, 4]
+ind_a before == 1
+ind_b before == -2
+1, 2, 3, -2, -3, 0, 4
+ind_a == 1
+ind_b == 4
+in_list after: [1, 2, 3, -2, -3, 0, 4]
+in_list before: [1, 2, 3, -2, -3, 0, 4]
+ind_a before == 2
+ind_b before == 5
+1, 2, -2, -3, 0, 3, 4
+ind_a == 2
+ind_b == 5
+in_list after: [1, 2, -2, -3, 0, 3, 4]
+
+
+in_list before: [1, 2, -2, -3, 0, 3, 4]
+ind_a before == 2
+ind_b before == 0
+-2, 1, 2, -3, 0, 3, 4
+ind_a == 2
+ind_b == 0
+in_list after: [-2, 1, 2, -3, 0, 3, 4]
+
+fuck!
+test_out[COUNTER] == 1, 2, -2, -3, 0, 3, 4
+[-2, 1, 2, -3, 0, 3, 4]
+
+
+
+
+
+
+
+
+
+in_list before: [1, 2, -3, 3, -2, 0, 4]
+ind_a before == 0
+ind_b before == 1
+2, 1, -3, 3, -2, 0, 4
+ind_a == 0
+ind_b == 1
+in_list after: [2, 1, -3, 3, -2, 0, 4]
+in_list before: [2, 1, -3, 3, -2, 0, 4]
+ind_a before == 0
+ind_b before == 2
+1, -3, 2, 3, -2, 0, 4
+ind_a == 0
+ind_b == 2
+in_list after: [1, -3, 2, 3, -2, 0, 4]
+
+
+
+
+in_list before: [1, -3, 2, 3, -2, 0, 4]
+ind_a before == 1
+ind_b before == -2
+1, 2, 3, -3, -2, 0, 4
+ind_a == 1
+ind_b == 3
+in_list after: [1, 2, 3, -3, -2, 0, 4]
+
+
+fuck!
+test_out[COUNTER] == 1, -3, 2, 3, -2, 0, 4
+[1, 2, 3, -3, -2, 0, 4]
+
+
+
+
+
+
+in_list before: [1, -3, 2, 3, -2, 0, 4]
+
+
+
+ind_a before == 1
+ind_b before == -2
+1, 2, 3, -3, -2, 0, 4
+ind_a == 1
+ind_b == 3
+
+
+
+in_list after: [1, 2, 3, -3, -2, 0, 4]
+
+
+
+
+fuck!
+
+
+
+Here is the correct thing:
+
+
+1, -3, 2, 3, -2, 0, 4
+
+1, 2, 3, -2, -3, 0, 4
+
+
+
+
+
+Here is our thing:
+
+in_list before: [1, -3, 2, 3, -2, 0, 4]
+
+in_list after: [1, 2, 3, -3, -2, 0, 4]
+
+
+ind_a == 1
+ind_b == 3
+
+
+
+
+
+
+
+test_out[COUNTER] == 
+
+
+
+
+
+[1, 2, 3, -3, -2, 0, 4]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+correct output: [0, 3, 2, 1]
+our output: [2, 1, 0, 3]
+input_list: [0, 2, 3, 1]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
