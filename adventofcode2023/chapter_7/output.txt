@@ -1,0 +1,2004 @@
+[['QAAQT', 665], ['5K355', 312], ['Q5T46', 440], ['A3AJA', 461], ['QQ9KQ', 825], ['QJJQQ', 51], ['7J7A5', 37], ['8J887', 774], ['AK3K4', 62], ['A399A', 110], ['75845', 946], ['KAAAA', 226], ['J9976', 869], ['627Q8', 917], ['K2252', 216], ['A44AA', 867], ['2TT39', 160], ['65566', 225], ['K6KK6', 655], ['42T34', 787], ['T6636', 347], ['QTQTT', 371], ['83T33', 878], ['Q9928', 742], ['JQ85Q', 423], ['JQJQ2', 654], ['63TA5', 645], ['TQ8JQ', 884], ['T44T4', 6], ['5J523', 83], ['87Q42', 527], ['3J7A7', 530], ['K99KT', 158], ['326A7', 546], ['T2AQ2', 8], ['99JAA', 464], ['QQQ9T', 988], ['J6466', 568], ['4Q9Q5', 182], ['J89TJ', 63], ['66J55', 870], ['Q35QQ', 1], ['2K637', 46], ['T76T8', 280], ['9A9QA', 634], ['Q6AAA', 486], ['88986', 350], ['4J266', 875], ['JJ666', 116], ['38338', 422], ['A72KQ', 799], ['A26Q7', 666], ['33434', 788], ['32845', 457], ['9A36A', 995], ['328Q2', 77], ['KQ688', 238], ['5885T', 455], ['52822', 145], ['32555', 125], ['85557', 574], ['34422', 790], ['KJ777', 428], ['JJ777', 122], ['26852', 914], ['TKAQ5', 819], ['374QK', 918], ['Q365T', 462], ['62359', 179], ['J22QJ', 367], ['55655', 641], ['JTK4J', 679], ['K3KK5', 711], ['A2353', 688], ['5556J', 40], ['QQQ79', 167], ['8K38K', 676], ['KJJ6J', 61], ['AA5JA', 544], ['KKK7K', 375], ['3Q7QQ', 775], ['22K88', 71], ['55KKJ', 101], ['5J55J', 982], ['AJTTT', 541], ['T84KT', 343], ['T77TA', 162], ['AT296', 31], ['T7AJ7', 334], ['K3K44', 310], ['TT49A', 281], ['27648', 18], ['34449', 156], ['49489', 763], ['42924', 672], ['85886', 118], ['J6793', 800], ['5878K', 659], ['8J26J', 21], ['384Q3', 822], ['AAJJJ', 949], ['77262', 643], ['66545', 411], ['24J8Q', 520], ['TTTT9', 314], ['7JA7A', 473], ['2QQJQ', 335], ['J88KK', 721], ['32223', 251], ['J222Q', 403], ['8J8AA', 277], ['39QJ6', 187], ['3Q99J', 830], ['Q8TT5', 240], ['J22KK', 519], ['4J4JQ', 928], ['7774J', 239], ['85535', 415], ['Q38Q9', 171], ['T8833', 588], ['3367A', 781], ['62224', 100], ['3J8T8', 210], ['48J88', 834], ['6Q66Q', 301], ['3A6K6', 586], ['2A3K2', 419], ['83T62', 712], ['7JJ49', 82], ['JQ798', 66], ['97947', 921], ['A478A', 223], ['25QA7', 602], ['3KJ96', 729], ['KK33K', 543], ['44Q74', 386], ['5A635', 753], ['K33AK', 400], ['QJ666', 756], ['QAK7K', 564], ['J8AKA', 682], ['28A6T', 887], ['8AAT7', 191], ['T6587', 612], ['JJJ22', 430], ['55A5A', 303], ['TT388', 976], ['33A33', 388], ['KKAJA', 933], ['KK852', 922], ['QTTTT', 333], ['4T5J4', 509], ['T99TT', 394], ['977TJ', 785], ['88222', 862], ['442J2', 719], ['74234', 138], ['J5KJ8', 909], ['J6JAA', 341], ['TQQ4J', 381], ['55585', 111], ['T7Q7J', 396], ['53T65', 562], ['9K7KK', 220], ['57J79', 356], ['KA74Q', 687], ['JQ687', 662], ['62A5K', 326], ['9TTQ9', 163], ['59595', 49], ['JKJKK', 727], ['37369', 539], ['JAJAA', 68], ['9KQ43', 477], ['46J4J', 945], ['39333', 701], ['38J65', 767], ['K93JA', 941], ['75725', 529], ['97K9K', 615], ['26AAK', 579], ['6A565', 420], ['5T555', 650], ['AA788', 87], ['K2799', 969], ['TTJQT', 185], ['K88KK', 515], ['37Q87', 495], ['T65QQ', 275], ['4QQ53', 638], ['68662', 758], ['42288', 731], ['36Q66', 789], ['JAAA8', 924], ['J2K77', 443], ['82Q82', 569], ['66T6A', 476], ['TTKTK', 108], ['74444', 993], ['J5555', 658], ['T89J9', 38], ['23332', 246], ['K4982', 279], ['KK4KT', 501], ['44454', 233], ['QT398', 866], ['4447T', 432], ['4T944', 939], ['2T828', 549], ['266TT', 72], ['99929', 814], ['49632', 256], ['4499J', 124], ['Q5QJ4', 573], ['48664', 175], ['76A8J', 795], ['Q82TJ', 245], ['JQ39K', 336], ['57297', 689], ['33KJJ', 959], ['64T4T', 534], ['63636', 809], ['688T8', 583], ['84J34', 35], ['4TJQJ', 94], ['399QQ', 479], ['99996', 577], ['76633', 13], ['A3AK8', 298], ['AAA22', 697], ['88J8T', 19], ['44Q3Q', 610], ['99J99', 315], ['88843', 636], ['2AAAJ', 953], ['53535', 603], ['47AK6', 811], ['AA65A', 642], ['K2QA9', 902], ['34K8A', 748], ['JA738', 611], ['7A777', 829], ['Q6Q77', 559], ['QQJQQ', 991], ['23222', 368], ['755A5', 536], ['7A987', 177], ['Q47K8', 624], ['69666', 705], ['KK233', 329], ['J9J44', 450], ['J22J2', 670], ['A55JA', 926], ['229K2', 827], ['T8A36', 237], ['22526', 490], ['KKK5K', 75], ['9729J', 693], ['9K829', 609], ['T293Q', 796], ['J8A44', 931], ['K9J46', 441], ['75776', 149], ['6KJK2', 675], ['TT7QT', 507], ['27K2J', 533], ['72444', 764], ['4QA89', 990], ['A5238', 754], ['K5335', 152], ['2K372', 132], ['37J73', 328], ['A7TQ9', 965], ['2T22T', 484], ['66T4T', 199], ['3K333', 337], ['9854K', 20], ['TAAQ2', 103], ['A44T6', 81], ['7262J', 510], ['K92AJ', 983], ['827A5', 614], ['23773', 980], ['9Q524', 166], ['333JJ', 463], ['AA4JQ', 911], ['QQ282', 313], ['9K75A', 873], ['9Q484', 332], ['Q7J77', 114], ['TATKA', 218], ['2TTTT', 798], ['3Q335', 966], ['33QJQ', 212], ['4Q55A', 901], ['947A9', 736], ['92J48', 465], ['4TTKJ', 50], ['8J898', 604], ['2TJ52', 840], ['Q9JJ8', 813], ['7KQQ4', 958], ['55453', 282], ['4AAAJ', 183], ['5998J', 65], ['597JJ', 480], ['QQQQ3', 207], ['Q78KJ', 720], ['J9993', 331], ['K7J57', 677], ['J8868', 597], ['36238', 770], ['48K28', 517], ['K57T7', 43], ['7K737', 305], ['22J22', 553], ['32J22', 691], ['A3K86', 259], ['J6A6Q', 135], ['5QAQA', 164], ['A2J2A', 595], ['9K3Q3', 557], ['J3J9J', 552], ['83222', 703], ['9Q9JQ', 113], ['T676J', 823], ['K4446', 85], ['TQJK6', 250], ['T6KTQ', 376], ['6AKT5', 294], ['7AA22', 243], ['26QJQ', 398], ['K4T28', 141], ['T58KA', 73], ['J5Q4K', 47], ['AAA59', 652], ['QA4K9', 622], ['T888T', 967], ['7375J', 726], ['AKA5A', 14], ['A3A5Q', 894], ['88588', 7], ['94664', 354], ['T9926', 29], ['54JJJ', 776], ['AQ3K9', 752], ['J8TT8', 105], ['65TA8', 421], ['99966', 269], ['92JKT', 296], ['KKKK4', 673], ['2JQ2T', 832], ['KAKK9', 262], ['992J3', 554], ['66868', 700], ['AA2AA', 351], ['Q4743', 851], ['34394', 355], ['T6T69', 732], ['TA549', 155], ['QQ99Q', 300], ['33QKJ', 555], ['A4444', 833], ['3KJK3', 563], ['65A78', 831], ['KAKK8', 744], ['5QQKQ', 985], ['5754J', 769], ['666JA', 414], ['TKKKK', 23], ['93K5J', 837], ['85558', 78], ['K6286', 663], ['T8K58', 735], ['56JAA', 224], ['4T94T', 345], ['63333', 172], ['58356', 853], ['666TK', 30], ['A77AQ', 896], ['68QA8', 174], ['924KA', 292], ['92TJ2', 898], ['J5859', 230], ['QTTT6', 319], ['AAJAA', 860], ['28A4Q', 714], ['K274T', 671], ['73337', 28], ['979JT', 899], ['8KKKK', 740], ['4Q99Q', 944], ['KKKJ7', 718], ['Q7JQQ', 438], ['73K3T', 999], ['5J25J', 379], ['5999A', 416], ['T9922', 265], ['7K485', 648], ['3A57K', 686], ['777J8', 695], ['KT999', 274], ['2554Q', 500], ['T2226', 284], ['Q8QQQ', 302], ['KJK9K', 556], ['53A99', 52], ['768K3', 488], ['55JA5', 115], ['K3K77', 986], ['77KJK', 804], ['86585', 390], ['39699', 469], ['TTT53', 859], ['26266', 628], ['87858', 200], ['J9Q7K', 359], ['J8AQ4', 377], ['3998Q', 76], ['99994', 161], ['3587J', 728], ['K9K33', 816], ['J8Q8J', 456], ['894J9', 733], ['T4J65', 514], ['72767', 613], ['5T8K2', 370], ['KAKA6', 855], ['A3QJ3', 738], ['JQ537', 504], ['83323', 271], ['KK667', 558], ['QKQ8Q', 908], ['4TAAA', 34], ['35Q95', 625], ['T9777', 323], ['66664', 9], ['99A66', 631], ['888JA', 244], ['J745Q', 635], ['ATJ4T', 107], ['49KQ7', 757], ['95999', 242], ['4A422', 560], ['6QJ2A', 854], ['77288', 646], ['6TTJ6', 989], ['T777T', 524], ['34A34', 22], ['3A362', 295], ['66967', 528], ['J77K3', 297], ['22T7K', 485], ['33J34', 904], ['83J38', 287], ['98KA2', 372], ['74Q6A', 221], ['KKK55', 348], ['QQ222', 838], ['7TTQ5', 342], ['KKK9K', 640], ['22922', 405], ['QQQTQ', 633], ['98T87', 912], ['55357', 449], ['92333', 198], ['76777', 470], ['48JTK', 849], ['J9779', 321], ['95557', 64], ['J9299', 605], ['2JQK2', 578], ['36634', 44], ['TTKKJ', 90], ['T4666', 190], ['TA7K4', 364], ['8T85A', 330], ['J92J2', 717], ['22945', 606], ['756K6', 561], ['8632K', 452], ['747KK', 365], ['T68J6', 195], ['JA454', 587], ['QK849', 793], ['594J8', 812], ['92559', 970], ['89829', 130], ['Q6849', 571], ['4TA4T', 996], ['TQ24Q', 846], ['T8T3T', 792], ['AA5A7', 338], ['553A8', 325], ['KK95J', 566], ['Q4443', 734], ['T923K', 512], ['939Q9', 716], ['K3TJ3', 864], ['5T9J2', 590], ['22522', 644], ['88444', 778], ['97779', 475], ['5AJK5', 548], ['344A4', 618], ['TT252', 508], ['6T359', 466], ['2AA2Q', 446], ['TAATA', 916], ['6K6KJ', 954], ['4AAK5', 255], ['T433T', 952], ['299K6', 389], ['33343', 399], ['QJAAA', 98], ['JQ3Q9', 601], ['39999', 521], ['8A3J3', 847], ['99339', 791], ['JTJTT', 661], ['9AKQT', 451], ['5Q5K5', 651], ['42242', 955], ['Q2266', 794], ['5JJK7', 227], ['QQKJ6', 454], ['TJ9T9', 15], ['K4K46', 254], ['Q9KKK', 213], ['Q8844', 786], ['8922K', 998], ['J877J', 617], ['77929', 412], ['J8A66', 531], ['555TT', 513], ['K6Q49', 268], ['64464', 801], ['99JJ9', 523], ['626A7', 709], ['7AQQQ', 835], ['66AA6', 938], ['88T56', 667], ['KKKJ4', 960], ['48999', 503], ['4494J', 496], ['K883J', 391], ['2KK99', 119], ['7737A', 270], ['KQJ69', 550], ['33KA8', 723], ['T3JT9', 893], ['99899', 444], ['T847J', 134], ['J9694', 616], ['55AAQ', 1000], ['3742T', 660], ['44QK4', 940], ['7777K', 773], ['TTT5T', 923], ['JKJKJ', 150], ['9KK99', 649], ['AJ546', 2], ['A999A', 694], ['KA4A6', 828], ['9AJA4', 168], ['555Q5', 353], ['64J46', 426], ['55KTA', 327], ['86688', 747], ['J8883', 905], ['2JQ2Q', 460], ['59826', 120], ['T843K', 600], ['52252', 32], ['Q62J9', 576], ['38777', 684], ['3T433', 418], ['4J4AA', 772], ['QQKJJ', 621], ['A9637', 815], ['99JK3', 74], ['35J99', 349], ['98334', 402], ['86K42', 215], ['T8J3A', 930], ['89A38', 627], ['8JJ87', 730], ['T6256', 664], ['68445', 264], ['47673', 858], ['AT28A', 803], ['8KQ28', 392], ['33JK3', 425], ['53999', 11], ['68TJ8', 59], ['7K7K7', 241], ['64379', 383], ['K3TQ4', 581], ['T5Q88', 593], ['77474', 60], ['887JA', 252], ['44446', 852], ['J9393', 971], ['8A633', 492], ['74479', 589], ['2Q555', 565], ['8J888', 407], ['97Q5A', 178], ['48632', 16], ['4K6QT', 805], ['3Q333', 106], ['T36J3', 17], ['AAKKK', 981], ['AAJQQ', 194], ['9Q393', 584], ['JTKK9', 505], ['J986K', 3], ['55KJ5', 285], ['8K882', 920], ['8KA82', 232], ['9AAA9', 656], ['22J92', 630], ['QQQQA', 522], ['7A652', 25], ['T4665', 591], ['T7TAT', 447], ['87KK7', 762], ['QT967', 493], ['Q3QJ6', 580], ['A8T6T', 180], ['88J58', 843], ['KKKTQ', 957], ['45K2K', 380], ['22343', 749], ['K8T88', 963], ['3T4QJ', 48], ['T59AQ', 136], ['QKKQJ', 487], ['353J5', 283], ['4J8Q5', 936], ['7747A', 844], ['52562', 992], ['6JJ64', 888], ['8Q33J', 102], ['K86A4', 373], ['747A9', 572], ['JA22Q', 184], ['79333', 236], ['9Q65K', 532], ['4J677', 234], ['A2J74', 154], ['92339', 4], ['J3337', 751], ['67A5T', 248], ['A8AAA', 339], ['37K3K', 413], ['43337', 678], ['93QQ3', 69], ['5KQJK', 346], ['T9T99', 324], ['66T66', 802], ['3T792', 79], ['57575', 231], ['J47JT', 715], ['62666', 657], ['997K9', 128], ['32TK7', 253], ['96294', 877], ['63666', 5], ['KK397', 408], ['4A4J4', 97], ['Q4265', 146], ['AKJAA', 948], ['J5Q94', 263], ['ATTTT', 575], ['4827T', 133], ['47AK9', 683], ['68T47', 567], ['2QK28', 445], ['T22JT', 607], ['662QQ', 181], ['QQ6QQ', 153], ['92292', 582], ['96K9J', 173], ['2J299', 404], ['T333T', 273], ['25J55', 362], ['6AJ2T', 929], ['5K323', 710], ['9944K', 453], ['A9Q49', 755], ['TTQ5T', 962], ['444Q4', 311], ['76666', 176], ['9946K', 690], ['KK3QJ', 471], ['ATTT6', 247], ['2A2K8', 112], ['A4T9Q', 692], ['777J7', 839], ['595J4', 206], ['TAATT', 629], ['53333', 883], ['A59T6', 707], ['44525', 906], ['Q8J8Q', 137], ['T3J93', 696], ['47464', 340], ['J2822', 907], ['JJ559', 196], ['55343', 653], ['9K9Q9', 674], ['8TQQQ', 211], ['7J275', 70], ['22Q5J', 276], ['66564', 129], ['TJTJJ', 489], ['KK6KK', 409], ['5Q98A', 157], ['78777', 857], ['67667', 807], ['5QK98', 39], ['K35J6', 592], ['96KT2', 109], ['4KK44', 127], ['T6253', 768], ['85989', 836], ['55445', 299], ['T9736', 121], ['A696A', 950], ['T48QT', 668], ['644K6', 518], ['JJJJJ', 876], ['TQ6AT', 759], ['KK83K', 260], ['73777', 214], ['6K66Q', 598], ['5K39A', 169], ['64T7T', 219], ['238J2', 442], ['4J22Q', 203], ['Q9TA6', 291], ['5T86J', 26], ['T439K', 272], ['44244', 817], ['K8844', 459], ['K5KK7', 975], ['A666Q', 842], ['8T6Q7', 434], ['63Q4J', 42], ['966J9', 637], ['JA6KA', 863], ['A5555', 972], ['T2222', 745], ['AAA7A', 499], ['Q359T', 436], ['A2A5A', 879], ['QQQQ5', 623], ['K4T5T', 724], ['A888A', 987], ['5J535', 201], ['5A9K6', 123], ['4QJ43', 431], ['75J4J', 491], ['283J8', 698], ['T7T8T', 448], ['33J76', 197], ['47QJA', 24], ['2T272', 951], ['A7A87', 142], ['J3TT3', 540], ['4JJ44', 961], ['KJJ63', 478], ['92QQ9', 278], ['TJTTT', 192], ['TJK68', 307], ['37773', 290], ['QQQT6', 126], ['QJQ9Q', 401], ['24K3A', 186], ['8443Q', 820], ['33592', 56], ['87923', 497], ['TTJ8Q', 632], ['J4544', 934], ['6K666', 474], ['68566', 739], ['A4AAA', 669], ['89899', 139], ['842K3', 596], ['K5AA5', 429], ['85885', 599], ['59779', 437], ['A336J', 779], ['TT3A3', 366], ['97Q7A', 261], ['83393', 545], ['Q6Q6T', 974], ['37T2J', 890], ['38333', 58], ['28227', 363], ['TTT66', 33], ['32333', 468], ['A8T55', 824], ['88889', 435], ['KQQ3Q', 385], ['T6685', 318], ['5K76J', 202], ['75777', 99], ['53566', 55], ['TTKJT', 481], ['875J9', 551], ['447A7', 947], ['T2TT7', 147], ['T2726', 810], ['TT6TT', 856], ['QK9JQ', 27], ['A786Q', 897], ['44J44', 542], ['98QJ3', 189], ['J4448', 89], ['Q8Q8Q', 417], ['59473', 57], ['99K99', 148], ['662AJ', 361], ['7TTTT', 994], ['26T97', 36], ['7A69T', 746], ['95JA5', 516], ['J9J8K', 886], ['57333', 358], ['4TJQA', 881], ['T5628', 151], ['72A59', 205], ['QK777', 249], ['84649', 397], ['T7T96', 761], ['4TAQQ', 378], ['24274', 494], ['KJ3KK', 845], ['TT77T', 384], ['8J88J', 722], ['A25T4', 880], ['88868', 861], ['Q5QK2', 502], ['35344', 267], ['K99AA', 777], ['2T375', 903], ['4484Q', 891], ['J8AQA', 67], ['QJ578', 935], ['T72T7', 482], ['5AQK8', 973], ['T3AA9', 848], ['8TJJ7', 165], ['88J75', 322], ['T8T8A', 54], ['93524', 956], ['29T9Q', 458], ['66272', 647], ['TQTQQ', 681], ['629J4', 483], ['6676T', 708], ['9QT99', 704], ['67977', 942], ['737J7', 808], ['T785K', 865], ['7AAA4', 943], ['88Q8J', 619], ['QK663', 91], ['9734J', 818], ['J4TTT', 895], ['5A585', 80], ['8JJJJ', 159], ['7T298', 170], ['8998A', 140], ['TT5T2', 266], ['44443', 53], ['57565', 439], ['T579A', 317], ['A5QAA', 235], ['A665A', 84], ['223J3', 766], ['T63AJ', 741], ['62K97', 760], ['Q8Q33', 538], ['A5955', 293], ['JKKKK', 86], ['88228', 10], ['376J7', 93], ['7343T', 535], ['KQK44', 882], ['KKK76', 395], ['9229K', 526], ['J63J8', 320], ['ATKKK', 104], ['T4JT4', 850], ['79A9A', 780], ['AA6A3', 387], ['6A542', 889], ['45242', 228], ['KJ75Q', 369], ['52T29', 41], ['A9924', 309], ['A7838', 925], ['2738J', 229], ['22262', 782], ['A55AA', 144], ['77727', 88], ['86556', 188], ['46443', 997], ['666J6', 900], ['99968', 12], ['9AA49', 927], ['68666', 467], ['52K68', 750], ['3J339', 498], ['43634', 304], ['TJK46', 585], ['43533', 511], ['55245', 537], ['39K3J', 765], ['65J54', 937], ['5T684', 594], ['22Q74', 868], ['25255', 871], ['5TTJ5', 797], ['93J7A', 784], ['AAAQ8', 357], ['7J727', 968], ['44T44', 821], ['77533', 608], ['KQQ83', 547], ['72222', 680], ['44A4A', 406], ['8932K', 222], ['KK59K', 874], ['774K4', 92], ['29992', 570], ['3333J', 620], ['39393', 506], ['74773', 892], ['T79Q8', 208], ['TTT3T', 885], ['QQQ8A', 374], ['99979', 360], ['2965T', 872], ['AA6AJ', 96], ['383K9', 826], ['7TK7K', 685], ['6J755', 979], ['2QQQ2', 706], ['TTT4T', 525], ['3K767', 699], ['75J8J', 639], ['KTJK3', 743], ['7972T', 308], ['77573', 143], ['J253K', 286], ['TQK85', 316], ['6235A', 193], ['338TT', 393], ['JT8T5', 352], ['JA4JA', 984], ['JAQ86', 737], ['9T589', 306], ['KJQQQ', 424], ['JJKTK', 964], ['QTJTQ', 783], ['6J626', 289], ['24Q22', 131], ['QAT5A', 919], ['6486K', 702], ['QT464', 288], ['A6972', 841], ['Q99Q9', 977], ['4JJ43', 209], ['66AA8', 910], ['Q34QT', 806], ['Q8J4Q', 472], ['979TT', 932], ['A8A8A', 204], ['9A34Q', 382], ['QT89A', 713], ['JQJJQ', 427], ['8338K', 978], ['99T99', 913], ['6A444', 257], ['4K5KK', 45], ['55K55', 217], ['K8866', 915], ['42577', 771], ['45564', 725], ['Q2TAQ', 433], ['Q9AA6', 258], ['867A3', 117], ['A9799', 95], ['74778', 344], ['A2727', 410], ['78888', 626]]
+Hand type for hand QAAQT is 2
+Hand type for hand 5K355 is 3
+Hand type for hand Q5T46 is 0
+Hand type for hand A3AJA is 3
+Hand type for hand QQ9KQ is 3
+Hand type for hand QJJQQ is 4
+Hand type for hand 7J7A5 is 1
+Hand type for hand 8J887 is 3
+Hand type for hand AK3K4 is 1
+Hand type for hand A399A is 2
+Hand type for hand 75845 is 1
+Hand type for hand KAAAA is 5
+Hand type for hand J9976 is 1
+Hand type for hand 627Q8 is 0
+Hand type for hand K2252 is 3
+Hand type for hand A44AA is 4
+Hand type for hand 2TT39 is 1
+Hand type for hand 65566 is 4
+Hand type for hand K6KK6 is 4
+Hand type for hand 42T34 is 1
+Hand type for hand T6636 is 3
+Hand type for hand QTQTT is 4
+Hand type for hand 83T33 is 3
+Hand type for hand Q9928 is 1
+Hand type for hand JQ85Q is 1
+Hand type for hand JQJQ2 is 2
+Hand type for hand 63TA5 is 0
+Hand type for hand TQ8JQ is 1
+Hand type for hand T44T4 is 4
+Hand type for hand 5J523 is 1
+Hand type for hand 87Q42 is 0
+Hand type for hand 3J7A7 is 1
+Hand type for hand K99KT is 2
+Hand type for hand 326A7 is 0
+Hand type for hand T2AQ2 is 1
+Hand type for hand 99JAA is 2
+Hand type for hand QQQ9T is 3
+Hand type for hand J6466 is 3
+Hand type for hand 4Q9Q5 is 1
+Hand type for hand J89TJ is 1
+Hand type for hand 66J55 is 2
+Hand type for hand Q35QQ is 3
+Hand type for hand 2K637 is 0
+Hand type for hand T76T8 is 1
+Hand type for hand 9A9QA is 2
+Hand type for hand Q6AAA is 3
+Hand type for hand 88986 is 3
+Hand type for hand 4J266 is 1
+Hand type for hand JJ666 is 4
+Hand type for hand 38338 is 4
+Hand type for hand A72KQ is 0
+Hand type for hand A26Q7 is 0
+Hand type for hand 33434 is 4
+Hand type for hand 32845 is 0
+Hand type for hand 9A36A is 1
+Hand type for hand 328Q2 is 1
+Hand type for hand KQ688 is 1
+Hand type for hand 5885T is 2
+Hand type for hand 52822 is 3
+Hand type for hand 32555 is 3
+Hand type for hand 85557 is 3
+Hand type for hand 34422 is 2
+Hand type for hand KJ777 is 3
+Hand type for hand JJ777 is 4
+Hand type for hand 26852 is 1
+Hand type for hand TKAQ5 is 0
+Hand type for hand 374QK is 0
+Hand type for hand Q365T is 0
+Hand type for hand 62359 is 0
+Hand type for hand J22QJ is 2
+Hand type for hand 55655 is 5
+Hand type for hand JTK4J is 1
+Hand type for hand K3KK5 is 3
+Hand type for hand A2353 is 1
+Hand type for hand 5556J is 3
+Hand type for hand QQQ79 is 3
+Hand type for hand 8K38K is 2
+Hand type for hand KJJ6J is 3
+Hand type for hand AA5JA is 3
+Hand type for hand KKK7K is 5
+Hand type for hand 3Q7QQ is 3
+Hand type for hand 22K88 is 2
+Hand type for hand 55KKJ is 2
+Hand type for hand 5J55J is 4
+Hand type for hand AJTTT is 3
+Hand type for hand T84KT is 1
+Hand type for hand T77TA is 2
+Hand type for hand AT296 is 0
+Hand type for hand T7AJ7 is 1
+Hand type for hand K3K44 is 2
+Hand type for hand TT49A is 1
+Hand type for hand 27648 is 0
+Hand type for hand 34449 is 3
+Hand type for hand 49489 is 2
+Hand type for hand 42924 is 2
+Hand type for hand 85886 is 3
+Hand type for hand J6793 is 0
+Hand type for hand 5878K is 1
+Hand type for hand 8J26J is 1
+Hand type for hand 384Q3 is 1
+Hand type for hand AAJJJ is 4
+Hand type for hand 77262 is 2
+Hand type for hand 66545 is 2
+Hand type for hand 24J8Q is 0
+Hand type for hand TTTT9 is 5
+Hand type for hand 7JA7A is 2
+Hand type for hand 2QQJQ is 3
+Hand type for hand J88KK is 2
+Hand type for hand 32223 is 4
+Hand type for hand J222Q is 3
+Hand type for hand 8J8AA is 2
+Hand type for hand 39QJ6 is 0
+Hand type for hand 3Q99J is 1
+Hand type for hand Q8TT5 is 1
+Hand type for hand J22KK is 2
+Hand type for hand 4J4JQ is 2
+Hand type for hand 7774J is 3
+Hand type for hand 85535 is 3
+Hand type for hand Q38Q9 is 1
+Hand type for hand T8833 is 2
+Hand type for hand 3367A is 1
+Hand type for hand 62224 is 3
+Hand type for hand 3J8T8 is 1
+Hand type for hand 48J88 is 3
+Hand type for hand 6Q66Q is 4
+Hand type for hand 3A6K6 is 1
+Hand type for hand 2A3K2 is 1
+Hand type for hand 83T62 is 0
+Hand type for hand 7JJ49 is 1
+Hand type for hand JQ798 is 0
+Hand type for hand 97947 is 2
+Hand type for hand A478A is 1
+Hand type for hand 25QA7 is 0
+Hand type for hand 3KJ96 is 0
+Hand type for hand KK33K is 4
+Hand type for hand 44Q74 is 3
+Hand type for hand 5A635 is 1
+Hand type for hand K33AK is 2
+Hand type for hand QJ666 is 3
+Hand type for hand QAK7K is 1
+Hand type for hand J8AKA is 1
+Hand type for hand 28A6T is 0
+Hand type for hand 8AAT7 is 1
+Hand type for hand T6587 is 0
+Hand type for hand JJJ22 is 4
+Hand type for hand 55A5A is 4
+Hand type for hand TT388 is 2
+Hand type for hand 33A33 is 5
+Hand type for hand KKAJA is 2
+Hand type for hand KK852 is 1
+Hand type for hand QTTTT is 5
+Hand type for hand 4T5J4 is 1
+Hand type for hand T99TT is 4
+Hand type for hand 977TJ is 1
+Hand type for hand 88222 is 4
+Hand type for hand 442J2 is 2
+Hand type for hand 74234 is 1
+Hand type for hand J5KJ8 is 1
+Hand type for hand J6JAA is 2
+Hand type for hand TQQ4J is 1
+Hand type for hand 55585 is 5
+Hand type for hand T7Q7J is 1
+Hand type for hand 53T65 is 1
+Hand type for hand 9K7KK is 3
+Hand type for hand 57J79 is 1
+Hand type for hand KA74Q is 0
+Hand type for hand JQ687 is 0
+Hand type for hand 62A5K is 0
+Hand type for hand 9TTQ9 is 2
+Hand type for hand 59595 is 4
+Hand type for hand JKJKK is 4
+Hand type for hand 37369 is 1
+Hand type for hand JAJAA is 4
+Hand type for hand 9KQ43 is 0
+Hand type for hand 46J4J is 2
+Hand type for hand 39333 is 5
+Hand type for hand 38J65 is 0
+Hand type for hand K93JA is 0
+Hand type for hand 75725 is 2
+Hand type for hand 97K9K is 2
+Hand type for hand 26AAK is 1
+Hand type for hand 6A565 is 2
+Hand type for hand 5T555 is 5
+Hand type for hand AA788 is 2
+Hand type for hand K2799 is 1
+Hand type for hand TTJQT is 3
+Hand type for hand K88KK is 4
+Hand type for hand 37Q87 is 1
+Hand type for hand T65QQ is 1
+Hand type for hand 4QQ53 is 1
+Hand type for hand 68662 is 3
+Hand type for hand 42288 is 2
+Hand type for hand 36Q66 is 3
+Hand type for hand JAAA8 is 3
+Hand type for hand J2K77 is 1
+Hand type for hand 82Q82 is 2
+Hand type for hand 66T6A is 3
+Hand type for hand TTKTK is 4
+Hand type for hand 74444 is 5
+Hand type for hand J5555 is 5
+Hand type for hand T89J9 is 1
+Hand type for hand 23332 is 4
+Hand type for hand K4982 is 0
+Hand type for hand KK4KT is 3
+Hand type for hand 44454 is 5
+Hand type for hand QT398 is 0
+Hand type for hand 4447T is 3
+Hand type for hand 4T944 is 3
+Hand type for hand 2T828 is 2
+Hand type for hand 266TT is 2
+Hand type for hand 99929 is 5
+Hand type for hand 49632 is 0
+Hand type for hand 4499J is 2
+Hand type for hand Q5QJ4 is 1
+Hand type for hand 48664 is 2
+Hand type for hand 76A8J is 0
+Hand type for hand Q82TJ is 0
+Hand type for hand JQ39K is 0
+Hand type for hand 57297 is 1
+Hand type for hand 33KJJ is 2
+Hand type for hand 64T4T is 2
+Hand type for hand 63636 is 4
+Hand type for hand 688T8 is 3
+Hand type for hand 84J34 is 1
+Hand type for hand 4TJQJ is 1
+Hand type for hand 399QQ is 2
+Hand type for hand 99996 is 5
+Hand type for hand 76633 is 2
+Hand type for hand A3AK8 is 1
+Hand type for hand AAA22 is 4
+Hand type for hand 88J8T is 3
+Hand type for hand 44Q3Q is 2
+Hand type for hand 99J99 is 5
+Hand type for hand 88843 is 3
+Hand type for hand 2AAAJ is 3
+Hand type for hand 53535 is 4
+Hand type for hand 47AK6 is 0
+Hand type for hand AA65A is 3
+Hand type for hand K2QA9 is 0
+Hand type for hand 34K8A is 0
+Hand type for hand JA738 is 0
+Hand type for hand 7A777 is 5
+Hand type for hand Q6Q77 is 2
+Hand type for hand QQJQQ is 5
+Hand type for hand 23222 is 5
+Hand type for hand 755A5 is 3
+Hand type for hand 7A987 is 1
+Hand type for hand Q47K8 is 0
+Hand type for hand 69666 is 5
+Hand type for hand KK233 is 2
+Hand type for hand J9J44 is 2
+Hand type for hand J22J2 is 4
+Hand type for hand A55JA is 2
+Hand type for hand 229K2 is 3
+Hand type for hand T8A36 is 0
+Hand type for hand 22526 is 3
+Hand type for hand KKK5K is 5
+Hand type for hand 9729J is 1
+Hand type for hand 9K829 is 1
+Hand type for hand T293Q is 0
+Hand type for hand J8A44 is 1
+Hand type for hand K9J46 is 0
+Hand type for hand 75776 is 3
+Hand type for hand 6KJK2 is 1
+Hand type for hand TT7QT is 3
+Hand type for hand 27K2J is 1
+Hand type for hand 72444 is 3
+Hand type for hand 4QA89 is 0
+Hand type for hand A5238 is 0
+Hand type for hand K5335 is 2
+Hand type for hand 2K372 is 1
+Hand type for hand 37J73 is 2
+Hand type for hand A7TQ9 is 0
+Hand type for hand 2T22T is 4
+Hand type for hand 66T4T is 2
+Hand type for hand 3K333 is 5
+Hand type for hand 9854K is 0
+Hand type for hand TAAQ2 is 1
+Hand type for hand A44T6 is 1
+Hand type for hand 7262J is 1
+Hand type for hand K92AJ is 0
+Hand type for hand 827A5 is 0
+Hand type for hand 23773 is 2
+Hand type for hand 9Q524 is 0
+Hand type for hand 333JJ is 4
+Hand type for hand AA4JQ is 1
+Hand type for hand QQ282 is 2
+Hand type for hand 9K75A is 0
+Hand type for hand 9Q484 is 1
+Hand type for hand Q7J77 is 3
+Hand type for hand TATKA is 2
+Hand type for hand 2TTTT is 5
+Hand type for hand 3Q335 is 3
+Hand type for hand 33QJQ is 2
+Hand type for hand 4Q55A is 1
+Hand type for hand 947A9 is 1
+Hand type for hand 92J48 is 0
+Hand type for hand 4TTKJ is 1
+Hand type for hand 8J898 is 3
+Hand type for hand 2TJ52 is 1
+Hand type for hand Q9JJ8 is 1
+Hand type for hand 7KQQ4 is 1
+Hand type for hand 55453 is 3
+Hand type for hand 4AAAJ is 3
+Hand type for hand 5998J is 1
+Hand type for hand 597JJ is 1
+Hand type for hand QQQQ3 is 5
+Hand type for hand Q78KJ is 0
+Hand type for hand J9993 is 3
+Hand type for hand K7J57 is 1
+Hand type for hand J8868 is 3
+Hand type for hand 36238 is 1
+Hand type for hand 48K28 is 1
+Hand type for hand K57T7 is 1
+Hand type for hand 7K737 is 3
+Hand type for hand 22J22 is 5
+Hand type for hand 32J22 is 3
+Hand type for hand A3K86 is 0
+Hand type for hand J6A6Q is 1
+Hand type for hand 5QAQA is 2
+Hand type for hand A2J2A is 2
+Hand type for hand 9K3Q3 is 1
+Hand type for hand J3J9J is 3
+Hand type for hand 83222 is 3
+Hand type for hand 9Q9JQ is 2
+Hand type for hand T676J is 1
+Hand type for hand K4446 is 3
+Hand type for hand TQJK6 is 0
+Hand type for hand T6KTQ is 1
+Hand type for hand 6AKT5 is 0
+Hand type for hand 7AA22 is 2
+Hand type for hand 26QJQ is 1
+Hand type for hand K4T28 is 0
+Hand type for hand T58KA is 0
+Hand type for hand J5Q4K is 0
+Hand type for hand AAA59 is 3
+Hand type for hand QA4K9 is 0
+Hand type for hand T888T is 4
+Hand type for hand 7375J is 1
+Hand type for hand AKA5A is 3
+Hand type for hand A3A5Q is 1
+Hand type for hand 88588 is 5
+Hand type for hand 94664 is 2
+Hand type for hand T9926 is 1
+Hand type for hand 54JJJ is 3
+Hand type for hand AQ3K9 is 0
+Hand type for hand J8TT8 is 2
+Hand type for hand 65TA8 is 0
+Hand type for hand 99966 is 4
+Hand type for hand 92JKT is 0
+Hand type for hand KKKK4 is 5
+Hand type for hand 2JQ2T is 1
+Hand type for hand KAKK9 is 3
+Hand type for hand 992J3 is 1
+Hand type for hand 66868 is 4
+Hand type for hand AA2AA is 5
+Hand type for hand Q4743 is 1
+Hand type for hand 34394 is 2
+Hand type for hand T6T69 is 2
+Hand type for hand TA549 is 0
+Hand type for hand QQ99Q is 4
+Hand type for hand 33QKJ is 1
+Hand type for hand A4444 is 5
+Hand type for hand 3KJK3 is 2
+Hand type for hand 65A78 is 0
+Hand type for hand KAKK8 is 3
+Hand type for hand 5QQKQ is 3
+Hand type for hand 5754J is 1
+Hand type for hand 666JA is 3
+Hand type for hand TKKKK is 5
+Hand type for hand 93K5J is 0
+Hand type for hand 85558 is 4
+Hand type for hand K6286 is 1
+Hand type for hand T8K58 is 1
+Hand type for hand 56JAA is 1
+Hand type for hand 4T94T is 2
+Hand type for hand 63333 is 5
+Hand type for hand 58356 is 1
+Hand type for hand 666TK is 3
+Hand type for hand A77AQ is 2
+Hand type for hand 68QA8 is 1
+Hand type for hand 924KA is 0
+Hand type for hand 92TJ2 is 1
+Hand type for hand J5859 is 1
+Hand type for hand QTTT6 is 3
+Hand type for hand AAJAA is 5
+Hand type for hand 28A4Q is 0
+Hand type for hand K274T is 0
+Hand type for hand 73337 is 4
+Hand type for hand 979JT is 1
+Hand type for hand 8KKKK is 5
+Hand type for hand 4Q99Q is 2
+Hand type for hand KKKJ7 is 3
+Hand type for hand Q7JQQ is 3
+Hand type for hand 73K3T is 1
+Hand type for hand 5J25J is 2
+Hand type for hand 5999A is 3
+Hand type for hand T9922 is 2
+Hand type for hand 7K485 is 0
+Hand type for hand 3A57K is 0
+Hand type for hand 777J8 is 3
+Hand type for hand KT999 is 3
+Hand type for hand 2554Q is 1
+Hand type for hand T2226 is 3
+Hand type for hand Q8QQQ is 5
+Hand type for hand KJK9K is 3
+Hand type for hand 53A99 is 1
+Hand type for hand 768K3 is 0
+Hand type for hand 55JA5 is 3
+Hand type for hand K3K77 is 2
+Hand type for hand 77KJK is 2
+Hand type for hand 86585 is 2
+Hand type for hand 39699 is 3
+Hand type for hand TTT53 is 3
+Hand type for hand 26266 is 4
+Hand type for hand 87858 is 3
+Hand type for hand J9Q7K is 0
+Hand type for hand J8AQ4 is 0
+Hand type for hand 3998Q is 1
+Hand type for hand 99994 is 5
+Hand type for hand 3587J is 0
+Hand type for hand K9K33 is 2
+Hand type for hand J8Q8J is 2
+Hand type for hand 894J9 is 1
+Hand type for hand T4J65 is 0
+Hand type for hand 72767 is 3
+Hand type for hand 5T8K2 is 0
+Hand type for hand KAKA6 is 2
+Hand type for hand A3QJ3 is 1
+Hand type for hand JQ537 is 0
+Hand type for hand 83323 is 3
+Hand type for hand KK667 is 2
+Hand type for hand QKQ8Q is 3
+Hand type for hand 4TAAA is 3
+Hand type for hand 35Q95 is 1
+Hand type for hand T9777 is 3
+Hand type for hand 66664 is 5
+Hand type for hand 99A66 is 2
+Hand type for hand 888JA is 3
+Hand type for hand J745Q is 0
+Hand type for hand ATJ4T is 1
+Hand type for hand 49KQ7 is 0
+Hand type for hand 95999 is 5
+Hand type for hand 4A422 is 2
+Hand type for hand 6QJ2A is 0
+Hand type for hand 77288 is 2
+Hand type for hand 6TTJ6 is 2
+Hand type for hand T777T is 4
+Hand type for hand 34A34 is 2
+Hand type for hand 3A362 is 1
+Hand type for hand 66967 is 3
+Hand type for hand J77K3 is 1
+Hand type for hand 22T7K is 1
+Hand type for hand 33J34 is 3
+Hand type for hand 83J38 is 2
+Hand type for hand 98KA2 is 0
+Hand type for hand 74Q6A is 0
+Hand type for hand KKK55 is 4
+Hand type for hand QQ222 is 4
+Hand type for hand 7TTQ5 is 1
+Hand type for hand KKK9K is 5
+Hand type for hand 22922 is 5
+Hand type for hand QQQTQ is 5
+Hand type for hand 98T87 is 1
+Hand type for hand 55357 is 3
+Hand type for hand 92333 is 3
+Hand type for hand 76777 is 5
+Hand type for hand 48JTK is 0
+Hand type for hand J9779 is 2
+Hand type for hand 95557 is 3
+Hand type for hand J9299 is 3
+Hand type for hand 2JQK2 is 1
+Hand type for hand 36634 is 2
+Hand type for hand TTKKJ is 2
+Hand type for hand T4666 is 3
+Hand type for hand TA7K4 is 0
+Hand type for hand 8T85A is 1
+Hand type for hand J92J2 is 2
+Hand type for hand 22945 is 1
+Hand type for hand 756K6 is 1
+Hand type for hand 8632K is 0
+Hand type for hand 747KK is 2
+Hand type for hand T68J6 is 1
+Hand type for hand JA454 is 1
+Hand type for hand QK849 is 0
+Hand type for hand 594J8 is 0
+Hand type for hand 92559 is 2
+Hand type for hand 89829 is 2
+Hand type for hand Q6849 is 0
+Hand type for hand 4TA4T is 2
+Hand type for hand TQ24Q is 1
+Hand type for hand T8T3T is 3
+Hand type for hand AA5A7 is 3
+Hand type for hand 553A8 is 1
+Hand type for hand KK95J is 1
+Hand type for hand Q4443 is 3
+Hand type for hand T923K is 0
+Hand type for hand 939Q9 is 3
+Hand type for hand K3TJ3 is 1
+Hand type for hand 5T9J2 is 0
+Hand type for hand 22522 is 5
+Hand type for hand 88444 is 4
+Hand type for hand 97779 is 4
+Hand type for hand 5AJK5 is 1
+Hand type for hand 344A4 is 3
+Hand type for hand TT252 is 2
+Hand type for hand 6T359 is 0
+Hand type for hand 2AA2Q is 2
+Hand type for hand TAATA is 4
+Hand type for hand 6K6KJ is 2
+Hand type for hand 4AAK5 is 1
+Hand type for hand T433T is 2
+Hand type for hand 299K6 is 1
+Hand type for hand 33343 is 5
+Hand type for hand QJAAA is 3
+Hand type for hand JQ3Q9 is 1
+Hand type for hand 39999 is 5
+Hand type for hand 8A3J3 is 1
+Hand type for hand 99339 is 4
+Hand type for hand JTJTT is 4
+Hand type for hand 9AKQT is 0
+Hand type for hand 5Q5K5 is 3
+Hand type for hand 42242 is 4
+Hand type for hand Q2266 is 2
+Hand type for hand 5JJK7 is 1
+Hand type for hand QQKJ6 is 1
+Hand type for hand TJ9T9 is 2
+Hand type for hand K4K46 is 2
+Hand type for hand Q9KKK is 3
+Hand type for hand Q8844 is 2
+Hand type for hand 8922K is 1
+Hand type for hand J877J is 2
+Hand type for hand 77929 is 2
+Hand type for hand J8A66 is 1
+Hand type for hand 555TT is 4
+Hand type for hand K6Q49 is 0
+Hand type for hand 64464 is 4
+Hand type for hand 99JJ9 is 4
+Hand type for hand 626A7 is 1
+Hand type for hand 7AQQQ is 3
+Hand type for hand 66AA6 is 4
+Hand type for hand 88T56 is 1
+Hand type for hand KKKJ4 is 3
+Hand type for hand 48999 is 3
+Hand type for hand 4494J is 3
+Hand type for hand K883J is 1
+Hand type for hand 2KK99 is 2
+Hand type for hand 7737A is 3
+Hand type for hand KQJ69 is 0
+Hand type for hand 33KA8 is 1
+Hand type for hand T3JT9 is 1
+Hand type for hand 99899 is 5
+Hand type for hand T847J is 0
+Hand type for hand J9694 is 1
+Hand type for hand 55AAQ is 2
+Hand type for hand 3742T is 0
+Hand type for hand 44QK4 is 3
+Hand type for hand 7777K is 5
+Hand type for hand TTT5T is 5
+Hand type for hand JKJKJ is 4
+Hand type for hand 9KK99 is 4
+Hand type for hand AJ546 is 0
+Hand type for hand A999A is 4
+Hand type for hand KA4A6 is 1
+Hand type for hand 9AJA4 is 1
+Hand type for hand 555Q5 is 5
+Hand type for hand 64J46 is 2
+Hand type for hand 55KTA is 1
+Hand type for hand 86688 is 4
+Hand type for hand J8883 is 3
+Hand type for hand 2JQ2Q is 2
+Hand type for hand 59826 is 0
+Hand type for hand T843K is 0
+Hand type for hand 52252 is 4
+Hand type for hand Q62J9 is 0
+Hand type for hand 38777 is 3
+Hand type for hand 3T433 is 3
+Hand type for hand 4J4AA is 2
+Hand type for hand QQKJJ is 2
+Hand type for hand A9637 is 0
+Hand type for hand 99JK3 is 1
+Hand type for hand 35J99 is 1
+Hand type for hand 98334 is 1
+Hand type for hand 86K42 is 0
+Hand type for hand T8J3A is 0
+Hand type for hand 89A38 is 1
+Hand type for hand 8JJ87 is 2
+Hand type for hand T6256 is 1
+Hand type for hand 68445 is 1
+Hand type for hand 47673 is 1
+Hand type for hand AT28A is 1
+Hand type for hand 8KQ28 is 1
+Hand type for hand 33JK3 is 3
+Hand type for hand 53999 is 3
+Hand type for hand 68TJ8 is 1
+Hand type for hand 7K7K7 is 4
+Hand type for hand 64379 is 0
+Hand type for hand K3TQ4 is 0
+Hand type for hand T5Q88 is 1
+Hand type for hand 77474 is 4
+Hand type for hand 887JA is 1
+Hand type for hand 44446 is 5
+Hand type for hand J9393 is 2
+Hand type for hand 8A633 is 1
+Hand type for hand 74479 is 2
+Hand type for hand 2Q555 is 3
+Hand type for hand 8J888 is 5
+Hand type for hand 97Q5A is 0
+Hand type for hand 48632 is 0
+Hand type for hand 4K6QT is 0
+Hand type for hand 3Q333 is 5
+Hand type for hand T36J3 is 1
+Hand type for hand AAKKK is 4
+Hand type for hand AAJQQ is 2
+Hand type for hand 9Q393 is 2
+Hand type for hand JTKK9 is 1
+Hand type for hand J986K is 0
+Hand type for hand 55KJ5 is 3
+Hand type for hand 8K882 is 3
+Hand type for hand 8KA82 is 1
+Hand type for hand 9AAA9 is 4
+Hand type for hand 22J92 is 3
+Hand type for hand QQQQA is 5
+Hand type for hand 7A652 is 0
+Hand type for hand T4665 is 1
+Hand type for hand T7TAT is 3
+Hand type for hand 87KK7 is 2
+Hand type for hand QT967 is 0
+Hand type for hand Q3QJ6 is 1
+Hand type for hand A8T6T is 1
+Hand type for hand 88J58 is 3
+Hand type for hand KKKTQ is 3
+Hand type for hand 45K2K is 1
+Hand type for hand 22343 is 2
+Hand type for hand K8T88 is 3
+Hand type for hand 3T4QJ is 0
+Hand type for hand T59AQ is 0
+Hand type for hand QKKQJ is 2
+Hand type for hand 353J5 is 2
+Hand type for hand 4J8Q5 is 0
+Hand type for hand 7747A is 3
+Hand type for hand 52562 is 2
+Hand type for hand 6JJ64 is 2
+Hand type for hand 8Q33J is 1
+Hand type for hand K86A4 is 0
+Hand type for hand 747A9 is 1
+Hand type for hand JA22Q is 1
+Hand type for hand 79333 is 3
+Hand type for hand 9Q65K is 0
+Hand type for hand 4J677 is 1
+Hand type for hand A2J74 is 0
+Hand type for hand 92339 is 2
+Hand type for hand J3337 is 3
+Hand type for hand 67A5T is 0
+Hand type for hand A8AAA is 5
+Hand type for hand 37K3K is 2
+Hand type for hand 43337 is 3
+Hand type for hand 93QQ3 is 2
+Hand type for hand 5KQJK is 1
+Hand type for hand T9T99 is 4
+Hand type for hand 66T66 is 5
+Hand type for hand 3T792 is 0
+Hand type for hand 57575 is 4
+Hand type for hand J47JT is 1
+Hand type for hand 62666 is 5
+Hand type for hand 997K9 is 3
+Hand type for hand 32TK7 is 0
+Hand type for hand 96294 is 1
+Hand type for hand 63666 is 5
+Hand type for hand KK397 is 1
+Hand type for hand 4A4J4 is 3
+Hand type for hand Q4265 is 0
+Hand type for hand AKJAA is 3
+Hand type for hand J5Q94 is 0
+Hand type for hand ATTTT is 5
+Hand type for hand 4827T is 0
+Hand type for hand 47AK9 is 0
+Hand type for hand 68T47 is 0
+Hand type for hand 2QK28 is 1
+Hand type for hand T22JT is 2
+Hand type for hand 662QQ is 2
+Hand type for hand QQ6QQ is 5
+Hand type for hand 92292 is 4
+Hand type for hand 96K9J is 1
+Hand type for hand 2J299 is 2
+Hand type for hand T333T is 4
+Hand type for hand 25J55 is 3
+Hand type for hand 6AJ2T is 0
+Hand type for hand 5K323 is 1
+Hand type for hand 9944K is 2
+Hand type for hand A9Q49 is 1
+Hand type for hand TTQ5T is 3
+Hand type for hand 444Q4 is 5
+Hand type for hand 76666 is 5
+Hand type for hand 9946K is 1
+Hand type for hand KK3QJ is 1
+Hand type for hand ATTT6 is 3
+Hand type for hand 2A2K8 is 1
+Hand type for hand A4T9Q is 0
+Hand type for hand 777J7 is 5
+Hand type for hand 595J4 is 1
+Hand type for hand TAATT is 4
+Hand type for hand 53333 is 5
+Hand type for hand A59T6 is 0
+Hand type for hand 44525 is 2
+Hand type for hand Q8J8Q is 2
+Hand type for hand T3J93 is 1
+Hand type for hand 47464 is 3
+Hand type for hand J2822 is 3
+Hand type for hand JJ559 is 2
+Hand type for hand 55343 is 2
+Hand type for hand 9K9Q9 is 3
+Hand type for hand 8TQQQ is 3
+Hand type for hand 7J275 is 1
+Hand type for hand 22Q5J is 1
+Hand type for hand 66564 is 3
+Hand type for hand TJTJJ is 4
+Hand type for hand KK6KK is 5
+Hand type for hand 5Q98A is 0
+Hand type for hand 78777 is 5
+Hand type for hand 67667 is 4
+Hand type for hand 5QK98 is 0
+Hand type for hand K35J6 is 0
+Hand type for hand 96KT2 is 0
+Hand type for hand 4KK44 is 4
+Hand type for hand T6253 is 0
+Hand type for hand 85989 is 2
+Hand type for hand 55445 is 4
+Hand type for hand T9736 is 0
+Hand type for hand A696A is 2
+Hand type for hand T48QT is 1
+Hand type for hand 644K6 is 2
+Hand type for hand JJJJJ is 6
+Hand type for hand TQ6AT is 1
+Hand type for hand KK83K is 3
+Hand type for hand 73777 is 5
+Hand type for hand 6K66Q is 3
+Hand type for hand 5K39A is 0
+Hand type for hand 64T7T is 1
+Hand type for hand 238J2 is 1
+Hand type for hand 4J22Q is 1
+Hand type for hand Q9TA6 is 0
+Hand type for hand 5T86J is 0
+Hand type for hand T439K is 0
+Hand type for hand 44244 is 5
+Hand type for hand K8844 is 2
+Hand type for hand K5KK7 is 3
+Hand type for hand A666Q is 3
+Hand type for hand 8T6Q7 is 0
+Hand type for hand 63Q4J is 0
+Hand type for hand 966J9 is 2
+Hand type for hand JA6KA is 1
+Hand type for hand A5555 is 5
+Hand type for hand T2222 is 5
+Hand type for hand AAA7A is 5
+Hand type for hand Q359T is 0
+Hand type for hand A2A5A is 3
+Hand type for hand QQQQ5 is 5
+Hand type for hand K4T5T is 1
+Hand type for hand A888A is 4
+Hand type for hand 5J535 is 3
+Hand type for hand 5A9K6 is 0
+Hand type for hand 4QJ43 is 1
+Hand type for hand 75J4J is 1
+Hand type for hand 283J8 is 1
+Hand type for hand T7T8T is 3
+Hand type for hand 33J76 is 1
+Hand type for hand 47QJA is 0
+Hand type for hand 2T272 is 3
+Hand type for hand A7A87 is 2
+Hand type for hand J3TT3 is 2
+Hand type for hand 4JJ44 is 4
+Hand type for hand KJJ63 is 1
+Hand type for hand 92QQ9 is 2
+Hand type for hand TJTTT is 5
+Hand type for hand TJK68 is 0
+Hand type for hand 37773 is 4
+Hand type for hand QQQT6 is 3
+Hand type for hand QJQ9Q is 3
+Hand type for hand 24K3A is 0
+Hand type for hand 8443Q is 1
+Hand type for hand 33592 is 1
+Hand type for hand 87923 is 0
+Hand type for hand TTJ8Q is 1
+Hand type for hand J4544 is 3
+Hand type for hand 6K666 is 5
+Hand type for hand 68566 is 3
+Hand type for hand A4AAA is 5
+Hand type for hand 89899 is 4
+Hand type for hand 842K3 is 0
+Hand type for hand K5AA5 is 2
+Hand type for hand 85885 is 4
+Hand type for hand 59779 is 2
+Hand type for hand A336J is 1
+Hand type for hand TT3A3 is 2
+Hand type for hand 97Q7A is 1
+Hand type for hand 83393 is 3
+Hand type for hand Q6Q6T is 2
+Hand type for hand 37T2J is 0
+Hand type for hand 38333 is 5
+Hand type for hand 28227 is 3
+Hand type for hand TTT66 is 4
+Hand type for hand 32333 is 5
+Hand type for hand A8T55 is 1
+Hand type for hand 88889 is 5
+Hand type for hand KQQ3Q is 3
+Hand type for hand T6685 is 1
+Hand type for hand 5K76J is 0
+Hand type for hand 75777 is 5
+Hand type for hand 53566 is 2
+Hand type for hand TTKJT is 3
+Hand type for hand 875J9 is 0
+Hand type for hand 447A7 is 2
+Hand type for hand T2TT7 is 3
+Hand type for hand T2726 is 1
+Hand type for hand TT6TT is 5
+Hand type for hand QK9JQ is 1
+Hand type for hand A786Q is 0
+Hand type for hand 44J44 is 5
+Hand type for hand 98QJ3 is 0
+Hand type for hand J4448 is 3
+Hand type for hand Q8Q8Q is 4
+Hand type for hand 59473 is 0
+Hand type for hand 99K99 is 5
+Hand type for hand 662AJ is 1
+Hand type for hand 7TTTT is 5
+Hand type for hand 26T97 is 0
+Hand type for hand 7A69T is 0
+Hand type for hand 95JA5 is 1
+Hand type for hand J9J8K is 1
+Hand type for hand 57333 is 3
+Hand type for hand 4TJQA is 0
+Hand type for hand T5628 is 0
+Hand type for hand 72A59 is 0
+Hand type for hand QK777 is 3
+Hand type for hand 84649 is 1
+Hand type for hand T7T96 is 1
+Hand type for hand 4TAQQ is 1
+Hand type for hand 24274 is 2
+Hand type for hand KJ3KK is 3
+Hand type for hand TT77T is 4
+Hand type for hand 8J88J is 4
+Hand type for hand A25T4 is 0
+Hand type for hand 88868 is 5
+Hand type for hand Q5QK2 is 1
+Hand type for hand 35344 is 2
+Hand type for hand K99AA is 2
+Hand type for hand 2T375 is 0
+Hand type for hand 4484Q is 3
+Hand type for hand J8AQA is 1
+Hand type for hand QJ578 is 0
+Hand type for hand T72T7 is 2
+Hand type for hand 5AQK8 is 0
+Hand type for hand T3AA9 is 1
+Hand type for hand 8TJJ7 is 1
+Hand type for hand 88J75 is 1
+Hand type for hand T8T8A is 2
+Hand type for hand 93524 is 0
+Hand type for hand 29T9Q is 1
+Hand type for hand 66272 is 2
+Hand type for hand TQTQQ is 4
+Hand type for hand 629J4 is 0
+Hand type for hand 6676T is 3
+Hand type for hand 9QT99 is 3
+Hand type for hand 67977 is 3
+Hand type for hand 737J7 is 3
+Hand type for hand T785K is 0
+Hand type for hand 7AAA4 is 3
+Hand type for hand 88Q8J is 3
+Hand type for hand QK663 is 1
+Hand type for hand 9734J is 0
+Hand type for hand J4TTT is 3
+Hand type for hand 5A585 is 3
+Hand type for hand 8JJJJ is 5
+Hand type for hand 7T298 is 0
+Hand type for hand 8998A is 2
+Hand type for hand TT5T2 is 3
+Hand type for hand 44443 is 5
+Hand type for hand 57565 is 3
+Hand type for hand T579A is 0
+Hand type for hand A5QAA is 3
+Hand type for hand A665A is 2
+Hand type for hand 223J3 is 2
+Hand type for hand T63AJ is 0
+Hand type for hand 62K97 is 0
+Hand type for hand Q8Q33 is 2
+Hand type for hand A5955 is 3
+Hand type for hand JKKKK is 5
+Hand type for hand 88228 is 4
+Hand type for hand 376J7 is 1
+Hand type for hand 7343T is 1
+Hand type for hand KQK44 is 2
+Hand type for hand KKK76 is 3
+Hand type for hand 9229K is 2
+Hand type for hand J63J8 is 1
+Hand type for hand ATKKK is 3
+Hand type for hand T4JT4 is 2
+Hand type for hand 79A9A is 2
+Hand type for hand AA6A3 is 3
+Hand type for hand 6A542 is 0
+Hand type for hand 45242 is 2
+Hand type for hand KJ75Q is 0
+Hand type for hand 52T29 is 1
+Hand type for hand A9924 is 1
+Hand type for hand A7838 is 1
+Hand type for hand 2738J is 0
+Hand type for hand 22262 is 5
+Hand type for hand A55AA is 4
+Hand type for hand 77727 is 5
+Hand type for hand 86556 is 2
+Hand type for hand 46443 is 3
+Hand type for hand 666J6 is 5
+Hand type for hand 99968 is 3
+Hand type for hand 9AA49 is 2
+Hand type for hand 68666 is 5
+Hand type for hand 52K68 is 0
+Hand type for hand 3J339 is 3
+Hand type for hand 43634 is 2
+Hand type for hand TJK46 is 0
+Hand type for hand 43533 is 3
+Hand type for hand 55245 is 3
+Hand type for hand 39K3J is 1
+Hand type for hand 65J54 is 1
+Hand type for hand 5T684 is 0
+Hand type for hand 22Q74 is 1
+Hand type for hand 25255 is 4
+Hand type for hand 5TTJ5 is 2
+Hand type for hand 93J7A is 0
+Hand type for hand AAAQ8 is 3
+Hand type for hand 7J727 is 3
+Hand type for hand 44T44 is 5
+Hand type for hand 77533 is 2
+Hand type for hand KQQ83 is 1
+Hand type for hand 72222 is 5
+Hand type for hand 44A4A is 4
+Hand type for hand 8932K is 0
+Hand type for hand KK59K is 3
+Hand type for hand 774K4 is 2
+Hand type for hand 29992 is 4
+Hand type for hand 3333J is 5
+Hand type for hand 39393 is 4
+Hand type for hand 74773 is 3
+Hand type for hand T79Q8 is 0
+Hand type for hand TTT3T is 5
+Hand type for hand QQQ8A is 3
+Hand type for hand 99979 is 5
+Hand type for hand 2965T is 0
+Hand type for hand AA6AJ is 3
+Hand type for hand 383K9 is 1
+Hand type for hand 7TK7K is 2
+Hand type for hand 6J755 is 1
+Hand type for hand 2QQQ2 is 4
+Hand type for hand TTT4T is 5
+Hand type for hand 3K767 is 1
+Hand type for hand 75J8J is 1
+Hand type for hand KTJK3 is 1
+Hand type for hand 7972T is 1
+Hand type for hand 77573 is 3
+Hand type for hand J253K is 0
+Hand type for hand TQK85 is 0
+Hand type for hand 6235A is 0
+Hand type for hand 338TT is 2
+Hand type for hand JT8T5 is 1
+Hand type for hand JA4JA is 2
+Hand type for hand JAQ86 is 0
+Hand type for hand 9T589 is 1
+Hand type for hand KJQQQ is 3
+Hand type for hand JJKTK is 2
+Hand type for hand QTJTQ is 2
+Hand type for hand 6J626 is 3
+Hand type for hand 24Q22 is 3
+Hand type for hand QAT5A is 1
+Hand type for hand 6486K is 1
+Hand type for hand QT464 is 1
+Hand type for hand A6972 is 0
+Hand type for hand Q99Q9 is 4
+Hand type for hand 4JJ43 is 2
+Hand type for hand 66AA8 is 2
+Hand type for hand Q34QT is 1
+Hand type for hand Q8J4Q is 1
+Hand type for hand 979TT is 2
+Hand type for hand A8A8A is 4
+Hand type for hand 9A34Q is 0
+Hand type for hand QT89A is 0
+Hand type for hand JQJJQ is 4
+Hand type for hand 8338K is 2
+Hand type for hand 99T99 is 5
+Hand type for hand 6A444 is 3
+Hand type for hand 4K5KK is 3
+Hand type for hand 55K55 is 5
+Hand type for hand K8866 is 2
+Hand type for hand 42577 is 1
+Hand type for hand 45564 is 2
+Hand type for hand Q2TAQ is 1
+Hand type for hand Q9AA6 is 1
+Hand type for hand 867A3 is 0
+Hand type for hand A9799 is 3
+Hand type for hand 74778 is 3
+Hand type for hand A2727 is 2
+Hand type for hand 78888 is 5
+Sorted by rank:[[155580297988175771, 665, 'QAAQT'], [2177954080817745761, 312, '5K355'], [793852846113263, 440, 'Q5T46'], [2177980057752406831, 461, 'A3AJA'], [2177953641091498781, 825, 'QQ9KQ'], [30491346888194200197, 51, 'QJJQQ'], [11113011985871441, 37, '7J7A5'], [2177953342976808907, 774, '8J887'], [11136147919051277, 62, 'AK3K4'], [155591676101958369, 110, 'A399A'], [11112006827703427, 946, '75845'], [426878869339755498151, 226, 'KAAAA'], [11112017485482929, 869, 'J9976'], [793724773975198, 917, '627Q8'], [2177955129969766176, 216, 'K2252'], [30491371309845855131, 867, 'A44AA'], [11112007474681573, 160, '2TT39'], [30491346729331244085, 225, '65566'], [30491348906803287849, 655, 'K6KK6'], [11112007039917158, 787, '42T34'], [2177953338625143805, 347, 'T6636'], [30491346893700140771, 371, 'QTQTT'], [2177953338028556857, 878, '83T33'], [11112144739900286, 742, 'Q9928'], [11112082835978575, 423, 'JQ85Q'], [155568180437623513, 654, 'JQJQ2'], [794714987642327, 645, '63TA5'], [11112074047208923, 884, 'TQ8JQ'], [30491346730246926971, 6, 'T44T4'], [11112011985341906, 83, '5J523'], [793740715754487, 527, '87Q42'], [11113011985558481, 530, '3J7A7'], [155569987816571961, 158, 'K99KT'], [794714773327848, 546, '326A7'], [11115156069665460, 8, 'T2AQ2'], [155569380443876721, 464, '99JAA'], [2177953563575698531, 988, 'QQQ9T'], [2177953348413907927, 568, 'J6466'], [11112078762410309, 182, '4Q9Q5'], [11112017939951033, 63, 'J89TJ'], [155568097915810941, 870, '66J55'], [2177953489154648729, 1, 'Q35QQ'], [794457781698533, 46, '2K637'], [11112007742083651, 280, 'T76T8'], [155577304170032649, 634, '9A9QA'], [2177957896525796923, 486, 'Q6AAA'], [2177953337837677661, 350, '88986'], [11112011985355099, 875, '4J266'], [30491346745095506831, 116, 'JJ666'], [30491346729334713363, 422, '38338'], [817116345409859, 799, 'A72KQ'], [817022858450316, 666, 'A26Q7'], [30491346729331196141, 788, '33434'], [793714775026548, 457, '32845'], [11121205418301281, 995, '9A36A'], [11112016827329592, 77, '328Q2'], [11113860904862359, 238, 'KQ688'], [155568095605619687, 455, '5885T'], [2177953337811144897, 145, '52822'], [2177953337809374210, 125, '32555'], [2177953337814261053, 574, '85557'], [155568095557812504, 790, '34422'], [2177955135129865625, 428, 'KJ777'], [30491346745095795729, 122, 'JJ777'], [11112006827351315, 914, '26852'], [797607025733003, 819, 'TKAQ5'], [793756154562719, 918, '374QK'], [793852674808367, 462, 'Q365T'], [793714778066686, 179, '62359'], [155568116549732088, 367, 'J22QJ'], [426878854210636762951, 641, '55655'], [11112303559130285, 679, 'JTK4J'], [2177955515281436525, 711, 'K3KK5'], [11135304910681518, 688, 'A2353'], [2177953338196806881, 40, '5556J'], [2177953563527534779, 167, 'QQQ79'], [155568869953069341, 676, '8K38K'], [2177955137874923705, 61, 'KJJ6J'], [2177985835424479685, 544, 'AA5JA'], [426878857062498337601, 375, 'KKK7K'], [2177953413213680825, 775, '3Q7QQ'], [155568380871014278, 71, '22K88'], [155568481256907249, 101, '55KKJ'], [30491346734878401273, 982, '5J55J'], [2177976641411679571, 541, 'AJTTT'], [11112107687321563, 343, 'T84KT'], [155568378903489309, 162, 'T77TA'], [817013298364883, 31, 'AT296'], [11115147069973339, 334, 'T7AJ7'], [155570173029877065, 310, 'K3K44'], [11112290510807035, 281, 'TT49A'], [793714774049159, 18, '27648'], [2177953337814154483, 156, '34449'], [155568095599427291, 763, '49489'], [155568095577299647, 672, '42924'], [2177953337816977795, 118, '85886'], [793725387935313, 800, 'J6793'], [11112038210766857, 659, '5878K'], [11112012377595667, 21, '8J26J'], [11112016828544143, 822, '384Q3'], [30491378947262134821, 949, 'AAJJJ'], [155568095558442351, 643, '77262'], [155568095557863681, 411, '66545'], [793720618986381, 520, '24J8Q'], [426878854212201596923, 314, 'TTTT9'], [155571521575977071, 473, '7JA7A'], [2177953430150944363, 335, '2QQJQ'], [155568237548128751, 721, 'J88KK'], [30491346729331195929, 251, '32223'], [2177953351900654913, 403, 'J222Q'], [155569383153727427, 277, '8J8AA'], [793741746517127, 187, '39QJ6'], [11112069159829913, 830, '3Q99J'], [11112145001395459, 240, 'Q8TT5'], [155568237543371208, 519, 'J22KK'], [155568105204377267, 928, '4J4JQ'], [2177953338197572901, 239, '7774J'], [2177953337814201743, 415, '85535'], [11112154690604407, 171, 'Q38Q9'], [155568096378300509, 588, 'T8833'], [11112289255209163, 781, '3367A'], [2177953337809399781, 100, '62224'], [11112012087641383, 210, '3J8T8'], [2177953340171836421, 834, '48J88'], [30491346794735397731, 301, '6Q66Q'], [11121022926027487, 586, '3A6K6'], [11121022926006285, 419, '2A3K2'], [793714992449847, 712, '83T62'], [11112014348440421, 82, '7JJ49'], [793787305810233, 66, 'JQ798'], [155568095640355893, 921, '97947'], [11135587341378173, 223, 'A478A'], [794740710739523, 602, '25QA7'], [794460149579097, 729, '3KJ96'], [30491349295881020259, 543, 'KK33K'], [2177953363746896131, 386, '44Q74'], [11120922926023849, 753, '5A635'], [155570919099265893, 400, 'K33AK'], [2177953480827674539, 756, 'QJ666'], [11121377477328341, 564, 'QAK7K'], [11115538290956575, 682, 'J8AKA'], [796853247673571, 887, '28A6T'], [11124061459268851, 191, '8AAT7'], [793715590065981, 612, 'T6587'], [30491346747453423322, 430, 'JJJ22'], [30491350150189114031, 303, '55A5A'], [155568096805056093, 976, 'TT388'], [426878857349065119421, 388, '33A33'], [155574052584490151, 933, 'KKAJA'], [11114541996095303, 922, 'KK852'], [426878854349282621803, 333, 'QTTTT'], [11112008255541293, 509, '4T5J4'], [30491346730345292325, 394, 'T99TT'], [11112007376136905, 785, '977TJ'], [30491346729339008700, 862, '88222'], [155568096557812539, 719, '442J2'], [11112006825929545, 138, '74234'], [11112303742261169, 909, 'J5KJ8'], [155569390949816505, 341, 'J6JAA'], [11112095883498151, 381, 'TQQ4J'], [426878854210637748641, 111, '55585'], [11112033966482659, 396, 'T7Q7J'], [11112007039929835, 562, '53T65'], [2177954212261711001, 220, '9K7KK'], [11112009188639705, 356, '57J79'], [804426521041989, 687, 'KA74Q'], [793787296191431, 662, 'JQ687'], [796884582720036, 326, '62A5K'], [155568106269684287, 163, '9TTQ9'], [30491346729377031969, 49, '59595'], [30491347616683073265, 727, 'JKJKK'], [11112006830599841, 539, '37369'], [30491356940823627705, 68, 'JAJAA'], [794483781798059, 477, '9KQ43'], [155568098303201409, 945, '46J4J'], [426878854210672574507, 701, '39333'], [793717134198561, 767, '38J65'], [795790399016481, 941, 'K93JA'], [155568095558347026, 529, '75725'], [155568412323539793, 615, '97K9K'], [11116176635015083, 579, '26AAK'], [155577011658301101, 420, '6A565'], [426878854211066729609, 650, '5T555'], [155600309745075453, 87, 'AA788'], [11113799000896074, 969, 'K2799'], [2177953351456077965, 185, 'TTJQT'], [30491348652877407095, 515, 'K88KK'], [11112032764290511, 495, '37Q87'], [11112021128095205, 275, 'T65QQ'], [11112094680348019, 638, '4QQ53'], [2177953337812410323, 758, '68662'], [155568095559343836, 731, '42288'], [2177953363746833047, 789, '36Q66'], [2177966402943226927, 924, 'JAAA8'], [11112302741887050, 443, 'J2K77'], [155568121501063636, 569, '82Q82'], [2177953620453325795, 476, '66T6A'], [30491347047369638541, 108, 'TTKTK'], [426878854210637114395, 993, '74444'], [426878854221241246817, 658, 'J5555'], [11112008668544861, 38, 'T89J9'], [30491346729331195939, 246, '23332'], [795506954135497, 279, 'K4982'], [2177955973021182703, 501, 'KK4KT'], [426878854210636744171, 233, '44454'], [793853072259141, 866, 'QT398'], [2177953337852518291, 432, '4447T'], [2177953338258840353, 939, '4T944'], [155568095990096924, 549, '2T828'], [155568095700894323, 72, '266TT'], [426878854210759593122, 814, '99929'], [793714809100773, 256, '49632'], [155568095974720197, 124, '4499J'], [11112171621476275, 573, 'Q5QJ4'], [155568095560823099, 175, '48664'], [796853590443383, 795, '76A8J'], [793853122152467, 245, 'Q82TJ'], [793818686177361, 336, 'JQ39K'], [11112006835868095, 689, '57297'], [155568382256903349, 959, '33KJJ'], [155568095815246631, 534, '64T4T'], [30491346729331245689, 809, '63636'], [2177953337914688683, 583, '688T8'], [11112009188332751, 35, '84J34'], [11112020000908061, 94, '4TJQJ'], [155568109099915617, 479, '399QQ'], [426878854210764816713, 577, '99996'], [155568095558218913, 13, '76633'], [11138543339588671, 298, 'A3AK8'], [30491382081945143364, 697, 'AAA22'], [2177953340219178341, 19, '88J8T'], [155568124982021549, 610, '44Q3Q'], [426878854213108053641, 315, '99J99'], [2177953337818955599, 636, '88843'], [2177966392725616603, 953, '2AAAJ'], [30491346729331200183, 603, '53535'], [796953201886427, 811, '47AK6'], [2177985834424493995, 642, 'AA65A'], [796532875855752, 902, 'K2QA9'], [794282515461393, 748, '34K8A'], [802641478894275, 611, 'JA738'], [426878863126737882305, 829, '7A777'], [155568259353908459, 559, 'Q6Q77'], [426878854426257330821, 991, 'QQJQQ'], [426878854210636742672, 368, '23222'], [2177954337809746217, 536, '755A5'], [11120922946923785, 177, '7A987'], [793952632438629, 624, 'Q47K8'], [426878854210672634227, 705, '69666'], [155570630726576969, 329, 'KK233'], [155568108556091277, 450, 'J9J44'], [30491346740935695280, 670, 'J22J2'], [155591677072474245, 926, 'A55JA'], [2177953437828858310, 827, '229K2'], [796854020354141, 237, 'T8A36'], [2177953337809379031, 490, '22526'], [426878857062498238601, 75, 'KKK5K'], [11112007285975855, 693, '9729J'], [11112749903231752, 609, '9K829'], [793719095256448, 796, 'T293Q'], [11115155861420275, 931, 'J8A44'], [795509327434341, 441, 'K9J46'], [2177953337810011769, 149, '75776'], [11112852191904957, 675, '6KJK2'], [2177953349098291325, 507, 'TT7QT'], [11112292524897950, 533, '27K2J'], [2177953337809742732, 764, '72444'], [796915124778227, 990, '4QA89'], [817012858909805, 754, 'A5238'], [155569887718208739, 152, 'K5335'], [11112749834028717, 132, '2K372'], [155568097916108769, 328, '37J73'], [817023077767307, 965, 'A7TQ9'], [30491346729804224324, 484, '2T22T'], [155568095815267223, 199, '66T4T'], [426878854953645113387, 337, '3K333'], [793746220049685, 20, '9854K'], [11124072170113715, 103, 'TAAQ2'], [11135305010687323, 81, 'A44T6'], [11112007213364441, 510, '7262J'], [796507356900479, 983, 'K92AJ'], [794714778242734, 614, '827A5'], [155568095558073297, 980, '23773'], [793776753368298, 166, '9Q524'], [30491346730718616429, 463, '333JJ'], [11144225497913275, 911, 'AA4JQ'], [155568295334668299, 313, 'QQ282'], [794740274071881, 873, '9K75A'], [11112068806670959, 332, '9Q484'], [2177953478026218557, 114, 'Q7J77'], [155577395117886563, 218, 'TATKA'], [426878854211424129955, 798, '2TTTT'], [2177953399726736123, 966, '3Q335'], [155568125982021251, 212, '33QJQ'], [11112351172461221, 901, '4Q55A'], [11113006893250697, 736, '947A9'], [793717194481894, 465, '92J48'], [11112107857319251, 50, '4TTKJ'], [2177953342986281299, 604, '8J898'], [11112009613488405, 840, '2TJ52'], [11112148078360805, 813, 'Q9JJ8'], [11112785771724679, 958, '7KQQ4'], [2177953337809376191, 282, '55453'], [2177966392725616771, 183, '4AAAJ'], [11112007269299681, 65, '5998J'], [11112008248973561, 480, '597JJ'], [426878854446350023339, 207, 'QQQQ3'], [793953021186875, 720, 'Q78KJ'], [2177953348479189497, 331, 'J9993'], [11113801344208625, 677, 'K7J57'], [2177953348419169495, 597, 'J8868'], [11112006826110217, 770, '36238'], [11112292140746222, 517, '48K28'], [11113799086173881, 43, 'K57T7'], [2177954080818333227, 305, '7K737'], [426878854212994690351, 553, '22J22'], [2177953340167318843, 691, '32J22'], [817298171053809, 259, 'A3K86'], [11115159345249247, 135, 'J6A6Q'], [155571588333091847, 164, '5QAQA'], [155591678430418879, 595, 'A2J2A'], [11112759896677241, 557, '9K3Q3'], [2177953351169238701, 552, 'J3J9J'], [2177953337814197960, 703, '83222'], [155568162044196537, 113, '9Q9JQ'], [11112008028901013, 823, 'T676J'], [2177955129969772099, 85, 'K4446'], [793879864303341, 250, 'TQJK6'], [11112296539764485, 376, 'T6KTQ'], [802916285402301, 294, '6AKT5'], [155580150087008496, 243, '7AA22'], [11112037249787755, 398, '26QJQ'], [795507148538648, 141, 'K4T28'], [794098020294635, 73, 'T58KA'], [793782696239555, 47, 'J5Q4K'], [2177988690428102563, 652, 'AAA59'], [802868736977339, 622, 'QA4K9'], [30491346730195730891, 967, 'T888T'], [11112007213511861, 726, '7375J'], [2177980799760778507, 14, 'AKA5A'], [11138446825842631, 894, 'A3A5Q'], [426878854210646088221, 7, '88588'], [155568095620585607, 354, '94664'], [11112007696614278, 29, 'T9926'], [2177953341554741657, 776, '54JJJ'], [817174780523829, 752, 'AQ3K9'], [155568106480187903, 105, 'J8TT8'], [794714988174755, 421, '65TA8'], [30491346729449279961, 269, '99966'], [793817236997074, 296, '92JKT'], [426878857131117178073, 673, 'KKKK4'], [11112037965809692, 832, '2JQ2T'], [2177964431386667009, 262, 'KAKK9'], [11112007924138351, 554, '992J3'], [30491346729333558203, 700, '66868'], [426878887707251849875, 351, 'AA2AA'], [11112144684211169, 851, 'Q4743'], [155568095567812473, 355, '34394'], [155568096592715531, 732, 'T6T69'], [802631694217521, 155, 'TA549'], [30491346932623323549, 300, 'QQ99Q'], [11112133150403131, 555, '33QKJ'], [426878877508721865583, 833, 'A4444'], [155568940924130625, 563, '3KJK3'], [796853202292595, 831, '65A78'], [2177964431382415481, 744, 'KAKK8'], [2177953529150946559, 985, '5QQKQ'], [11112007213230965, 769, '5754J'], [2177953621238971555, 414, '666JA'], [426878855371153574285, 23, 'TKKKK'], [794000535094773, 837, '93K5J'], [30491346729336558213, 78, '85558'], [11113798986979351, 663, 'K6286'], [11112292956477773, 735, 'T8K58'], [11113291613065121, 224, '56JAA'], [155568096050328081, 345, '4T94T'], [426878854210636771259, 172, '63333'], [11112006828553769, 853, '58356'], [2177953369290494683, 30, '666TK'], [155592397130128989, 896, 'A77AQ'], [11113032766528603, 174, '68QA8'], [794097265539264, 292, '924KA'], [11112008102665416, 898, '92TJ2'], [11112017436614647, 230, 'J5859'], [2177953476412210123, 319, 'QTTT6'], [426878887709609797565, 860, 'AAJAA'], [796856691401351, 714, '28A4Q'], [795506976856054, 671, 'K274T'], [30491346729331626279, 28, '73337'], [11112007951089257, 899, '979JT'], [426878855370342670373, 740, '8KKKK'], [155568160991448189, 944, '4Q99Q'], [2177956159289865521, 718, 'KKKJ7'], [2177953491512843909, 438, 'Q7JQQ'], [11112292180646663, 999, '73K3T'], [155568101105016263, 379, '5J25J'], [2177953620304228793, 416, '5999A'], [155568096428861926, 265, 'T9922'], [794457782996975, 648, '7K485'], [802662254863353, 686, '3A57K'], [2177953338810683753, 695, '777J8'], [2177955130434017009, 274, 'KT999'], [11112010312345577, 500, '2554Q'], [2177953338625108421, 284, 'T2226'], [426878854387922429491, 302, 'Q8QQQ'], [2177955451832275745, 556, 'KJK9K'], [11115145268719915, 52, '53A99'], [793814775417743, 488, '768K3'], [2177954340167323481, 115, '55JA5'], [155570173030035933, 986, 'K3K77'], [155568413251162569, 804, '77KJK'], [155568095563661829, 390, '86585'], [2177953337860000567, 469, '39699'], [2177953339269443443, 859, 'TTT53'], [30491346729331233203, 628, '26266'], [2177953337816750779, 200, '87858'], [793782732169535, 359, 'J9Q7K'], [796873809116303, 377, 'J8AQ4'], [11112010368661409, 76, '3998Q'], [426878854210764810233, 161, '99994'], [793715162547935, 728, '3587J'], [155570173065708699, 816, 'K9K33'], [155568132491142671, 456, 'J8Q8J'], [11112007870999723, 733, '894J9'], [793717946943429, 514, 'T4J65'], [2177953337809972530, 613, '72767'], [793815205009599, 370, '5T8K2'], [155580089130331689, 855, 'KAKA6'], [11135331848105119, 738, 'A3QJ3'], [793787295178131, 504, 'JQ537'], [2177953337814197978, 271, '83323'], [155570630726660639, 558, 'KK667'], [2177954248101442675, 908, 'QKQ8Q'], [2177957759097266203, 34, '4TAAA'], [11112032772985087, 625, '35Q95'], [2177953338661253765, 323, 'T9777'], [426878854210636816675, 9, '66664'], [155571234084785831, 631, '99A66'], [2177953621248491971, 244, '888JA'], [793728864787871, 635, 'J745Q'], [11135307741656705, 107, 'ATJ4T'], [794010120815781, 757, '49KQ7'], [426878854210733763041, 242, '95999'], [155577011658260772, 560, '4A422'], [794061478131102, 854, '6QJ2A'], [155568095559963791, 646, '77288'], [155568097202187923, 989, '6TTJ6'], [30491346730190483229, 524, 'T777T'], [155571233986189193, 22, '34A34'], [11120922926016297, 295, '3A362'], [2177953337828976653, 528, '66967'], [11112117430467281, 297, 'J77K3'], [11112038421076508, 485, '22T7K'], [2177953340167318943, 904, '33J34'], [155568097921118187, 287, '83J38'], [795000150659257, 372, '98KA2'], [794023140596663, 221, '74Q6A'], [30491349549811632969, 348, 'KKK55'], [30491346929107051980, 838, 'QQ222'], [11112017470270615, 342, '7TTQ5'], [426878857062508237601, 640, 'KKK9K'], [426878854210656229831, 405, '22922'], [426878854439936807731, 633, 'QQQTQ'], [11112007106710447, 912, '98T87'], [2177953337809435121, 449, '55357'], [2177953337872119684, 198, '92333'], [426878854210637454785, 470, '76777'], [793748615247597, 849, '48JTK'], [155568106203187425, 321, 'J9779'], [2177953337872182761, 64, '95557'], [2177953348464485287, 605, 'J9299'], [11112137922762971, 578, '2JQK2'], [155568095557847705, 44, '36634'], [155568482502615741, 90, 'TTKKJ'], [2177953338625133203, 190, 'T4666'], [802731689594253, 364, 'TA7K4'], [11112289691675563, 330, '8T85A'], [155568107198143407, 717, 'J92J2'], [11112006845046018, 606, '22945'], [11112106825952239, 561, '756K6'], [793746159161310, 452, '8632K'], [155568226939404321, 365, '747KK'], [11112008643087595, 195, 'T68J6'], [11120933530506847, 587, 'JA454'], [794595646671311, 793, 'QK849'], [793715809619711, 812, '594J8'], [155568095625346042, 970, '92559'], [155568095605025372, 130, '89829'], [793852638321359, 571, 'Q6849'], [155571234459217631, 996, '4TA4T'], [11112073045437463, 846, 'TQ24Q'], [2177953338885493453, 792, 'T8T3T'], [2177986551995002253, 338, 'AA5A7'], [11113006826093393, 325, '553A8'], [11114542401231401, 566, 'KK95J'], [2177953475667863359, 734, 'Q4443'], [793747005876293, 512, 'T923K'], [2177953347896389805, 716, '939Q9'], [11113800200310955, 864, 'K3TJ3'], [793716222725209, 590, '5T9J2'], [426878854210636743991, 644, '22522'], [30491346729339008999, 778, '88444'], [30491346729399237273, 475, '97779'], [11121025283956889, 548, '5AJK5'], [2177954337809371495, 618, '344A4'], [155568096803525643, 508, 'TT252'], [793715208048381, 466, '6T359'], [155580153573421604, 446, '2AA2Q'], [30491359067205288083, 916, 'TAATA'], [155568938953646603, 954, '6K6KJ'], [11124161354383891, 255, '4AAK5'], [155568096416589831, 952, 'T433T'], [11112106880883557, 389, '299K6'], [426878854210636742801, 399, '33343'], [2177957901685556539, 98, 'QJAAA'], [11112089352204593, 601, 'JQ3Q9'], [426878854210706844617, 521, '39999'], [11120923930833101, 847, '8A3J3'], [30491346729434559219, 791, '99339'], [30491346742866671385, 661, 'JTJTT'], [802926291168249, 451, '9AKQT'], [2177953499726739617, 651, '5Q5K5'], [30491346729331196176, 955, '42242'], [155568233416320636, 794, 'Q2266'], [11112114343347305, 227, '5JJK7'], [11112492913091261, 454, 'QQKJ6'], [155568101657593437, 15, 'TJ9T9'], [155570173029883677, 254, 'K4K46'], [2177953892396425013, 213, 'Q9KKK'], [155568233421061799, 786, 'Q8844'], [11112038247276244, 998, '8922K'], [155568106552979121, 617, 'J877J'], [155568095582702490, 412, '77929'], [11115155861436655, 531, 'J8A66'], [30491346729474247881, 513, '555TT'], [795532875876587, 268, 'K6Q49'], [30491346729331234811, 801, '64464'], [30491346732792506889, 523, '99JJ9'], [11113006825660268, 709, '626A7'], [2177962293334399687, 835, '7AQQQ'], [30491350867759628483, 938, '66AA6'], [11112007047737251, 667, '88T56'], [2177956159289806553, 960, 'KKKJ4'], [2177953337846627429, 503, '48999'], [2177953338216279209, 496, '4494J'], [11113799378130097, 391, 'K883J'], [155569123892636493, 119, '2KK99'], [2177953620239627753, 270, '7737A'], [795571213753065, 550, 'KQJ69'], [11113292137760093, 723, '33KA8'], [11112010104019409, 893, 'T3JT9'], [426878854210751877511, 444, '99899'], [793715979491459, 134, 'T847J'], [11112017475903919, 616, 'J9694'], [155572237472977271, 1000, '55AAQ'], [793714816549832, 660, '3742T'], [2177953463746796131, 940, '44QK4'], [426878854242018683441, 773, '7777K'], [426878854212139861675, 923, 'TTT5T'], [30491347585689434145, 150, 'JKJKJ'], [30491347757728768689, 649, '9KK99'], [817018018164969, 2, 'AJ546'], [30491370309911173845, 694, 'A999A'], [11123715086406991, 828, 'KA4A6'], [11121925346702561, 168, '9AJA4'], [426878854220636748641, 353, '555Q5'], [155568097915795281, 426, '64J46'], [11112574666769033, 327, '55KTA'], [30491346729337589531, 747, '86688'], [2177953348419628063, 905, 'J8883'], [155568130141801580, 460, '2JQ2Q'], [793714810866272, 120, '59826'], [793746973030589, 600, 'T843K'], [30491346729331199104, 32, '52252'], [793853636549699, 576, 'Q62J9'], [2177953337812677233, 684, '38777'], [2177953338239352985, 418, '3T433'], [155569383147129347, 772, '4J4AA'], [155568582032759397, 621, 'QQKJJ'], [817012894282133, 815, 'A9637'], [11112109282086041, 74, '99JK3'], [11112009198290417, 349, '35J99'], [11112006891292619, 402, '98334'], [794000089772401, 215, '86K42'], [794000379455031, 930, 'T8J3A'], [11115145295124805, 627, '89A38'], [155568103081426125, 730, '8JJ87'], [11112007641317035, 664, 'T6256'], [11112006828573511, 264, '68445'], [11112006825921667, 858, '47673'], [11135587771198675, 803, 'AT28A'], [11112775776711556, 392, '8KQ28'], [2177953440167318861, 425, '33JK3'], [2177953337843643485, 11, '53999'], [11112008043462883, 59, '68TJ8'], [30491347572340157985, 241, '7K7K7'], [793714778165829, 383, '64379'], [795517148007155, 581, 'K3TQ4'], [11112033580246507, 593, 'T5Q88'], [30491346729331916231, 60, '77474'], [11112290263068341, 252, '887JA'], [426878854210636749751, 852, '44446'], [155568106208143425, 971, 'J9393'], [11120922930847741, 492, '8A633'], [155568095563066751, 589, '74479'], [2177953399726738421, 565, '2Q555'], [426878854215804652819, 407, '8J888'], [794023203213575, 178, '97Q5A'], [793714776254949, 16, '48632'], [794467824686363, 805, '4K6QT'], [426878854272554106923, 106, '3Q333'], [11112008641303399, 17, 'T36J3'], [30491379360209496861, 981, 'AAKKK'], [155600325588115053, 194, 'AAJQQ'], [155568157547924985, 584, '9Q393'], [11112403176492665, 505, 'JTKK9'], [793756796426495, 3, 'J986K'], [2177953624121046401, 285, '55KJ5'], [2177954080825340195, 920, '8K882'], [11115888268132235, 232, '8KA82'], [30491359783927552367, 656, '9AAA9'], [2177953340177318830, 630, '22J92'], [426878854728779559811, 522, 'QQQQA'], [802630874089335, 25, '7A652'], [11112007641314251, 591, 'T4665'], [2177954338882756291, 447, 'T7TAT'], [155568480874617525, 762, '87KK7'], [793853081283909, 493, 'QT967'], [11112171621481039, 580, 'Q3QJ6'], [11135305171082083, 180, 'A8T6T'], [2177953340175664061, 843, '88J58'], [2177956161876590873, 957, 'KKKTQ'], [11112323518290134, 380, '45K2K'], [155568095557812346, 749, '22343'], [2177955130188641479, 963, 'K8T88'], [793725590656463, 48, '3T4QJ'], [794719095258165, 136, 'T59AQ'], [155569272123765861, 487, 'QKKQJ'], [155568096557814705, 283, '353J5'], [793729934806955, 936, '4J8Q5'], [2177953620239627863, 844, '7747A'], [155568095557825754, 992, '52562'], [155568103075578909, 888, '6JJ64'], [11112069135169559, 102, '8Q33J'], [796506936648887, 373, 'K86A4'], [11113006830873473, 572, '747A9'], [11120937017290048, 184, 'JA22Q'], [2177953337845574267, 236, '79333'], [793808134442135, 532, '9Q65K'], [11112011985512227, 234, '4J677'], [817015216424398, 154, 'A2J74'], [155568095625343732, 4, '92339'], [2177953348413929591, 751, 'J3337'], [796853244955979, 248, '67A5T'], [426878881929582764323, 339, 'A8AAA'], [155568412250791299, 413, '37K3K'], [2177953337809430387, 678, '43337'], [155568131557985363, 69, '93QQ3'], [11112808152415111, 346, '5KQJK'], [30491346730411900283, 324, 'T9T99'], [426878854210851167395, 802, '66T66'], [793715213396905, 79, '3T792'], [30491346729331548993, 231, '57575'], [11112018473265305, 715, 'J47JT'], [426878854210636802420, 657, '62666'], [2177953437912895481, 128, '997K9'], [793814987672088, 253, '32TK7'], [11112006898327351, 877, '96294'], [426878854210636802431, 5, '63666'], [11114542004381801, 408, 'KK397'], [2177962254909819763, 97, '4A4J4'], [793852631756867, 146, 'Q4265'], [2177978663690348477, 948, 'AKJAA'], [793751325179927, 263, 'J5Q94'], [426878877509509252435, 575, 'ATTTT'], [793714819387019, 133, '4827T'], [796953206662835, 683, '47AK9'], [793714990686719, 567, '68T47'], [11112354055124294, 445, '2QK28'], [155568097416589668, 607, 'T22JT'], [155568109044645923, 181, '662QQ'], [426878854423899397771, 153, 'QQ6QQ'], [30491346729403944424, 582, '92292'], [11112292597418369, 173, '96K9J'], [155568100732375547, 404, '2J299'], [30491346730189973379, 273, 'T333T'], [2177953340167322285, 362, '25J55'], [802633274725374, 929, '6AJ2T'], [11112749833930922, 710, '5K323'], [155568127037452379, 453, '9944K'], [11135330888719975, 755, 'A9Q49'], [2177953365035555875, 962, 'TTQ5T'], [426878854220636743171, 311, '444Q4'], [426878854210637165887, 176, '76666'], [11112038305208071, 690, '9946K'], [11114552381743241, 471, 'KK3QJ'], [2177976636638840755, 247, 'ATTT6'], [11121022926537715, 112, '2A2K8'], [817016569520051, 692, 'A4T9Q'], [426878854211637582881, 839, '777J7'], [11112007861393433, 206, '595J4'], [30491358784818798323, 629, 'TAATT'], [426878854210636744895, 883, '53333'], [817012977872085, 707, 'A59T6'], [155568095557814598, 906, '44525'], [155568239265022149, 137, 'Q8J8Q'], [11112010009236449, 696, 'T3J93'], [2177953337809630339, 340, '47464'], [2177953348415642073, 907, 'J2822'], [155568111326877249, 196, 'JJ559'], [155568095557816269, 653, '55343'], [2177954090904760481, 674, '9K9Q9'], [2177953377668388643, 211, '8TQQQ'], [11112011985810391, 70, '7J275'], [11112033150404108, 276, '22Q5J'], [2177953337809431845, 129, '66564'], [30491346736908486347, 489, 'TJTJJ'], [426878856877186581631, 409, 'KK6KK'], [794059140644217, 157, '5Q98A'], [426878854210640420033, 857, '78777'], [30491346729331556987, 807, '67667'], [794062012822617, 39, '5QK98'], [795507933656085, 592, 'K35J6'], [794000247694009, 109, '96KT2'], [30491347757651237553, 127, '4KK44'], [793715589006611, 768, 'T6253'], [155568095587910901, 836, '85989'], [30491346729331200779, 299, '55445'], [793715624984295, 121, 'T9736'], [155591676091989093, 950, 'A696A'], [11112017686107163, 668, 'T48QT'], [155568195557847611, 518, '644K6'], [5976303958968424045089, 876, 'JJJJJ'], [11113069601714323, 759, 'TQ6AT'], [2177955904360967041, 260, 'KK83K'], [426878854210637434061, 214, '73777'], [2177954084304579427, 598, '6K66Q'], [794740221163521, 169, '5K39A'], [11112007083092323, 219, '64T7T'], [11112007827329591, 442, '238J2'], [11112015472122940, 203, '4J22Q'], [794852881943243, 291, 'Q9TA6'], [793715592440087, 26, '5T86J'], [793746980044629, 272, 'T439K'], [426878854210636743151, 817, '44244'], [155569887722963987, 459, 'K8844'], [2177955515281496561, 975, 'K5KK7'], [2177976639381323395, 842, 'A666Q'], [793725208136339, 434, '8T6Q7'], [793741098127907, 42, '63Q4J'], [155568096625379087, 637, '966J9'], [11121315960056767, 863, 'JA6KA'], [426878877508721869925, 972, 'A5555'], [426878854211452473381, 745, 'T2222'], [426878889845680326595, 499, 'AAA7A'], [793852684794057, 436, 'Q359T'], [2177980056752407820, 879, 'A2A5A'], [426878854446350024059, 623, 'QQQQ5'], [11113799243358799, 724, 'K4T5T'], [30491370309851612411, 987, 'A888A'], [2177953342969155755, 201, '5J535'], [802730893198329, 123, '5A9K6'], [11112071100870209, 431, '4QJ43'], [11112009571299317, 491, '75J4J'], [11112007829075453, 698, '283J8'], [2177953338883756291, 448, 'T7T8T'], [11112009183612293, 197, '33J76'], [794024140464227, 24, '47QJA'], [2177953338239452835, 951, '2T272'], [155594532072619307, 142, 'A7A87'], [155568106476670499, 540, 'J3TT3'], [30491346736848924297, 961, '4JJ44'], [11113806503690105, 478, 'KJJ63'], [155568131562768312, 278, '92QQ9'], [426878854216969659331, 192, 'TJTTT'], [794006060977269, 307, 'TJK68'], [30491346729331705809, 290, '37773'], [2177953563622658371, 126, 'QQQT6'], [2177953510261852339, 401, 'QJQ9Q'], [794282514461391, 186, '24K3A'], [11112010317169501, 820, '8443Q'], [11112006835559373, 56, '33592'], [793714797816966, 497, '87923'], [11112013917002525, 632, 'TTJ8Q'], [2177953348413872165, 934, 'J4544'], [426878854953645173107, 474, '6K666'], [2177953337812403573, 739, '68566'], [426878881929579778483, 669, 'A4AAA'], [30491346729388409051, 139, '89899'], [793814778081107, 596, '842K3'], [155574026146585439, 429, 'K5AA5'], [30491346729338796731, 599, '85885'], [155568095598690249, 437, '59779'], [11135305298111009, 779, 'A336J'], [155569096803524661, 366, 'TT3A3'], [11112315255616447, 261, '97Q7A'], [2177953337824197977, 545, '83393'], [155568259396806131, 974, 'Q6Q6T'], [793715375282360, 890, '37T2J'], [426878854210639728683, 58, '38333'], [2177953337812416172, 363, '28227'], [30491346730791283763, 33, 'TTT66'], [426878854210636742700, 468, '32333'], [11135305128027091, 824, 'A8T55'], [426878854210652109979, 435, '88889'], [2177955221311338409, 385, 'KQQ3Q'], [11112007642324843, 318, 'T6685'], [794458169218569, 202, '5K76J'], [426878854210637435777, 99, '75777'], [155568095557832325, 55, '53566'], [2177953625409800885, 481, 'TTKJT'], [793715783114085, 551, '875J9'], [155569095558032637, 947, '447A7'], [2177953338939519788, 147, 'T2TT7'], [11112007641456351, 810, 'T2726'], [426878854212025516435, 856, 'TT6TT'], [11112892198692125, 27, 'QK9JQ'], [817016347191419, 897, 'A786Q'], [426878854212994690841, 542, '44J44'], [793741776413255, 189, '98QJ3'], [2177953348414402315, 89, 'J4448'], [30491346896617882739, 417, 'Q8Q8Q'], [793714809188279, 57, '59473'], [426878854496061776561, 148, '99K99'], [11113007213027803, 361, '662AJ'], [426878854211424501247, 994, '7TTTT'], [793714997692811, 36, '26T97'], [802630927135055, 746, '7A69T'], [11113009246256681, 516, '95JA5'], [11112051205896497, 886, 'J9J8K'], [2177953337809622195, 358, '57333'], [794009990720181, 881, '4TJQA'], [793715589532676, 151, 'T5628'], [796853206786128, 205, '72A59'], [2177954218676553773, 249, 'QK777'], [11112006835182679, 397, '84649'], [11112007865903011, 761, 'T7T96'], [11115159170701003, 378, '4TAQQ'], [155568095557912451, 494, '24274'], [2177955266510605145, 845, 'KJ3KK'], [30491346730620216093, 384, 'TT77T'], [30491346734885995115, 722, '8J88J'], [817012958378038, 880, 'A25T4'], [426878854210646868451, 861, '88868'], [11112270621476195, 502, 'Q5QK2'], [155568095557814157, 267, '35344'], [155571170203061721, 777, 'K99AA'], [793715203336581, 903, '2T375'], [2177953341297927511, 891, '4484Q'], [11115448290956575, 67, 'J8AQA'], [793857792159117, 935, 'QJ578'], [155568096473850827, 482, 'T72T7'], [802756811660639, 973, '5AQK8'], [11116146074448439, 848, 'T3AA9'], [11112010618373261, 165, '8TJJ7'], [11112009191419229, 322, '88J75'], [155568379021424291, 54, 'T8T8A'], [793714836004086, 956, '93524'], [11112010572533107, 458, '29T9Q'], [155568095557961523, 647, '66272'], [30491346805765434131, 681, 'TQTQQ'], [793715792769958, 483, '629J4'], [2177953337852638205, 708, '6676T'], [2177953400018625727, 704, '9QT99'], [2177953337829294749, 942, '67977'], [2177953338809962541, 808, '737J7'], [793746972065867, 865, 'T785K'], [2177966392338567487, 943, '7AAA4'], [2177953364143029019, 619, '88Q8J'], [11112887692445203, 91, 'QK663'], [793715223672093, 818, '9734J'], [2177953348771276255, 895, 'J4TTT'], [2177962253910823649, 80, '5A585'], [426878854219546717997, 159, '8JJJJ'], [793715214138575, 170, '7T298'], [155568378048494493, 140, '8998A'], [2177953339155084885, 266, 'TT5T2'], [426878854210636743199, 53, '44443'], [2177953337809634225, 439, '57565'], [793998028684125, 317, 'T579A'], [2177977944261456427, 235, 'A5QAA'], [155591676072507563, 84, 'A665A'], [155568096557812246, 766, '223J3'], [794715976426101, 741, 'T63AJ'], [794000095012366, 760, '62K97'], [155568259356714677, 538, 'Q8Q33'], [2177976635913984245, 293, 'A5955'], [426878855380942342937, 86, 'JKKKK'], [30491346729339540140, 10, '88228'], [11112007825880551, 93, '376J7'], [11112006868976173, 535, '7343T'], [155570234947241277, 882, 'KQK44'], [2177956158289913033, 395, 'KKK76'], [155568127011620352, 526, '9229K'], [11112018430609577, 320, 'J63J8'], [2177977053017205533, 104, 'ATKKK'], [155568098831490861, 850, 'T4JT4'], [155571516461928527, 780, '79A9A'], [2177986551994956523, 387, 'AA6A3'], [802630873732393, 889, '6A542'], [155568095557814223, 228, '45242'], [795515580374985, 369, 'KJ75Q'], [11112007044702065, 41, '52T29'], [11135304965999558, 309, 'A9924'], [11135304913232341, 925, 'A7838'], [793715161923477, 229, '2738J'], [426878854210636752660, 782, '22262'], [30491371309845857925, 144, 'A55AA'], [426878854210637582882, 88, '77727'], [155568095562668661, 188, '86556'], [2177953337809392271, 997, '46443'], [426878854211636813155, 900, '666J6'], [2177953337927980073, 12, '99968'], [155580150154168787, 927, '9AA49'], [426878854210639788403, 467, '68666'], [794000085468394, 750, '52K68'], [2177953342973934491, 498, '3J339'], [155568095557827137, 304, '43634'], [794006060442489, 585, 'TJK46'], [2177953337809372667, 511, '43533'], [2177953337809375891, 537, '55245'], [11112292560480947, 765, '39K3J'], [11112009183537077, 937, '65J54'], [793715204252759, 594, '5T684'], [11112032763082700, 868, '22Q74'], [30491346729331199363, 871, '25255'], [155568097202155727, 797, '5TTJ5'], [793999623586845, 784, '93J7A'], [2177988700423850035, 357, 'AAAQ8'], [2177953342969742882, 968, '7J727'], [426878854210851102031, 821, '44T44'], [155568095558433699, 608, '77533'], [11113886841740887, 547, 'KQQ83'], [426878854210637113953, 680, '72222'], [30491350150189109519, 406, '44A4A'], [793746194972382, 222, '8932K'], [2177955904369196801, 874, 'KK59K'], [155568195558432551, 92, '774K4'], [30491346729396514885, 570, '29992'], [426878854211024163191, 620, '3333J'], [30491346729377027745, 506, '39393'], [2177953337810003633, 892, '74773'], [793725609252309, 208, 'T79Q8'], [426878854212139860685, 885, 'TTT3T'], [2177953845953188291, 374, 'QQQ8A'], [426878854210759693121, 360, '99979'], [793714852148315, 872, '2965T'], [2177986552382377003, 96, 'AA6AJ'], [11112106833326993, 826, '383K9'], [155568412680995433, 685, '7TK7K'], [11112011985529709, 979, '6J755'], [30491346827185984731, 706, '2QQQ2'], [426878854212139860775, 525, 'TTT4T'], [11112749834158817, 699, '3K767'], [11112009572299217, 639, '75J8J'], [11113901773881449, 743, 'KTJK3'], [11112006904968890, 308, '7972T'], [2177953337810092601, 143, '77573'], [793756758814468, 286, 'J253K'], [794062819020429, 316, 'TQK85'], [793997202820198, 193, '6235A'], [155568095702630531, 393, '338TT'], [11112017961811375, 352, 'JT8T5'], [155577305692296455, 984, 'JA4JA'], [802667416632935, 737, 'JAQ86'], [11112007324072529, 306, '9T589'], [2177955174553754527, 424, 'KJQQQ'], [155568428114822169, 964, 'JJKTK'], [155568239791017861, 783, 'QTJTQ'], [2177953342969201252, 289, '6J626'], [2177953363746795884, 131, '24Q22'], [11121343428394483, 919, 'QAT5A'], [11112038208427891, 702, '6486K'], [11112145114041763, 288, 'QT464'], [817012877984533, 841, 'A6972'], [30491346877249789701, 977, 'Q99Q9'], [155568103075540545, 209, '4JJ43'], [155572233986769683, 910, '66AA8'], [11112154727096719, 806, 'Q34QT'], [11112150531768041, 472, 'Q8J4Q'], [155568095783343465, 932, '979TT'], [30491373448278217571, 204, 'A8A8A'], [802634423235429, 382, '9A34Q'], [794135503035731, 713, 'QT89A'], [30491346808697791593, 427, 'JQJJQ'], [155568126944698665, 978, '8338K'], [426878854210964464831, 913, '99T99'], [2177962253909848255, 257, '6A444'], [2177954212198802933, 45, '4K5KK'], [426878854495948418921, 217, '55K55'], [155569887722980367, 915, 'K8866'], [11112006825718566, 771, '42577'], [155568095557825533, 725, '45564'], [11113148385193148, 433, 'Q2TAQ'], [11116283148264955, 258, 'Q9AA6'], [794714778262749, 117, '867A3'], [2177976635945269445, 95, 'A9799'], [2177953337810535065, 344, '74778'], [155591393643154807, 410, 'A2727'], [426878854210643402935, 626, '78888']]
+Now printing all of the hands in order of importance: 
+27648
+32845
+48632
+62359
+64379
+87923
+49632
+59473
+59826
+3742T
+4827T
+93524
+2965T
+68T47
+83T62
+26T97
+2738J
+3587J
+2T375
+5T684
+6T359
+3T792
+7T298
+9734J
+37T2J
+T6253
+T5628
+T6587
+5T86J
+T9736
+875J9
+629J4
+594J8
+T847J
+5T9J2
+38J65
+92J48
+T4J65
+T293Q
+24J8Q
+627Q8
+8T6Q7
+J6793
+3T4QJ
+T79Q8
+J745Q
+4J8Q5
+87Q42
+63Q4J
+39QJ6
+98QJ3
+8632K
+8932K
+9854K
+T785K
+T843K
+T439K
+T923K
+48JTK
+J5Q94
+374QK
+J253K
+J986K
+9Q524
+J5Q4K
+J9Q7K
+JQ537
+JQ687
+JQ798
+9Q65K
+768K3
+842K3
+32TK7
+5T8K2
+92JKT
+JQ39K
+Q4265
+Q6849
+Q365T
+Q359T
+Q5T46
+QT398
+QT967
+Q82TJ
+Q62J9
+QJ578
+TQJK6
+Q47K8
+Q78KJ
+6235A
+T579A
+93J7A
+52K68
+86K42
+62K97
+96KT2
+T8J3A
+93K5J
+TJK46
+TJK68
+4TJQA
+49KQ7
+74Q6A
+97Q5A
+47QJA
+5Q98A
+6QJ2A
+5QK98
+TQK85
+924KA
+T58KA
+QT89A
+24K3A
+34K8A
+2K637
+7K485
+5K76J
+3KJ96
+4K6QT
+9KQ43
+QK849
+326A7
+827A5
+867A3
+63TA5
+65TA8
+T63AJ
+T59AQ
+5K39A
+9K75A
+25QA7
+Q9TA6
+98KA2
+K4982
+K274T
+K4T28
+K35J6
+K9J46
+KJ75Q
+K3TQ4
+K6Q49
+KQJ69
+K93JA
+K86A4
+K92AJ
+K2QA9
+65A78
+72A59
+67A5T
+28A6T
+76A8J
+T8A36
+28A4Q
+J8AQ4
+62A5K
+4QA89
+47AK6
+47AK9
+TKAQ5
+6A542
+7A652
+7A69T
+TA549
+6AJ2T
+9A34Q
+JA738
+3A57K
+JAQ86
+5A9K6
+TA7K4
+5AQK8
+QA4K9
+6AKT5
+9AKQT
+KA74Q
+A5238
+A6972
+A9637
+A25T4
+A59T6
+AT296
+A2J74
+A786Q
+A4T9Q
+AJ546
+A26Q7
+A7TQ9
+A72KQ
+AQ3K9
+A3K86
+42577
+47673
+74234
+36238
+26852
+75845
+58356
+68445
+37369
+84649
+33592
+57297
+22945
+7343T
+98334
+96294
+7972T
+42T34
+53T65
+52T29
+88T56
+64T7T
+98T87
+5754J
+7262J
+7375J
+5998J
+9729J
+9T589
+977TJ
+2TT39
+T4665
+T6256
+T2726
+T6685
+T9926
+T76T8
+376J7
+238J2
+283J8
+595J4
+T7T96
+894J9
+992J3
+979JT
+T676J
+68TJ8
+92TJ2
+597JJ
+4T5J4
+T36J3
+T68J6
+T89J9
+65J54
+33J76
+84J34
+57J79
+88J75
+35J99
+75J4J
+75J8J
+2TJ52
+T3J93
+T3JT9
+2554Q
+8443Q
+3998Q
+29T9Q
+8TJJ7
+5J523
+4J266
+4J677
+6J755
+7J275
+3J8T8
+8J26J
+TTJ8Q
+7JJ49
+4J22Q
+328Q2
+384Q3
+J5859
+7TTQ5
+J9694
+J9976
+T48QT
+J89TJ
+JT8T5
+J63J8
+J47JT
+4TJQJ
+T65QQ
+22Q74
+37Q87
+35Q95
+22Q5J
+T5Q88
+T7Q7J
+26QJQ
+2JQ2T
+6486K
+5878K
+8922K
+9946K
+22T7K
+J9J8K
+9Q484
+8Q33J
+3Q99J
+4QJ43
+TQ24Q
+TQ8JQ
+4Q9Q5
+JQ85Q
+JQ3Q9
+4QQ53
+TQQ4J
+756K6
+383K9
+299K6
+T84KT
+4TTKJ
+99JK3
+5JJK7
+J77K3
+33QKJ
+2JQK2
+Q4743
+Q9928
+Q8TT5
+QT464
+Q9JJ8
+Q8J4Q
+Q38Q9
+Q34QT
+Q5QJ4
+Q3QJ6
+Q5QK2
+3367A
+8T85A
+887JA
+TT49A
+48K28
+73K3T
+27K2J
+39K3J
+96K9J
+T8K58
+T6KTQ
+J2K77
+JTK4J
+J5KJ8
+97Q7A
+45K2K
+4Q55A
+2QK28
+JTKK9
+QQKJ6
+55KTA
+5K323
+2K372
+3K767
+9K829
+9K3Q3
+8KQ28
+7KQQ4
+5KQJK
+6KJK2
+QK663
+QK9JQ
+626A7
+553A8
+747A9
+947A9
+662AJ
+95JA5
+3J7A7
+7J7A5
+68QA8
+TQ6AT
+Q2TAQ
+56JAA
+33KA8
+K6286
+K2799
+K57T7
+K4T5T
+K883J
+K3TJ3
+K7J57
+KJJ63
+KQ688
+KQQ83
+KTJK3
+KK852
+KK397
+KK95J
+KK3QJ
+53A99
+89A38
+T7AJ7
+J8A44
+J8A66
+T2AQ2
+4TAQQ
+J6A6Q
+J8AQA
+J8AKA
+8KA82
+T3AA9
+26AAK
+Q9AA6
+3A362
+5A635
+8A633
+7A987
+8A3J3
+JA454
+JA22Q
+2A3K2
+3A6K6
+2A2K8
+5AJK5
+9A36A
+JA6KA
+QAT5A
+QAK7K
+9AJA4
+KA4A6
+8AAT7
+TAAQ2
+4AAK5
+A2353
+A7838
+A9924
+A44T6
+A8T55
+A8T6T
+A336J
+ATJ4T
+A9Q49
+A3QJ3
+A478A
+AT28A
+AK3K4
+A3A5Q
+A3AK8
+AA4JQ
+22343
+34422
+35344
+45242
+44525
+55343
+45564
+52562
+43634
+53566
+36634
+66545
+24274
+66272
+23773
+76633
+75725
+77533
+77262
+42288
+77288
+48664
+86556
+74479
+86585
+34394
+42924
+77929
+85989
+59779
+49489
+89829
+5885T
+94664
+92339
+92559
+97947
+266TT
+338TT
+979TT
+64T4T
+66T4T
+4499J
+2T828
+4T94T
+T8833
+T433T
+T9922
+T72T7
+223J3
+442J2
+353J5
+T6T69
+966J9
+TT252
+TT388
+5TTJ5
+6TTJ6
+T22JT
+64J46
+66J55
+37J73
+83J38
+46J4J
+T4JT4
+2J299
+5J25J
+TJ9T9
+4JJ43
+6JJ64
+8JJ87
+4J4JQ
+J9779
+J9393
+9TTQ9
+J3TT3
+J8TT8
+J877J
+J92J2
+J9J44
+662QQ
+399QQ
+JJ559
+J22QJ
+82Q82
+44Q3Q
+33QJQ
+8338K
+9229K
+9944K
+2JQ2Q
+93QQ3
+92QQ9
+J8Q8J
+9Q393
+4Q99Q
+9Q9JQ
+JQJQ2
+644K6
+774K4
+747KK
+Q2266
+Q8844
+J22KK
+J88KK
+Q8J8Q
+QTJTQ
+Q6Q77
+Q8Q33
+Q6Q6T
+QQ282
+8998A
+T77TA
+T8T8A
+22K88
+33KJJ
+37K3K
+97K9K
+7TK7K
+77KJK
+JJKTK
+87KK7
+55KKJ
+TTKKJ
+QQKJJ
+8K38K
+6K6KJ
+3KJK3
+447A7
+TT3A3
+2KK99
+QKKQJ
+99JAA
+4J4AA
+8J8AA
+J6JAA
+K5335
+K8844
+K8866
+K99KT
+K3K44
+K4K46
+K3K77
+K9K33
+KQK44
+KK233
+KK667
+K33AK
+K99AA
+34A34
+99A66
+4TA4T
+79A9A
+7JA7A
+5QAQA
+66AA8
+55AAQ
+K5AA5
+KKAJA
+4A422
+6A565
+9A9QA
+JA4JA
+TATKA
+KAKA6
+7AA22
+9AA49
+2AA2Q
+QAAQT
+A2727
+A665A
+A696A
+A399A
+A55JA
+A2J2A
+A77AQ
+A7A87
+AA788
+AAJQQ
+43533
+32555
+55245
+55453
+22526
+46443
+62224
+43337
+66564
+55357
+57333
+47464
+57565
+72444
+72767
+74773
+75776
+77573
+74778
+52822
+68566
+68662
+28227
+38777
+34449
+83222
+83323
+85535
+85557
+87858
+85886
+88843
+83393
+66967
+67977
+88986
+53999
+79333
+48999
+4447T
+6676T
+39699
+92333
+95557
+688T8
+99968
+83T33
+5556J
+7774J
+4494J
+3T433
+2T272
+4T944
+T2226
+T4666
+T6636
+T9777
+737J7
+777J8
+T7T8T
+T8T3T
+T2TT7
+TT5T2
+TTT53
+32J22
+33J34
+25J55
+48J88
+88J58
+22J92
+88J8T
+4484Q
+54JJJ
+5J535
+6J626
+7J727
+3J339
+8J887
+8J898
+939Q9
+J4544
+J6466
+J3337
+J4448
+J2822
+J8868
+J8883
+J9299
+J9993
+J4TTT
+TT7QT
+J3J9J
+TTJQT
+J222Q
+24Q22
+36Q66
+44Q74
+88Q8J
+TTQ5T
+666TK
+8TQQQ
+3Q335
+2Q555
+9QT99
+3Q7QQ
+2QQJQ
+229K2
+997K9
+33JK3
+44QK4
+Q4443
+QTTT6
+Q7J77
+QJ666
+Q35QQ
+Q7JQQ
+5Q5K5
+QJQ9Q
+5QQKQ
+QQQ79
+QQQ9T
+QQQT6
+7737A
+7747A
+5999A
+66T6A
+666JA
+888JA
+55KJ5
+TTKJT
+QQ9KQ
+QQQ8A
+Q9KKK
+5K355
+7K737
+8K882
+6K66Q
+9K9Q9
+4K5KK
+9K7KK
+QK777
+QKQ8Q
+344A4
+755A5
+T7TAT
+55JA5
+K2252
+K4446
+K8T88
+KT999
+KJ777
+KJJ6J
+KJQQQ
+KQQ3Q
+KJ3KK
+KJK9K
+K3KK5
+K5KK7
+KK83K
+KK59K
+KK4KT
+KKK76
+KKKJ4
+KKKJ7
+KKKTQ
+4TAAA
+Q6AAA
+QJAAA
+6A444
+5A585
+4A4J4
+7AQQQ
+KAKK8
+KAKK9
+7AAA4
+2AAAJ
+4AAAJ
+JAAA8
+A5955
+A9799
+ATTT6
+A666Q
+AJTTT
+ATKKK
+A5QAA
+AKJAA
+A2A5A
+A3AJA
+AKA5A
+AA65A
+AA5JA
+AA6A3
+AA5A7
+AA6AJ
+AAA59
+AAAQ8
+32223
+23332
+33434
+42242
+52252
+25255
+53535
+55445
+26266
+64464
+65566
+63636
+57575
+67667
+73337
+37773
+77474
+66868
+38338
+85558
+86688
+85885
+88222
+88444
+88228
+39393
+59595
+89899
+29992
+97779
+92292
+99339
+99966
+555TT
+2T22T
+T333T
+T777T
+T888T
+T44T4
+T99TT
+T9T99
+TT77T
+333JJ
+TTT66
+99JJ9
+5J55J
+8J88J
+4JJ44
+TJTJJ
+J22J2
+JTJTT
+JJ666
+JJ777
+JJJ22
+6Q66Q
+TQTQQ
+JQJJQ
+2QQQ2
+Q99Q9
+QJJQQ
+QTQTT
+Q8Q8Q
+QQ222
+QQ99Q
+TTKTK
+7K7K7
+JKJKJ
+JKJKK
+4KK44
+9KK99
+K88KK
+K6KK6
+KK33K
+KKK55
+44A4A
+55A5A
+66AA6
+JAJAA
+TAATT
+TAATA
+9AAA9
+A888A
+A999A
+A44AA
+A55AA
+A8A8A
+AAJJJ
+AAKKK
+AAA22
+23222
+32333
+33343
+44244
+44443
+22522
+44454
+53333
+44446
+22262
+55655
+63333
+62666
+63666
+66664
+72222
+74444
+76666
+73777
+75777
+76777
+77727
+55585
+38333
+68666
+78777
+78888
+88588
+88868
+88889
+22922
+39333
+69666
+39999
+95999
+99899
+99929
+99979
+99994
+99996
+44T44
+66T66
+99T99
+3333J
+5T555
+2TTTT
+7TTTT
+T2222
+666J6
+777J7
+TT6TT
+TTT3T
+TTT4T
+TTT5T
+TTTT9
+22J22
+44J44
+99J99
+8J888
+TJTTT
+8JJJJ
+444Q4
+555Q5
+J5555
+7777K
+3Q333
+QTTTT
+Q8QQQ
+QQ6QQ
+QQJQQ
+QQQTQ
+QQQQ3
+QQQQ5
+55K55
+99K99
+QQQQA
+3K333
+6K666
+8KKKK
+TKKKK
+JKKKK
+KK6KK
+KKK5K
+KKK7K
+KKK9K
+KKKK4
+33A33
+7A777
+KAAAA
+A4444
+A5555
+ATTTT
+A4AAA
+A8AAA
+AA2AA
+AAJAA
+AAA7A
+JJJJJ
+Result: 251948285
