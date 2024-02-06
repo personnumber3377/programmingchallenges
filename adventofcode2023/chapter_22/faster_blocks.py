@@ -21,14 +21,26 @@ class Brick:
         self._supporting = None
         self._is_supported_by = None
 
+        # Get the lowest and highest points.
+        self.update_highest()
+        self.update_lowest()
+
+    def update_highest(self) -> None:
+        self.highest = max(self.pos1[UP_COORD], self.pos2[UP_COORD])
+
+    def update_lowest(self) -> None:
+        self.lowest = max(self.pos1[UP_COORD], self.pos2[UP_COORD])
+
     def on_ground(self) -> bool:
         return self.lowest_point() == 1
 
     def highest_point(self):
-        return max(self.pos1[UP_COORD], self.pos2[UP_COORD])
+        #return max(self.pos1[UP_COORD], self.pos2[UP_COORD])
+        return self.highest
     
     def lowest_point(self):
-        return min(self.pos1[UP_COORD], self.pos2[UP_COORD])
+        #return min(self.pos1[UP_COORD], self.pos2[UP_COORD])
+        return self.lowest
 
     def is_level_below(self, other) -> bool:
         return self.highest_point() == other.lowest_point()-1
@@ -126,6 +138,8 @@ def drop_bricks(bricks: list) -> list:
                 highest_point = max(highest_point, lower.highest_point()+1) # Update the current highest point.
         if falling.lowest_point() > highest_point: # Check if we need to move the brick.
             falling.drop(falling.lowest_point() - highest_point) # Move the brick by the difference.
+            falling.update_highest()
+            falling.update_lowest()
 
     # Now sort the bricks again by their lowest point. This needs to be done, because the positions of the bricks have changed.
     bricks.sort(key=lambda x: x.lowest_point())
