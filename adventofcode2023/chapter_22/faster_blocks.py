@@ -20,6 +20,7 @@ class Brick:
         self.above_bricks = set()
         self._supporting = None
         self._is_supported_by = None
+        self.under_dict = dict()
 
         # Get the lowest and highest points.
         self.update_highest()
@@ -60,28 +61,35 @@ class Brick:
         return not (r1[1] < r2[0] or r1[0] > r2[1])
 
     def is_under(self, other) -> bool: # Check for x and y overlap.
-        x_overlap, y_overlap, _ = self.overlaps(other)
-        return x_overlap and y_overlap
+        x1, y1, _ = self.pos1
+        x2, y2, _ = self.pos2
+
+        x3, y3, _ = other.pos1
+        x4, y4, _ = other.pos2
+        dict_input = tuple((x1,y1,x2,y2,x3,y3,x4,y4))
+        if dict_input not in self.under_dict:
+            x_overlap, y_overlap = self.overlaps(other)
+            res = x_overlap and y_overlap
+            self.under_dict[dict_input] = res
+            return res
+        return self.under_dict[dict_input]
 
     def overlaps(self, other) -> bool:
-        x1, y1, z1 = self.pos1
-        x2, y2, z2 = self.pos2
+        x1, y1, _ = self.pos1
+        x2, y2, _ = self.pos2
         x_r1 = (min(x1,x2), max(x1,x2))
         y_r1 = (min(y1,y2), max(y1,y2))
-        z_r1 = (min(z1,z2), max(z1,z2))
 
-        x3, y3, z3 = other.pos1
-        x4, y4, z4 = other.pos2
+        x3, y3, _ = other.pos1
+        x4, y4, _ = other.pos2
 
         x_r2 = (min(x3,x4), max(x3,x4))
         y_r2 = (min(y3,y4), max(y3,y4))
-        z_r2 = (min(z3,z4), max(z3,z4))
 
         overlap_x = self.ranges_overlap(x_r1, x_r2)
         overlap_y = self.ranges_overlap(y_r1, y_r2)
-        overlap_z = self.ranges_overlap(z_r1, z_r2)
 
-        return (overlap_x, overlap_y, overlap_z)
+        return (overlap_x, overlap_y)
 
     def drop(self, amount=1) -> None:
         self.pos1[2] -= amount
